@@ -8,12 +8,6 @@ to access public releases.
 ## Current status
 
 The current public installer is [The House of the Dead 2 0.1.3](https://github.com/jacobm36/momentum-distribution/releases/tag/the-house-of-the-dead-2-0.1.3).
-It restores the original HOD2 icon by **t00ny**, via
-[SteamGridDB](https://www.steamgriddb.com/profile/76561199032730738/icons/1).
-Installer code and documentation are MIT licensed; third-party artwork is excluded.
-The package records attribution and the project owner's approved distribution basis
-under SteamGridDB's user-content terms. This is not a claim of separate creator
-permission or unrestricted rights to underlying game artwork.
 Old installer ZIP downloads have been withdrawn; use 0.1.3.
 
 The updated Momentum launcher uses **Add game** to select HOD2 and download this
@@ -28,18 +22,16 @@ Manual release downloads remain available under **Add game > Advanced > Import a
 - Target: Ubuntu 24.04 x86_64; user-scope Flycast v2.7 commit
   `86ec4d845a66ff07cdba8e003d8549e93cd7a814b519766e1f744e530c5d3e5b`.
 - Installer executable code is byte-identical to the isolated gameplay-tested
-  0.1.1 baseline. This artwork/documentation revision passed package and synthetic
+  0.1.1 baseline. Version 0.1.3 passed package and synthetic
   launcher integration tests; it does not claim a separate gameplay run or
   fresh-machine certification.
-- Users must confirm gameplay for their own installation. Existing custom artwork
-  and Steam lookup remain available in the launcher editor. Installation does not
-  download third-party artwork.
+- Users must confirm gameplay for their own installation.
 
 ## Catalog backend
 
 `catalog.json` is the small public catalog consumed by the launcher. Each game
 identifies one fixed GitHub Release ZIP, its byte size, ZIP SHA-256, canonical
-package digest, platform and attributed card artwork. No account or hosted
+package digest and platform. No account or hosted
 application server is required. Package code is never executed from this branch.
 Only the release ZIP is installed after validation and explicit user approval.
 
@@ -56,7 +48,7 @@ development history.
 
 Before each publication:
 
-- Verify redistribution rights for all bundled code, settings, and artwork.
+- Verify redistribution rights for all bundled content.
 - Check the complete package for personal data and secrets.
 - Run package tests and launcher intake validation.
 - Publish a fixed version through GitHub Releases, with its ZIP SHA-256 and
