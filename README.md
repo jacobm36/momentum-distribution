@@ -7,6 +7,19 @@ to access public releases.
 
 ## Current status
 
+Choose your next arcade run:
+
+| Game | Installer | Bring your own |
+|---|---|---|
+| [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | 0.1.3 | USA CUE and matching BIN tracks |
+| [Virtua Cop 2](games/virtua-cop-2/README.md) | 0.1.0 | Japan GDI and all 39 tracks |
+| [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | 0.1.0 | `swtrilgy.zip`, kept zipped |
+| [L.A. Machineguns](games/l-a-machineguns/README.md) | 0.1.0 | Japan `lamachin.zip`, kept zipped |
+
+The three new installers pass isolated installation checks; gameplay confirmation
+is still required for each user's setup. Read the game page for display/control
+limits. No game files are included.
+
 The current public installer is [The House of the Dead 2 0.1.3](https://github.com/jacobm36/momentum-distribution/releases/tag/the-house-of-the-dead-2-0.1.3).
 Old installer ZIP downloads have been withdrawn; use 0.1.3.
 
@@ -37,7 +50,7 @@ Only the release ZIP is installed after validation and explicit user approval.
 
 When publishing a newer package, add a new release and update its catalog record
 only after verifying the downloadable asset and exact hashes. Never replace
-published bytes. The initial catalog contains HOD2 only; accounts, ratings and
+published bytes. Accounts, ratings and
 automatic updates are out of scope.
 
 ## What belongs here
