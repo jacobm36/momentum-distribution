@@ -2,6 +2,22 @@
   "catalog_version": 1,
   "games": [
     {
+      "id": "brutal-doom-64",
+      "version": "0.1.0",
+      "name": "Brutal Doom 64",
+      "description": "Back to the nightmare. The complete four-file mod is included; bring your folder containing DOOM2.WAD. Gameplay confirmation required.",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/brutal-doom-64.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/brutal-doom-64-0.1.0/brutal-doom-64-0.1.0.zip",
+      "sha256": "85e7add69494bfdd59980ddf1570f651e22aabd3b2a74fb59b0273e0eda3d544",
+      "digest": "sha256:56b890f11e4a040e560db9aa90c927172b24f5a367674e36922c500fb2db1d32",
+      "size": 210146360,
+      "platform": {
+        "os": "ubuntu",
+        "releases": ["24.04"],
+        "architectures": ["x86_64"]
+      }
+    },
+    {
       "id": "quake-slave-zero-x",
       "version": "0.1.0",
       "name": "Quake - Slave Zero X: Episode Enyo",
