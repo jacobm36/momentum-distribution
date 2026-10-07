@@ -13,3 +13,9 @@ are the owner's supplied `Vc2.png`, `swta.png` and `LAMG.png`, respectively.
 The owner identified them as SteamGridDB artwork and explicitly authorized
 distribution for this batch. Individual creators/image URLs were not supplied;
 no attribution identity is invented. The same exclusion from the code license applies.
+
+`quake-slave-zero-x.png` is the owner's supplied SlaveZeroX icon, unchanged
+from the supplied Episode Enyo package. Creator details were not supplied;
+none are invented. It is excluded from the installer-code MIT license.
+Mod provenance and upstream credits are recorded separately in
+`games/quake-slave-zero-x/THIRD-PARTY.md`.

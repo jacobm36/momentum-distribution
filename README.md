@@ -15,10 +15,12 @@ Choose your next arcade run:
 | [Virtua Cop 2](games/virtua-cop-2/README.md) | 0.1.0 | Japan GDI and all 39 tracks |
 | [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | 0.1.0 | `swtrilgy.zip`, kept zipped |
 | [L.A. Machineguns](games/l-a-machineguns/README.md) | 0.1.0 | Japan `lamachin.zip`, kept zipped |
+| [Episode Enyo](games/quake-slave-zero-x/README.md) | 0.1.0 | Quake folder with both `id1` PAKs; complete mod included |
 
-The three new installers pass isolated installation checks; gameplay confirmation
+The new installers pass isolated installation checks; gameplay confirmation
 is still required for each user's setup. Read the game page for display/control
-limits. No game files are included.
+limits. Commercial base-game data, ROMs and BIOS files are not included;
+Episode Enyo includes its complete distributable mod.
 
 The current public installer is [The House of the Dead 2 0.1.3](https://github.com/jacobm36/momentum-distribution/releases/tag/the-house-of-the-dead-2-0.1.3).
 Old installer ZIP downloads have been withdrawn; use 0.1.3.
@@ -56,7 +58,8 @@ automatic updates are out of scope.
 ## What belongs here
 
 Only approved, redistributable installer ZIPs and their public release information.
-No game data, ROMs, BIOS files, personal configuration, credentials, or private
+Complete approved mod payloads can accompany their installer. No commercial
+base-game data, ROMs, BIOS files, personal configuration, credentials, or private
 development history.
 
 Before each publication:
@@ -69,5 +72,5 @@ Before each publication:
 - Describe the tested platform and compatibility limits honestly.
 - Never replace a published version with changed bytes; issue a new version.
 
-Private development remains separate. Users provide their own game data locally.
+Private development remains separate. Users provide their own required base-game data locally.
 Public availability is not a substitute for package validation or installation approval.
