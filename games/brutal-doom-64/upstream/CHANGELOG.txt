@@ -1,0 +1,35 @@
+Version 1c QFIX
+- Fixed bug causing cyberdemon rockets to fly through the player.
+
+Version 1c (November 3 2016)
+- Fixed a bug introduced in 1b that would make the SSG alt fire consume no ammo.
+- Fixed a bug causing berserk fists to not explode some enemies.
+- Added a new death animation for Zombies, Imps, and Pinkies when killed with the chainsaw or BFG.
+- Now when playing on multiplayer co-op, rockets and plasma balls will fly through friendly players.
+- Increased plasmagun fire rate.
+- All maps adjusted to be broken by jumping or crouching.
+
+version 1b (November 3 2016)
+- Now this version will work on Zandronum 2.0, GZDoom, Zandronum 3.0. Whatever you want.
+- Added hitboxes for the heads of zombies and imps.
+- Revamped pistol, better sound effect, more damage, less fire rate.
+- Revamped Chainsaw. 3x more damage, consumes ammo.
+- Added a new system to make flares on lamps look much better.
+- Re-imported all textures from D64 Absolution in .png format. All textures are looking better now (you will notice it right after you launch it, as you will notice that the flames on the background are much better now). 
+- Added several new sound effects.
+- Fixed desynced plasmagun projectile.
+- Replaced song files with Absolution's versions, to make the download size smaller.
+- Fixed several maps crashing on Zandronum's multiplayer.
+- Changed behavior of Dark Imps and Spectres (now they remain invisible for less time).
+- Added descriptions for the difficulty settings.
+- Added alt fire Super Shotgun (now you can fire only one barrel at time by pressing the right mouse button).
+- Added more ammo on several levels.
+- Improved the hellgate and changed the whole battle at the end of map08.
+- Edited the BFG trap on Map23, now the traps will fire Rockets instead.
+- Added a basic reward on Hectic (will add more in future versions).
+- Fixed nail trap sound being too loud.
+- Fixed incorrect shotgunguy uniform collor.
+- Nerfed some switch hunts to make them more clear.
+
+version 1 (October 30 2016)
+- Initial Release

@@ -19,3 +19,9 @@ from the supplied Episode Enyo package. Creator details were not supplied;
 none are invented. It is excluded from the installer-code MIT license.
 Mod provenance and upstream credits are recorded separately in
 `games/quake-slave-zero-x/THIRD-PARTY.md`.
+
+`brutal-doom-64.png` is the exact native 150x150 PNG from the supplied package,
+losslessly converted from the owner's ICO. No new creator identity is asserted.
+It is excluded from the installer-code MIT license. Complete unchanged mod
+hashes, provenance and original credits are retained separately in
+`games/brutal-doom-64/THIRD-PARTY.md` and its `upstream/` records.

@@ -16,11 +16,12 @@ Choose your next arcade run:
 | [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | 0.1.0 | `swtrilgy.zip`, kept zipped |
 | [L.A. Machineguns](games/l-a-machineguns/README.md) | 0.1.0 | Japan `lamachin.zip`, kept zipped |
 | [Episode Enyo](games/quake-slave-zero-x/README.md) | 0.1.0 | Quake folder with both `id1` PAKs; complete mod included |
+| [Brutal Doom 64](games/brutal-doom-64/README.md) | 0.1.0 | Folder containing `DOOM2.WAD`; complete four-file mod included |
 
 The new installers pass isolated installation checks; gameplay confirmation
 is still required for each user's setup. Read the game page for display/control
 limits. Commercial base-game data, ROMs and BIOS files are not included;
-Episode Enyo includes its complete distributable mod.
+Episode Enyo and Brutal Doom 64 include their complete distributable mods.
 
 The current public installer is [The House of the Dead 2 0.1.3](https://github.com/jacobm36/momentum-distribution/releases/tag/the-house-of-the-dead-2-0.1.3).
 Old installer ZIP downloads have been withdrawn; use 0.1.3.
