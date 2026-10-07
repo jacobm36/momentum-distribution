@@ -13,8 +13,72 @@
       "size": 167914,
       "platform": {
         "os": "ubuntu",
-        "releases": ["24.04"],
-        "architectures": ["x86_64"]
+        "releases": [
+          "24.04"
+        ],
+        "architectures": [
+          "x86_64"
+        ]
+      }
+    },
+    {
+      "id": "virtua-cop-2",
+      "version": "0.1.0",
+      "name": "Virtua Cop 2",
+      "description": "Quick reflexes. Sharp aim. Bring your Japan GDI and all 39 tracks for standalone mouse lightgun setup. Gameplay confirmation required.",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/virtua-cop-2.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/virtua-cop-2-0.1.0/virtua-cop-2-0.1.0.zip",
+      "sha256": "78befbf13d104b4cd106162de52c1749ee3d7f6a107e4841bdd2120bd740b9a0",
+      "digest": "sha256:e5f63fd17d5680609073880f2e14a0fa9fce1aba3c16d3ef5f6636de43f0113a",
+      "size": 212596,
+      "platform": {
+        "os": "ubuntu",
+        "releases": [
+          "24.04"
+        ],
+        "architectures": [
+          "x86_64"
+        ]
+      }
+    },
+    {
+      "id": "star-wars-trilogy-arcade",
+      "version": "0.1.0",
+      "name": "Star Wars Trilogy Arcade",
+      "description": "Stay on target. Bring your swtrilgy.zip for the guide's fullscreen arcade setup. Gameplay confirmation required.",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/star-wars-trilogy-arcade.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/star-wars-trilogy-arcade-0.1.0/star-wars-trilogy-arcade-0.1.0.zip",
+      "sha256": "fa88892ac6d16b8538a180a8960cf3f58964a9685308474ea4edded180065eb2",
+      "digest": "sha256:a0e57a8ceac9f505bd183deddff574533d9f8ea82dc632e0ae0511e50662ec48",
+      "size": 247964,
+      "platform": {
+        "os": "ubuntu",
+        "releases": [
+          "24.04"
+        ],
+        "architectures": [
+          "x86_64"
+        ]
+      }
+    },
+    {
+      "id": "l-a-machineguns",
+      "version": "0.1.0",
+      "name": "L.A. Machineguns",
+      "description": "Two triggers. One city. Bring your Japan lamachin.zip for borderless 1920x1080 arcade action. Gameplay and calibration confirmation required.",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/l-a-machineguns.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/l-a-machineguns-0.1.0/l-a-machineguns-0.1.0.zip",
+      "sha256": "4648162b8ea810ec5ea3e8ab4d12a464b8ab7f0ce4caf8a5390a577319e52504",
+      "digest": "sha256:9ee6ef75ce86dba98ec02f2a78e4b7278d3cbcaeb7c1fdb34d9e42b87ce74e95",
+      "size": 948166,
+      "platform": {
+        "os": "ubuntu",
+        "releases": [
+          "24.04"
+        ],
+        "architectures": [
+          "x86_64"
+        ]
       }
     }
   ]
