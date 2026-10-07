@@ -2,6 +2,22 @@
   "catalog_version": 1,
   "games": [
     {
+      "id": "quake-slave-zero-x",
+      "version": "0.1.0",
+      "name": "Quake - Slave Zero X: Episode Enyo",
+      "description": "Six levels. One assassin. The complete Episode Enyo mod is included; bring your Quake folder with both id1 PAKs. Gameplay confirmation required.",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/quake-slave-zero-x.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/quake-slave-zero-x-0.1.0/quake-slave-zero-x-0.1.0.zip",
+      "sha256": "c64ba26918b6729b8ad23a342162209c6cf945e40c4117082f5ecadec5d4217a",
+      "digest": "sha256:000da2a285b0f818a09fba426ee78c45d82d90eae4e7a200b2e3063d4080c21b",
+      "size": 140257501,
+      "platform": {
+        "os": "ubuntu",
+        "releases": ["24.04"],
+        "architectures": ["x86_64"]
+      }
+    },
+    {
       "id": "the-house-of-the-dead-2",
       "version": "0.1.3",
       "name": "The House of the Dead 2",
