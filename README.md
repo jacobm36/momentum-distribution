@@ -16,9 +16,10 @@ under SteamGridDB's user-content terms. This is not a claim of separate creator
 permission or unrestricted rights to underlying game artwork.
 Old installer ZIP downloads have been withdrawn; use 0.1.3.
 
-Download the ZIP from the release, then use **Installs & jobs > Install package**
-in the updated Momentum launcher. Supply your own Dreamcast USA CUE file and
-all matching BIN tracks together in a local folder.
+The updated Momentum launcher uses **Add game** to select HOD2 and download this
+installer automatically. Supply your own Dreamcast USA CUE file and all matching
+BIN tracks together in a local folder, then review and approve installation.
+Manual release downloads remain available under **Add game > Advanced > Import a local package**.
 
 ### Version 0.1.3 verification
 
@@ -34,8 +35,18 @@ all matching BIN tracks together in a local folder.
   and Steam lookup remain available in the launcher editor. Installation does not
   download third-party artwork.
 
-The launcher's in-app game catalog and download flow are a separate next step;
-creating this repository does not enable those features.
+## Catalog backend
+
+`catalog.json` is the small public catalog consumed by the launcher. Each game
+identifies one fixed GitHub Release ZIP, its byte size, ZIP SHA-256, canonical
+package digest, platform and attributed card artwork. No account or hosted
+application server is required. Package code is never executed from this branch.
+Only the release ZIP is installed after validation and explicit user approval.
+
+When publishing a newer package, add a new release and update its catalog record
+only after verifying the downloadable asset and exact hashes. Never replace
+published bytes. The initial catalog contains HOD2 only; accounts, ratings and
+automatic updates are out of scope.
 
 ## What belongs here
 
