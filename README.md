@@ -7,19 +7,23 @@ to access public releases.
 
 ## Current status
 
-The first public installer is [The House of the Dead 2 0.1.2](https://github.com/jacobm36/momentum-distribution/releases/tag/the-house-of-the-dead-2-0.1.2).
-It uses original Momentum artwork, not SteamGridDB images. Installer code and
-documentation are MIT licensed; the package records separate icon permissions.
-The private 0.1.1 release remains unchanged and is not redistributed here.
+The current public installer is [The House of the Dead 2 0.1.3](https://github.com/jacobm36/momentum-distribution/releases/tag/the-house-of-the-dead-2-0.1.3).
+It restores the original HOD2 icon by **t00ny**, via
+[SteamGridDB](https://www.steamgriddb.com/profile/76561199032730738/icons/1).
+Installer code and documentation are MIT licensed; third-party artwork is excluded.
+The package records attribution and the project owner's approved distribution basis
+under SteamGridDB's user-content terms. This is not a claim of separate creator
+permission or unrestricted rights to underlying game artwork.
+Old installer ZIP downloads have been withdrawn; use 0.1.3.
 
 Download the ZIP from the release, then use **Installs & jobs > Install package**
 in the updated Momentum launcher. Supply your own Dreamcast USA CUE file and
 all matching BIN tracks together in a local folder.
 
-### Version 0.1.2 verification
+### Version 0.1.3 verification
 
-- ZIP SHA-256: `aecc8eca957f482eb969a6837134b07ed19296b519773bf3cd02892db00eb7b3`
-- Canonical package digest: `sha256:ee75c953277283f8a9d38662b13900f3ea5a6a66ed14dc6e00cfd5db6700675a`
+- ZIP SHA-256: `a8ba738a43edecf5f1dc3d5fcc85c7d618b731817fee4a7ad154866519a7b84f`
+- Canonical package digest: `sha256:2dcab2d2c2f99ddcfdcb67d589636459902139948d2562905cc3295cea94b641`
 - Target: Ubuntu 24.04 x86_64; user-scope Flycast v2.7 commit
   `86ec4d845a66ff07cdba8e003d8549e93cd7a814b519766e1f744e530c5d3e5b`.
 - Installer executable code is byte-identical to the isolated gameplay-tested
