@@ -21,12 +21,16 @@ Choose your next arcade run:
 | [Brutal Doom](games/brutal-doom/README.md) | 0.1.0 | `DOOM2.WAD`; v21 and optional Doom Metal Volume 5 included |
 | [Aliens: Eradication](games/aliens-eradication/README.md) | 0.1.0 | `DOOM2.WAD`; complete 2.0 TC and eight-map campaign included |
 | [Ashes 2063: Enriched](games/ashes-2063/README.md) | 0.1.0 | `DOOM2.WAD`; exact guide-defined Enriched 2.23 PK3 included |
+| [Quake Brutalist Jam III](games/quake-brutalist-jam-3/README.md) | 0.1.0 | Both Quake `id1` PAKs; complete QBJ3 1.3 source reused or separately approved pinned download |
 
 The new installers pass isolated installation checks; gameplay confirmation
 is still required for each user's setup. Read the game page for display/control
 limits. Commercial base-game data, ROMs and BIOS files are not included;
-The mod packages include their complete guide-selected mod content, artwork and
-attribution; required commercial base files remain user-supplied.
+Distributable mod packages include their complete guide-selected mod content,
+artwork and attribution; required commercial base files remain user-supplied.
+QBJ3's restricted mod assets are not bundled: its pinned source download has
+separate approval, size/hash/inventory checks and a separate game-file review.
+Fresh setup needs about 17 GiB free; Ironwail 0.8.2 is selected automatically.
 
 The current public installer is [The House of the Dead 2 0.1.3](https://github.com/jacobm36/momentum-distribution/releases/tag/the-house-of-the-dead-2-0.1.3).
 Old installer ZIP downloads have been withdrawn; use 0.1.3.

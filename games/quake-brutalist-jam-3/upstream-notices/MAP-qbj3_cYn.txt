@@ -1,0 +1,11 @@
+cYn Brut
+Play time 4 - 5 minutes
+
+In French (as a general adjective) brut translates to “raw”, “crude”, or “unrefined.”
+
+QBJ3 Entry. A first attempt from me. The last map I built was a Quake 2 MP map, about 25 years ago.
+I didn't achieve the architectural, audio nor narrative goals I'd aimed for, but it's ok a for a first attempt. 
+
+Skybox by Makkon,
+Added textures and audio by Ryan aka cYn. 
+https://bsky.app/profile/projectpixel.net

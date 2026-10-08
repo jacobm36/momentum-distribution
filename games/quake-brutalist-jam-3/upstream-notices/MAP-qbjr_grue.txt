@@ -1,0 +1,53 @@
+================================================================
+
+Title                   : The Pits of Insanity (qbj3 remix)
+Filename                : qbjr_grue.bsp
+Author(s)               : Grue
+Email Address           : doug@designcrane.com
+Description             : Brutalism with a sci-fi twist.
+Special Thanks	        : PalmliX, Colossus, Kebby, Makkon
+
+================================================================
+
+* Play Information *
+
+
+Level Name              : The Pits of Insanity
+
+Single Player           : yes
+Cooperative 1-32 Player : yes, 3 coop starts for 4 player coop
+Deathmatch 2-32 Player  : no
+Difficulty Settings     : all skill levels configured
+
+New Sounds              : 1 tv static sound
+New Graphics            : custom textures by PalmliX and Kebby
+Sound Track             : track 07 from Immorpher's alternate music pack / https://immorpher.bandcamp.com/
+Demos Replaced          : no
+.map   Included         : yes
+
+Software needed to play : This works on most ports, mostly tested in Ironwail.
+
+
+Comments                : Blast from the past.
+
+
+
+* Construction *
+
+Base            : original
+reBuild Time      : 10 hours
+
+Times & stats   :System Used      : my Windows10 custom-built AMD tower             
+                 Light            : -dirt 1 -bounce 1, -emissivequality high, -gamma 1.2
+
+
+Texture wads used: quake101, Makkon concrete and tech, custom textures by PalmliX and Kebby
+Editor(s) used  : Trenchbroom
+Known Bugs      : Hopefully I found all of them!
+
+
+* Legal Stuff *
+--------------------------
+
+(Template level description provided by Kyle 'ObserveR' Lemke of
+ http://www.planetquake.com/future/)

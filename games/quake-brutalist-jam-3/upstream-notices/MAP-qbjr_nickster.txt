@@ -1,0 +1,78 @@
+Map: Pollinator (qbjr_nickster) [Remake]
+Version: 2.1
+Author: nickster (nickster6660@hotmail.com)
+
+v2.1 Changes
+	- Fixed a misspelled message
+	- Reworked lighting and texturing
+	- Added more armor shards
+	- Various cosmetic/visual improvements
+	- Slight music remix and 3db volume reduction
+
+v2.0 Changes
+	- Reworked item and enemy placement for QBJ3 assets
+	- Clipped off the breeze push bridge (it's really just supposed to scare you)
+	- Fixed a clipping issue behind a box at the second tower
+	- Various cosmetic/visual improvements
+
+v1.1 Changes
+	- Made breeze push near end less lame (sorry koren and mazu)
+	- Misc. minor visual changes
+	- Misc. minor clipping changes
+
+v1.0:
+- Initial QBJ2 submission
+
+Special thanks to playtesters:
+	amperz
+	JoyModulo
+	Lord Quake
+	mtsch
+	Spowlaer
+
+Description:
+	Medium-small airborne/platforming map for Quake Brutalist Jam 3 (2025).
+	Remake of map (qbj2_nickster) from Quake Brutalist Jam 2 (2023).
+	Go way up high, then deep down low.
+Requires Mod?
+	Yes - QBJ3
+Requires Source Port?
+	Yes - tested with
+		IronWail (https://github.com/andrei-drexler/ironwail)
+
+---------------------------------------
+YOU SHOULD HAVE INSTALLED THIS WITH THE JAM, BUT JUST IN CASE
+
+Installation:
+	Unzip the archive into your quake/qbj3 folder
+To Play:
+	Start QBJ3
+	Open the console (~)
+	Type "skill #" where # is 0 (easy), 1 (normal), 2 (hard), 3 (nightmare) and hit enter
+	Type "map qbjr_nickster" and hit enter
+	Hold onto your butt
+
+---------------------------------------
+
+Technical:
+	Enemies (E/N/H): 136/186/229
+	Secrets: 3
+
+---------------------------------------
+
+Custom Textures:
+	Makkon (https://www.slipseer.com/index.php?resources/makkon-textures.28/),
+	with a few custom jobs
+
+Custom Sky:
+	Makkon (mak_bluesky3) with baked-in skyfog
+
+Custom Music:
+	Music track (track122.ogg) by me (https://jupiterskydive.bandcamp.com/)
+	
+Custom Sounds:
+	Sound FX source from Freesound.org:
+		"Air duct 06.wav" by LG (https://freesound.org/people/LG/sounds/73081/) licensed under CC Attribution 3.0
+		"Lluvia.wav" by vinjatovix (https://freesound.org/people/vinjatovix/sounds/110354/) licensed under CC Attribution 4.0
+		"meadow_insects_sunny_afternoon.wav" by DanGasior (https://freesound.org/people/DanGasior/sounds/164656/) licensed under CC 0
+	Some other sound FX source from NASA

@@ -1,0 +1,58 @@
+Title                   : Defense Grid 04
+Filename                : qbj3_se
+Release date            : 24/12/2025
+Author                  : Sewer Hrehorowicz
+Email Address           : sewerhrehorowicz@gmail.com
+Misc. Author Info       : Game artist, painter and writer. 
+
+Description             : It's concrete themed map concisting of few enclosed areas. I was thinking that it might be fun to do Doom 2016 gameplay loop in Quake. I tried to make layouts looped, so player can't hide benind corner / doors and play it safe.
+
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : Some default Quake sounds for doors and switches.
+Music                   : Soularflair - Soundscape 22
+Graphics                : Yes, whole texture set made exclusively for this map. Designed to work together with Makkon's textures.
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : Source map included
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Quake
+Map #                   : 1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Theoretically yes, but tested & balanced for normal.
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : ~1 month of full time work
+Editor(s) used          : Trenchbroom
+Tested With             : Ironwail 0.80
+May Not Run With        : Other engines
+
+* Playtesters *
+
+Spootnik, Clenow, Softi, rabbit, Makkon, AlexUnder, PuLSaR
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use.
+

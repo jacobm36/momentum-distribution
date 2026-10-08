@@ -1,0 +1,62 @@
+===========================================================================
+Title                   : Elusive Tranquilities
+Filename                : qbj3_sze.bsp
+Release date            : December 2025
+Author                  : Sze
+Email Address           : christoph.claassen@gmail.com
+Bsky:			: @szze.bsky.social
+
+Description             : QBJ2_sze... 2 years later! Vegetation, blood and the new QBJ enemies.
+			  I used that opportunity to also add more drama to the encounters.
+
+Additional Credits to   : Still the incredible new music track by dangercake (Karri Kiviluoma & Martin Donald)
+			  The QBJ3/Megalith team for an absolutely insane mod: the unique weapons and juicy hit effects, new enemies, the whole new audiovisuals...
+			  I will just use this second line to stress how impressive this mod really is.
+			  ok, a 3rd one even. It plays more fluid, while still retaining Quake's gameplay aesthetics.
+			  Makkon for the incredible textures and support in QM
+			  Skybox: mak_purplesky5_ by Makkon
+			  Rabbit for the idea of python post-processing and general their yapping channel for knowledge sharing and inspiration
+			  SleepwalkR for Trenchbroom, ericW/Paril for ericw-tools
+			  As always, shoutouts to the whole Quake Mapping Discord, I found the buzz in the QBJ3 channel so motivating
+			  ...and thanks to YOU, the player!
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : No
+Music                   : Yes
+CD Track:		: 79
+Graphics                : Yes (skybox)
+Other                   : No
+Other files required    : No
+
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+Monsters		: 104/138/178
+Secrets			: 4
+
+
+* Construction *
+
+Build Time              : A few weeks on and off
+Editor(s) used          : Trenchbroom,  ericw-tools
+Tested With             : Ironwail, VkQuake
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.

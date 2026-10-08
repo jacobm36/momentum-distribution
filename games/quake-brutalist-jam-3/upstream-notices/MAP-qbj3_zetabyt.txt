@@ -1,0 +1,144 @@
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+                                                                                                                       |
+                                                                                                                       |
+Map Title: Color Decay (qbj3_zetabyt)                                                                                  |
+                                                                                                                       |
+Map Author: ZetaByt                                                                                                    |
+                                                                                                                       |
+                                                                                                                       |
+Tested in:                                                                                                             |
+                                                                                                                       |
+~QuakeSpasm (0.96.3)                                                                                                   |
+                                                                                                                       |
+~QuakeSpasm Spiked (build '2024-03-01')                                                                                |
+                                                                                                                       |
+~vkQuake (1.32.0)                                                                                                      |
+                                                                                                                       |
+~Ironwail (0.8.0)                                                                                                      |
+                                                                                                                       |
+                                                                                                                       |
+Custom music: Track39 ("A Light Drowned by a Sea of Shadows" by Proxy-MIDI, from Quake Music Jam 1: Runic Resonances)  |
+                                                                                                                       |
+                                                                                                                       |
+Custom laser sound pulled from Rubicon 2                                                                               |
+                                                                                                                       |
+                                                                                                                       |
+Secret song is the Cheeki Breeki Hardbass Anthem by Apartje, edited to make it sound like it's coming out              |
+of a deteriorated old radio                                                                                            |
+                                                                                                                       |
+                                                                                                                       |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+                                                                                                                       |
+                                                                                                                       |
+[ Description ]                                                                                                        |
+                                                                                                                       |
+                                                                                                                       |
+Jam submission for Quake Brutalist Jam 3, somewhat large concrete techbase                                             |
+                                                                                                                       |
+                                                                                                                       |
+Went into this jam with a vague idea of what I wanted to make (prison escape type of map). Had two rooms that          |
+I had pre-built a while back in an art/lighting test (the cell and room after it) and largely built the rest           | 
+of the map off of that, occasionally taking a few ideas from a handful of old scrapped maps and trying                 |
+to make those work here.                                                                                               |
+                                                                                                                       |
+                                                                                                                       |
+Having a very chaotic sleep schedule, combined with the above, and a drive to want to make something                   | 
+simple (in terms of brushwork), meant I was able to build the layout pretty quick and try to focus more on             | 
+detailing it.                                                                                                          | 
+                                                                                                                       |
+The mod itself also helped a lot, as part of my struggle with Site Z-374, from Brutalist Jam 2, was mostly             |
+that it used basic Copper and didn't have much in the way of variety when it came to monsters and weapons.             |
+This new mod basically addressed that, so it was a lot easier to work with.                                            |
+                                                                                                                       |
+                                                                                                                       |
+Visuals are largely a case of "what if Z-374 but without the mix-tex aspect" and, in my opinion, this came out         |
+better visually than I thought it would.                                                                               |
+                                                                                                                       |
+                                                                                                                       |
+Wanted to use the Amalgam enemy more, but I  felt it was just kind of a mean-spirited enemy in most                    |  
+encounters that I tried to use it in, and had a tendency to make a lot of stuff really annoying.                       | 
+                                                                                                                       |
+Probably a decent enemy for more open maps, which this very much isn't.                                                |
+                                                                                                                       |
+                                                                                                                       |
+Map name comes from the album "Color Decay" by The Devil Wears Prada. Had a couple names lined up, but that            | 
+one just seemed to have a ring to it that ended up sticking more than the others.                                      |
+                                                                                                                       |
+                                                                                                                       |
+                                                                                                                       |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+                                                                                                                       |
+                                                                                                                       |
+[ Story ]                                                                                                              |
+                                                                                                                       |
+                                                                                                                       |
+After the uncovering of events at Site Z-374, a series of operations have been undertaken to try and                   |
+find more of these forgotten facilities, and make sure more of these monsters can't escape.                            |
+                                                                                                                       |
+                                                                                                                       |
+You were sent to a potential find, deep in the mountains, hidden in plain sight in an old service tunnel.              |
+                                                                                                                       |
+Some of the scouts sent here reported the door and left, being too spooked to go inside. Others more brave were        |
+able to get inside, and never reported back.                                                                           |
+                                                                                                                       |
+                                                                                                                       |
+The outside made it look abandoned, but when you were able to get through the two security doors, you were             |
+surprised to find that the place looked recently lived in. It was at this point that the alarms started going off      |
+and the room filled with an unknown gas, rendering you unconscious.                                                    |
+                                                                                                                       |
+                                                                                                                       |
+When you came to, you found yourself in some sort of holding cell. The unknown inhabitants were smart to take          |
+most of your weapons, but they forgot to take your pistol, and left a wrench in your cell after seemingly trying       |
+and failing to fix the wall panel.                                                                                     |
+                                                                                                                       |
+                                                                                                                       |
+Objectives:                                                                                                            | 
+                                                                                                                       |
+~Render facility unusable                                                                                              |
+                                                                                                                       |
+~Deal with the inhabitants                                                                                             |
+                                                                                                                       |
+~Escape                                                                                                                |
+                                                                                                                       |
+                                                                                                                       |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+                                                                                                                       |
+                                                                                                                       |
+[ Map Statistics ]                                                                                                     |
+                                                                                                                       |
+                                                                                                                       |
+Monsters (Easy) - 245                                                                                                  |
+                                                                                                                       |
+Monsters (Normal) - 319                                                                                                |
+                                                                                                                       |
+Monsters (Hard) - 414                                                                                                  |
+                                                                                                                       |
+                                                                                                                       |
+Secrets: 10  (and a few that are technically unmarked, I guess)                                                        |
+                                                                                                                       |
+                                                                                                                       |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+                                                                                                                       |
+                                                                                                                       |
+[Credits]                                                                                                              |
+                                                                                                                       |
+~Makkon (textures)                                                                                                     |
+https://www.slipseer.com/index.php?resources/makkon-textures.28/                                                       |
+                                                                                                                       |
+                                                                                                                       |
+~Quake Music Jam 1: Runic Resonances                                                                                   |
+https://www.slipseer.com/index.php?resources/quake-music-jam-1-runic-resonances.292/                                   |
+                                                                                                                       |
+                                                                                                                       |
+~Cheeki Breeki Hardbass Anthem                                                                                         |
+https://www.youtube.com/watch?v=BnTW6fZz-1E                                                                            |
+                                                                                                                       |
+                                                                                                                       |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -|
+
+
+
+

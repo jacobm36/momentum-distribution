@@ -1,0 +1,78 @@
+================================================================
+Title                   : Ternary Sanctum
+Filename                : qbj3_ic.bsp
+Date of Release         : Dec 7th, 2025
+Author                  : ImmortalChickens ('IC' or 'ic' for maps :D)
+Email Address           : N/A
+Website			: N/A
+Description             : A small map made during the Quake Brutalist Jam 3.
+
+================================================================
+* Play Information *
+Game                    : qbj3
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes  
+Deathmatch 2-16 Player  : No
+Difficulty Settings     : Yes
+New Textures            : Yes
+Exit			: Yes
+Intermission Camera	: Yes
+
+* Construction *
+ 
+Editor(s) used          : Trenchbroom, Wally 
+Compile flag(s) used	: Compiled with ne_q1spCompilingGui103 using ericw-tools-v0.18.1
+			  QBSP: none 
+			  VIS: -noambient
+			  LIGHT: -soft -extra4 -bounce1	
+Textures		: I used textures from makkon wads, some classic id wads 
+			  and edited some of my own.
+
+Playtesters		: rabbit, Chaosed0, Clenow
+
+================================================================
+*about/notes*
+
+This is my first map :D I started with a sketch of 3 leafs 120 degrees apart, 
+but then I learned that that would be really hard, so i adapted the idea to 3 
+sections to the rooms its in now. I like the maps I’ve played where you have a 
+center focus point and slowly unlock it, if i had more time/experience I would 
+have made more backtracking and puzzles(I had to scrap a lot of idea). After 
+finishing the main layout of the sanctum, I realized it might be too short, 
+so i was going to make the same temple but red themed, like you go through the center
+portal and end up doing it all over again but its the dark version. I ran into 
+some issues with this so I had to scrap. Instead I went with more of a Signalis (which i played earlier this year)
+vibe for the end room(it was really red), but i had to change colors cause i cant have 
+2 skyboxes. growing pains i guess. really inspired by brutalist architecture that only 
+uses light to illuminate its interiors. There wasn’t a specific real life counterpart 
+or inspiration, I just tried to approximate what was in my head. I went with a sky texture 
+that i felt would mimic the feeling of being inside with your eyes adjusted to the light, 
+with the outside light being extremely bright. it comes off a bit more surreal but 
+thats a happy accident ig lol. I made the short track that repeats, also kinda inspired 
+by Signalis with the resonant peaks that come up at a consistent interval. layers of noise
+and ambient sound tracks with differnet effect and a melody that comes in to break up the
+noise that fills the empty sanctum. I'll call the track, Ternary Sanctum after the map, 
+but its just track25 lol. Shout out to Fizz Vol.1 for carrying my life through these troubling times.
+
+Thanks for playing and reading this section. I can't wait to make more maps! 
+(hope this one wasn't too bad)
+
+  nnn
+ ('<')_///
+  \____/
+   _|_|
+
+================================================================
+* Permissions *
+
+All textures in this level remain in property of their respective owners.
+
+You may distribute, edit or modify this level as long as you:
+
+1. Include this text file with all current sections unedited, 
+   but add with your notes after this section with your additions,
+   format consistent with this README.
+2. Contact me to let me know what you are doing with it.
+
+Thank you
+================================================================

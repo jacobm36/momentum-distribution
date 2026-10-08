@@ -1,0 +1,98 @@
+====================================================================================================
+Title                   : Rampage
+Author                  : Colossus
+Version:		: 1.0 
+Description             : Mankind's innate curosity would ultimately be it's biggest downfall, Experimental research on slipgate technologies laid to great travesties. A rift was formed between intergalactic dimensions and earth. This allowed for  shub-niggurath and her changeling army to invade.  You are ranger tasked to destroy them and stop the rampage otherwise mankind will face certain DOOM.
+
+* Play Information *
+
+Level Name              : Rampage
+Single Player           : Yes
+Cooperative             : Yes 
+Deathmatch              : No
+Difficulty Settings     : Yes (Easy, Normal, Hard, Brutal)
+
+====================================
+* Construction *
+Editor(s) used: Trenchbroom
+
+Music: Flesh Made Machine by MGC
+https://soundcloud.com/officialmgc
+https://officialmgc.bandcamp.com/
+
+Textures:Makkon Concrete, Makkon Metal, Makkon Nature, Makkon Tech, Duke Nukem, DOOM II, Kingpin, cr8base, Silent Hill.
+====================================
+
+================================================
+Changes from the originaL:
+*I beefed up the combat from the original map to spice things up and take advantage of the new weapons and enemies. One of the complaints about the first map was that every fight felt worse after the garage encounter. I addressed this by adding a quad and more enemies to each main fight.
+
+*I made the teleporting ball that kills Shub move faster so that if you miss it, you’re not stuck waiting forever.
+
+*You can now exit the level from either side of the train, and there’s a wider exit trigger along with teleporter textures indicating how to leave. No more getting stuck without knowing what to do!
+  
+*I replaced the trees with sprites because I thought they looked better.
+
+*Minor visual improvements have been made throughout.
+
+Comments:
+I'd like to think that if quake had a sequel in the vein of Doom II that had the demons invading earth this is how it'd look like, hence the multiple doom refrences.
+
+Subway brushwork was done by Doug(Grue) from his snack2 map(s3m1) used with permission. 
+
+Nuked City
+==========
+Skybox by Justin Fisher 
+This Skybox comes from "Gunmetal" by Mad Genius Software, and has been converted 
+for Quake III Arena. Textures copyright 1998, Justin Fisher. 
+
+Here are some more assets found on gamebanana from counter-strike and half life mods.
+
+Car 
+Author - THE SOT^
+https://gamebanana.com/mods/228971
+BMW and Cop Cars (as_coast) 
+Author - Ghost1676076
+https://gamebanana.com/mods/5098
+Fire Hydrant 
+Author - Ghost1676076
+https://gamebanana.com/mods/225777
+rd bus 
+Authors - 
+smolders(original brushwork) 
+(Nikosemen rebrushwork with 99%)
+https://gamebanana.com/mods/5099
+
+doom guy helmet mdl is borrowed from AD, e1m1 music used from the ultimate doom composed by bobby prince. 
+
+================================================
+
+==================================
+Special Thanks:
+
+PalmliX:Helped optimize the map once it was finished, made the elevator door overhauled the lighting, playtested as well.
+
+MGC:Wrote the track for the map, was really easy to work with and makes great music make sure to check his stuff out!
+
+Doug[Grue] - Trenchboom tips, inspired me to join this jam.
+
+
+==================================
+
+
+Additional Credits to:
+Makkon for hosting the jam and also making the textures that make up the majority of this map.
+
+All rights reserved.
+Distribution / Copyright / Permissions 
+============================================================
+Copyright (c) 2025 - Colossus
+
+Quake is a registered trademark of id Software, Inc.
+
+This map may be electronically distributed only at NO CHARGE to 
+the recipient in its current state, MUST include this txt & pdf file, 
+and may NOT be modified IN ANY WAY.
+ 
+UNDER NO CIRCUMSTANCES THIS MAP TO BE DISTRIBUTED ON PHYSICAL MEDIUM WITHOUT PRIOR WRITTEN PERMISSION.
+============================================================

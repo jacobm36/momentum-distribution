@@ -1,0 +1,36 @@
+===========================================================================
+“Temple of a Heretic God” - qbj3_monkeyshock
+
+Map for Quake mod "QBJ3dev," for "Quake Brutalist Jam 3"
+
+AUTHOR INFO:
+
+Map name : Temple of a Heretic God
+File Name: qbj3_monkeyshock
+Mod: QBJ3dev (qbj3.fgd)
+Author : MonkeyShock
+Other Quake Maps by the Author: 
+
+"Tumors" from the "Meat Jam"
+
+"Retaliation" from the "Floyd Factory Jam"
+
+
+GENERAL INFORMATION:
+This is my third time submitting a map to a Quake jam. This one is about a lone soldier, who must infiltrate a blasphemous temple, and battle the unholy legion that dwells within. Partially inspired by the Trench Crusade miniature wargame.
+
+CREDITS:
+
+Level Design and Story: MonkeyShock
+
+Textures by: 
+Id Software (the vanilla textures)
+Makkon (too many wads. The dude has made a ton!)
+
+Music: Piths by Immorpher
+
+Prefabs: Makkon and spacehare.github.io
+
+SPECIAL THANKS:
+
+Makkon for putting this whole jam together

@@ -1,0 +1,31 @@
+===========================================================================
+“Hypervitaminosis C” - qbj3_tango
+
+Map for Quake mod "QBJ3dev," for "Quake Brutalist Jam 3"
+
+AUTHOR INFO:
+
+Map name : Hypervitaminosis C
+File Name: qbj3_tango
+Mod: QBJ3dev (qbj3.fgd)
+Author : Tango
+Other Quake Maps by the Author: none
+
+
+GENERAL INFORMATION:
+My first Quake map. I only decided to make a map less than two weeks before the deadline so my time was pretty limited to come up with something while also learning Trenchbroom, hence the map's length. I would have liked to make something a bit bigger with a lot more visual polish, but getting something complete at all felt like a victory. Working with the QBJ3 mod has been a ton of fun, and finally working with brushes after years of Doom mapping is very freeing :D
+
+CREDITS:
+
+Level Design: Tango
+
+Textures by: 
+Makkon
+khreathor (prototype textures used during development)
+id Software (vanilla teleport tex)
+
+Music: "i want to believe" by tarantula aka T-101, converted to ogg from an xm tracker module (https://modarchive.org/index.php?request=view_by_moduleid&query=63498)
+
+SPECIAL THANKS:
+
+dumptruck_ds for his Quake + Trenchbroom tutorials which have been invaluable

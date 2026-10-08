@@ -1,0 +1,33 @@
+Title:          Chemical Burns Around My Neck
+Filename:       qbj3_fhk
+Author:         F15H00K
+Bandcamp:       https://f15h00k.bandcamp.com
+Info:           Multimedia artist, Music, writing, drawing, etc; lots of upcoming projects.
+Tested on:      VkQuake, Ironwail
+Discription:    Medium-sized map with outdoor setpieces and arena encounters.
+
+============================================
+
+:BUILD INFORMATION:
+
+Released:       11/26/25
+Build Time:     Around a month and a half
+Game time:      15-18 minutes on average
+Singleplayer:   Yes
+Multiplayer:    No
+Co-op:          No
+Enemies:        362/363/372
+Software:       Trenchbroom-Win64-AMD64-v2025.3-Release
+
+============================================
+:PATCHES:
+
+11/30/25
+-fixed enemies being pitch-plack when flying over pits
+-limited the amount of times items can spawn in arena fights.
+
+============================================
+
+:COPYRIGHT:
+
+I heard that bad things happen if you commercially redistribute this map.

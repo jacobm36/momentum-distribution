@@ -1,0 +1,23 @@
+nolcoz - famguy death pose ranger
+
+kebby_ - buster sword ff7 model
+
+makkon - most textures, container prefabs, dumpster prefab
+
+rabbit - dead dog bath, shambler bath
+
+map used librequake dev textures during initial blockout. might still have some
+in obscure parts of the map that i didnt notice
+
+one secret has a funny box, referencing this https://cargocollective.com/danielkent/Brutalist-Buttplug
+
+playtesting:
+
+rabbit
+clenow
+wons
+annihilazor
+spootnik
+haikids (? had said they were playing it in the playtest thread, but never posted any feedback
+	maybe they didnt notice anything worth typing?)
+alexunder

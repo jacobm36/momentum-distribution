@@ -1,0 +1,20 @@
+Title:		Corridor of Concrete
+Filename:	qbjr_draqu.bsp
+Author:		DraQu
+Build time:	3-4 weeks + a few days here and there for the qbjr version.
+Tested with:	Ironwail 0.8.0
+Tools used:	Trenchbroom, ericw-tools-2.0.0-alpha9, Photoshop, Texmex
+
+Required mods:  QBJ3
+Singleplayer:	Yes
+Co-operative:	Yes but not tested
+Deathmatch:	No
+Difficulties:	Tested on skill 2. No balance changes between difficulties
+
+
+Additional Credits: 
+
+Statue of the Girl: Original statue scan by: 3dhdscan, retopology and textures by Naitelveni
+https://sketchfab.com/3d-models/statue-of-the-girl-113c62426b6f4bc9bb4c7b80e50321d5 
+
+Thank you to the team for all the hard work on the mod!

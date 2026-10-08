@@ -1,0 +1,78 @@
+==========================================================================================
+Title                   : qbj3_colossus (Monolith)
+Author                  : Colossus
+Version:		: 1.0 
+* Play Information *
+
+Level Name              : Monolith
+Single Player           : Yes
+Cooperative             : Yes 
+Deathmatch              : No
+Difficulty Settings     : Yes (Easy, Normal, Hard, Brutal)
+Description:Explore a Sci-Fi Brutalist level of monolithic scale. Navigate the megastructure and see if you can escape the infinite.
+Avg Playtime:60 minutes
+====================================
+* Construction *
+Editor(s) used: Trenchbroom
+Additional Tools:Audacity, Texmex 
+Music:Surveillance State by Colossus
+
+Textures:Makkon Concrete, Makkon Metal, Makkon Tech, Makkon Industrial, Makkon Urban Interior, Makkon Industrial, Kingpin.
+====================================
+
+
+Comments: This map draws heavy inspiration from my favorite sci-fi movies, video games, tv shows, anime, manga, etc. If you spot any references, chances are that’s where they came from. I won’t list them, so you can have fun guessing! Let's just say I’ve stood on the shoulders of giants and did my best to honor my favorite works of art.
+
+I wrote the music for this level, despite having little to no background in music. I wanted the level to have a completely unique feel - something that wouldn't be achieved by using someone elses track. I was worried that my music making skill level might not match the rest of what I created for this level, but thankfully, ambient music is more forgiving and works well as a background piece. I hope you enjoy it!
+
+My friend gifted me a bass guitar, and although Im new to the instrument I was able to use it to record some of the droney parts of the track. The other sections were filled with sound effects created by myself, a friend, or used from free sound archive website, then edited with added reverb and stretched for more depth."
+
+This map took countless hours definitely in the hundreds, though I didnt keep track. As I neared the end with the layout was fully complete and about 80% of the art done, Doug came in and helped me finish it. I want to give him full credit for everything he contributed, because honestly, this map probably wouldn’t have been completed without him. He was constantly encouraging me to finish the map and offering ideas. 
+
+Map is bsp2 so a modern soure port with increased limits is needed.
+
+======List of parts doug made=============
+*Eye in monolith unit
+*Curved pipes on curved horizontal structures
+*Brushwork for the drone
+*Ceiling work on the monolith unit
+*Spikeshooter brush prefab raygun
+*Various pipes,computers, wires spread across the level
+*A lot of the hallway art
+*Most of the art in the end button room
+*Tons of grunt work to fix things that I cant remember all and even be able to list.
+
+
+================================================
+
+================================================
+Special Thanks:
+
+Doug[Grue] - Playtesting and everything else listed above
+
+Sock – The invisible forcefield texture used around the map is from ad_metmon. I asked him if he could make a blue version of that texture, and he did! He also gave me great ideas for filling larger spaces with more detail, gave tips on how to make organic shapes with brushes and encouraged me to add more vertical exploration. Huge thanks to Sock for all the help!
+
+My real life friends who playtested the map
+
+
+==================================
+
+
+Additional Credits to:
+Makkon for hosting the jam and also making the textures that make up the majority of this map. great and easy to work with and handles these events at a professional level
+
+The entire QBJ3 team who made this event possible.
+
+ll rights reserved.
+Distribution / Copyright / Permissions 
+============================================================
+Copyright (c) 2025 - Colossus
+
+Quake is a registered trademark of id Software, Inc.
+
+This map may be electronically distributed only at NO CHARGE to 
+the recipient in its current state, MUST include this txt & pdf file, 
+and may NOT be modified IN ANY WAY.
+ 
+UNDER NO CIRCUMSTANCES THIS MAP TO BE DISTRIBUTED ON PHYSICAL MEDIUM WITHOUT PRIOR WRITTEN PERMISSION.
+============================================================

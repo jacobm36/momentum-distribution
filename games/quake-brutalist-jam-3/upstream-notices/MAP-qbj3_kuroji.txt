@@ -1,0 +1,32 @@
+//////////////////////////////////
+//------BLOOD AND CONCRETE------//
+//////////////////////////////////
+
+//=====//
+//ABOUT//
+//=====//
+
+First ever Quake map :P 
+After really long being Doom mapper, i've decided to try out Quake mapping. This was really fun experience! I might stick to Quake for longer time after this map ;)
+
+Hope you enjoy it :)
+
+//=====//
+//MUSIC//
+//=====//
+
+I've decided to use ambient midi from Eviternity 2, original MIDI was made by: Tristan Clark
+https://youtu.be/G-1-0U3Je6A?si=mAK3VW0Zh1f0F0yP
+
+//====//
+//WADS//
+//====//
+
+Concrete by Makkon
+Industrial by Makkon
+Tech by Makkon
+Gore by Makkon
+(https://www.slipseer.com/index.php?resources/makkon-textures.28/)
+Sprawl96
+prototype_1_2
+

@@ -1,0 +1,12 @@
+-----------------------------------------
+-    qbj3_drmelon, "Siloed Thought"     -
+- Made for QBJ3, October-December 2025! -
+-----------------------------------------
+
+Typical playtime: 10-15 minutes. 15-18, if you're hunting for all of the secrets!
+
+This map was made for QBJ3 and will not function without the weapons and monsters from that mod. In addition, it has only been tested in Ironwail 0.8.0 - please accept my heartfelt apologies if this map breaks while you're playing it on a different source port!
+
+The skybox texture and all other textures (except hidden developer room textures) were created by Makkon. Thank you, Makkon!
+
+Also, thank you to all of the jam organisation and development staff. It's been so fun to work with!

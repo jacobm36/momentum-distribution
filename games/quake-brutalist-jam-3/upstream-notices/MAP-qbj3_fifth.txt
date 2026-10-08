@@ -1,0 +1,15 @@
+Caementicium Ex Mortis by FifthElephant
+
+Build time: About 4 days in Trenchbroom, additional couple of days taken to polish up and add dm support
+
+Concrete Textures by Makkon
+
+mak_cloudysky5_ skybox by Makkon
+
+
+8th Jan 2026 version notes:
+
+Fixed teleportation bug on end fight platform
+Changed ent setup on melee powerup room (doors changed to a timer)
+Changed void teleporter so if you fall out of berserk fight it sends you back in
+If you skip the first locked door you can now unlock from reverse side

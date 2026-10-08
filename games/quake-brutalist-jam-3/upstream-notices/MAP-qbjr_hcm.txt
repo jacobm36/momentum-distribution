@@ -1,0 +1,75 @@
+===========================================================================
+Title                   : Foreboding Brutal Religion
+Filename                : qbjr_hcm
+Release date            : 20.10.2025
+Author                  : Mazu
+
+Email Address           : pyroclaw88@gmail.com
+Discord			: HCMazu
+Twitch			: twitch.tv/hcmazu
+BlueSky			: hcmazu.bsky.social
+YouTube			: https://www.youtube.com/@HardcoreMazu/
+
+Other Files By Author   : Smej1 and Smej2 are cool because also Copper.
+Misc. Author Info       : Massive quake and doom nerd.
+
+Description             : Very large brutalist concrete base/runic weird
+			  halo-like brushwork mess. Version for QBJ3 remix.
+
+			  Version 1.37
+
+
+Additional Credits to   : Lunaran for the copper mod.
+			  Church of Lauritsala, Lappeenranta, Finland.
+			  Makkon concrete textures and hosting the jam.
+			  Freedom Planet 2 because of stupidly awesome
+			  ideas near end of the map.
+			  QBJ3 Team.
+
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Other                   : -
+Other files required    : qbj3 progs
+
+
+* Play Information *
+
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : Player starts only
+Difficulty Settings     : Yes
+Monsters		: 589 easy, 875 normal, 1202 Hard
+Secrets			: 55
+
+
+* Construction *
+
+Base                    : qbj_hcm base
+Build Time              : 1.5 days
+Brushes			: 24256
+Editor(s) used          : Trenchbroom, ericw-tools, necros gui
+Known Bugs              : Fiends can get stuck on lava and not die
+			  Some item / model lighting bugs
+			  Some lit water lava issues that i cba to fix
+
+May Not Run With        : QSS probably
+Tested With             : IW 0.8.0 / qbj3 progs
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.

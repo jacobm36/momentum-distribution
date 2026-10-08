@@ -1,0 +1,72 @@
+28.11.2025
+
+================================================================
+Title                   : The Funnel
+Filename                : qbj3_plaw.bsp
+Author(s)               : Paul Lawitzki
+Site                    : https://plaw.info
+Email Address           : p.lawitzki@gmail.com
+Mastodon                : @pLaw@mastodon.online
+================================================================
+
+* Play Information *
+
+Game                    : Quake Brutalism Jam 3 (qbj3)
+Level Name              : The Funnel
+
+Single Player           : Yes
+Cooperative 1-3  Player : No
+Deathmatch 2-6 Player   : No
+Difficulty Settings     : Yes
+Monster Count           : 160/182/193
+Secrets                 : 6
+
+New Textures            : Yes (Makkon concrete, tech, and industrial texture wads)
+New Models              : No
+New Sounds              : No
+New Music               : Yes
+
+
+* Construction *
+After the huge success of QBJ2 in 2023 I've sworn to myself that I'd participate in the next installment of the jam. And here we are.
+I've finally a good reason to return from my Quake mapping hiatus and fire up Trenchbroom again.
+Still can't believe how massive this mod has become and how high of a production value the people behind it have managed to achieve.
+The mod's gameplay is much faster and I had to limit myself to a certain size due to time constraints.
+Most players will finish this one in less than 20 minutes, but that's totally fine.
+
+
+using ericw-tools v2.0.0-alpha10
+Build Time      : one month and one week (20.10.2025 - 28.11.2025)
+
+
+Times & stats   :System Used                    : Fedora Linux 41, 13th Gen Intel i7-13700K (24 cores), 32GB RAM
+                 Qbsp                           : 7.925s
+                 Vis (-level 4)                 : 5.59s
+                 Light (-extra4 -soft -bounce)  : 63.421s
+                 Brushes                        : 6304
+                 Entities                       : 1827
+
+Texture WAD used: selection from Makkon's concrete, tech, and industrial texture wads
+Editor(s) used  : Trenchbroom v2024.1
+
+
+
+* Running qbj3_plaw.bsp *
+You'll require the qbj3 mod to play.
+Copy qbj3_plaw.bsp and qbj3_plaw.lit into the qbj3/maps folder of your Quake installation.
+Also copy the mp3 from the music folder into the qbj3/music folder.
+Start Quake and run the qbj3 mod (type 'game qbj3' in the console).
+You can either select the map from the start map or run it directly by typing into the cosole:
+    map qbj3_plaw
+
+
+* Credits *
+
+Thanks to:
+	Sven "ptoing" Ruthner for playtesting.
+	Makkon for the awesome textures and for putting so much work into this mod.
+	The entire QBJ3 team for all their hard work and making all of this happen!
+
+	the Quake Mapping discord
+        (https://discordapp.com/invite/j5xh8QT)
+

@@ -1,0 +1,62 @@
+===========================================================================
+Title                   : Total Recall
+Filename                : qbj3_annihilazor.bsp
+Release date            : 04.12.2025
+Author                  : Annihilazor
+Discord	                : annihilator5762
+Other Files By Author   : Textures from Makkon
+Misc. Author Info       : Music from Dreamstate Logic - The Progenitors
+
+Description             : This map is heavily inspired by the movie Total Recall. At the beginning,
+			  there are a few puzzles and small battles before you encounter the larger horde fights.
+			  In total, there are 7 secrets to discover, which are definitely worthwhile for later in the game.
+			  Feedback is welcome.
+Additional Credits to   : Thank you for hosting this jam Makkon 
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : No
+Other                   : No 
+Other files required    : all needed files comes with this package
+
+
+* Play Information *
+
+Single Player           : Designed for 1 player starts only
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes, easy, normal and hard
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 30 days 
+Editor(s) used          : Trenchbroom
+Known Bugs              : no
+May Not Run With        : Engines need to support bsp2
+Tested With             : latest Ironwail client
+
+
+
+* Copyright / Permissions *
+
+Authors may use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+
+* Where to get the file that this text file describes *
+
+Web sites: www.slipseer.com
+FTP sites:

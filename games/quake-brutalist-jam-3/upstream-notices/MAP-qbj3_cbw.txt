@@ -1,0 +1,10 @@
+"Fullmoon Brutalism" by compbluewiz
+
+This is a map for Quake Brutalist Jam 3.
+It uses textures and skybox by Makkon.
+Software used for making it: TrenchBroom 2025.3, ericw-tools 2.0.0-alpha9, TexMex 3.4, SLADE v3.2.7.
+
+CBW can be found somewhere there:
+https://linktr.ee/compbluewiz
+https://lit.link/compbluewiz
+https://potofu.me/compbluewiz

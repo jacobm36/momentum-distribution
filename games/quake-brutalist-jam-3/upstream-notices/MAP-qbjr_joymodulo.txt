@@ -1,0 +1,31 @@
+===========================================================================
+Title                   : In the Shadow of the Weapon
+Filename                : qbjr_joymodulo.bsp
+Release date            : 12/7/2025
+Author                  : JoyModulo
+
+Description             : Return to the shadow of the weapon with this re-release of the QBJ2 original! I'm very happy to have been asked to refurbish the ole' weapon for the new QBJ3 mod. Much of the gameplay is the same, with some tweaks and inclusions from the new roster - and a new secret to discover.
+Additional Credits to	: Makkon for truly exquisite textures, My friend scott for playtesting.
+===========================================================================
+Includes
+
+New Levels		: Yes
+Sounds			: None new
+Music			: No
+Graphics		: Yes (Makkon textures)
+Other files reqired	: QBJ3 progs
+
+Play Information
+
+Single Player		: Yes
+Cooperative 2-4 Player  : Yes (checkpoints and weapon/item respawns (minor telefragging in some areas))
+Deathmatch 2-16 Player  : No
+Difficulty Settings     : Easy, Normal, Hard
+Secrets			: 10
+
+Constructed
+
+Base			: Many changes and adjustments made to the original "in the Shadow of the Weapon"
+Time to Build		: Two days when QBJR was first began, then two more before the submission deadline
+Editors used		: Trenchbroom
+Tested With		: Ironwail 0.8.0 + QBJ3

@@ -1,0 +1,18 @@
+TOWER OF SORROW - made by Softi
+
+easy - less monsters, more items
+medium - more monsters, more items
+hard - more monsters, less items
+
+Credits can be found beyond the exit (along with a special victory lap) but i shall put them here too:
+
+Softi - map
+Makkon - 99% of textures
+Softi - 1% of textures
+Planet Ridiculon - music (https://www.youtube.com/watch?v=AIykLqofrA8)
+Rabbit, AlexUnder, wons, Clenow, chaosed0, DustyDuke - playtesting & feedback
+
+SPECIAL THANKS TO:
+
+DustyDuke for being the loveliest person ever
+The q1-mapping-help channel for tolerating my very stupid questions

@@ -1,0 +1,48 @@
+===========================================================================
+Title                   : One Need Not Be A House
+Filename                : qbj3_radiatoryang.bsp
+Release date            : December 2025 (jam submission date)
+Author                  : Robert "radiatoryang" Yang
+Website                 : https://debacle.us
+
+Description             : large non-linear concrete bunker island / brick brutalism map made for Quake Brutalist Jam 3 https://www.slipseer.com/index.php?threads/quake-brutalist-jam-3-announced.745/ -- requires the QBJ3 mod.
+
+Additional Credits to   : thanks to Quake Mapping discord and Makkon + QBJ crew for organizing... thanks to Milestone, wons, PuLSaR, and chaosed0 for playtesting and feedback
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : Yes (ocean sound from ctsj2_bal)
+Music                   : Yes (track 58 - "Spirited Away" by Pup Luka)
+Graphics                : Yes (Makkon textures by Makkon, skybox by Kell)
+Other files required    : Quake Brutalism Jam v3.0 mod
+
+
+* Play Information *
+
+Single Player           : Designed for
+Cooperative 2-4 Player  : Yes (4 spawns, with slightly different monster placement)
+Deathmatch 2-16 Player  : There are player spawns but no special item placement... maybe good enough for low gravity rocket arena
+Difficulty Settings     : Easy, Normal, Hard
+Secrets					: 6
+
+
+* Construction *
+
+Base                    : From scratch, some curved brushwork bases from primitives_v3.map
+Build Time              : 6 weeks
+Editor(s) used          : TrenchBroom 2025
+Tested With             : Ironwail + QBJ3 Devkit
+
+
+* Copyright / Permissions *
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get the file that this text file describes *
+
+Download from: https://www.slipseer.com/ > Quake Brutalism Jam 3

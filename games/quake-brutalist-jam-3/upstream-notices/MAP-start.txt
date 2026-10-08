@@ -1,0 +1,65 @@
+===========================================================================
+Title			: The Monument
+===========================================================================
+
+Filename		: qbj3_start.bsp
+Author			: Makkon
+Description		: The hub map for all 77 community map entries, and an art piece.
+
+Additional Credits to   : QBJ3 Team for making this with me.
+			  Kebby for some prop models, ptoing for grafitti textures. 
+			  other qbj3 team members for testing and feedback.
+
+===========================================================================
+
+Notes:
+	My initial idea for this map was an oddly well kept but empty earthscraper (inverted skyscraper) built into a desolate wasteland, with miles of meat below the thin surface that was overtaking the interior.
+after getting over 70 map entries, that idea was no longer viable, so I went for more of a museum/institution setting. Some of the meat is still present, at the start and in a secret. overall the map is meant to be more surreal, cerebral, like a place that exists in your memory rather than an actual place.
+The stark desolate colorlessness of the opening contrasting with the vibrant and welcoming interior is, at least for this series, a welcome twist. You can't understate the effectiveness of carpet, rugs, and furniture to make even a bunker feel cozy.
+	There is a secret encounter hidden in the map designed by Fairweather.
+
+===========================================================================
+
+* What is included *
+
+New levels		: Yes
+Source			: Yes
+Sounds			: Yes
+Skybox			: mak_cloudysky4 by Makkon
+Music			: Hemera by Alekswithak / 黄仲波 composed for this map
+Graphics		: Yes
+Other			: skywind cfg
+Other files required	: QBJ3
+
+
+* Play Information *
+
+Singleplayer		: Designed for
+Cooperative 2+ Players	: Not supported
+Deathmatch 2+ Players	: Not supported
+Difficulty Settings	: Yes
+Enemies			: ???
+Secrets			: 1
+
+
+* Construction *
+
+Base			: New from scratch
+Editor(s) used		: Trenchbroom 2022.1, ericw's compiling tools,
+			  necros' compiling GUI
+Known Bugs		: None
+Tested With		: Ironwail 0.8.1
+Compiler settings	: qbsp.exe -bsp2 -splitturb
+			  light.exe -soft -extra4
+
+===========================================================================
+
+* Copyright / Permissions *
+
+Authors may NOT use the files contained within this map. Textures, props, and other assets are not to be repurposed without express, written permission from the map file author, and the permission of the artists who made the assets.
+If you want 
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format as long as you include this file intact, and only at no charge 
+to the recipient.

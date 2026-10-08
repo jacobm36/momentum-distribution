@@ -1,0 +1,102 @@
+18.01.2026
+
+================================================================
+Title                   : Slavic Surroundings
+Filename                : qbj3_jm.bsp  
+Author(s)               : Jakub "KUBA18i" Majewski
+Site                    : http://jakub-majewski.com
+Email Address           : jkbmajewski@gmail.com
+================================================================
+
+* Play Information *
+
+Game                    : Quake Brutalist Jam ]|[
+Level Name              : Slavic Surroundings
+
+Single Player           : Yes
+Cooperative 1-3  Player : Player starts only
+Deathmatch 2-32 Player  : Player starts only
+Difficulty Settings     : Yes
+Monster Count           : 65/95/120
+Secrets                 : 2 (not counting easter eggs)
+
+New Textures            : Yes
+New Models              : Yes
+New Sounds              : Yes
+New Music               : Yes
+
+*Author's Notes*
+
+Autumn 2025, QBJ3 is announced. I've only made a handful of singleplayer maps at that point, so I was looking forward to joining more jams and community projects. Having made a bunch of ports of multiplayer maps between games, I already had a good grasp of how to use the editors at hand.
+
+I am not a big fan of brutalist architecture, but I was still considering doing something for the jam. I looked up examples of brutalist buildings, and I realised that a lot of them look like the stuff I see whenever I go outside. Seeing how I have a fascination with recreating real-life locations in video games, I decided to take do this sort of thing here. I drove around my town(and neighbouring ones) to look for inspirations, and I settled on the area surrounding the Pope's statue in Sosnowiec.
+
+Initially, I wanted to utilise OSM elevation data, but aligning the buildings to the slopes was a nightmare. Not to mention, I was running out of time. Thus, I had to limit the scope a bit. Despite that, the map still feels pretty gargantuan, despite its simple layout; I'm sorry about that. A few buildings were scrapped, and a bunch of textures became unused.
+
+A lot of the assets were provided by me, since I took a lot of photos with my drone and my phone. I was curious whether I could use it for photogrammetry, so I recorded two flights around the statue just in case. Naturally, I used the built-in feature for taking spherical pictures to create the skybox; since my drone can't look directly upwards, I had to stitch it together with a HDRI off the Internet. After messing around with Meshroom, I managed to create a model of the Pope statue (which you can check out at https://skfb.ly/pDX7x ), and after learning about texture baking, I was able to optimise it for Quake.
+
+As for the map itself, I suppose it's a snippet of an Eastern Bloc town, with its typical architecture. Despite Brutalism being associated with Soviet regimes, the level features a lot of contemporary elements, so I suppose it is a mixed bag of things from various time periods. The map has open progression, so have fun.
+
+* Construction *
+
+Photos taken with a realme 11 Pro+ 5G phone and a DJI Mini 2 drone.
+
+Software used:
+- Trenchbroom (duh)
+- EricW Tools, 2.0 Alpha version
+- Adobe Photoshop
+- Wally
+- https://captain4lk.itch.io/slk-img2pixel very useful for adjusting images to the Quake palette
+- Blender, with the following plugins:
+-- https://github.com/victorfeitosa/quake-hexen2-mdl-export-import
+-- https://github.com/c-d-a/io_export_qmap
+-- https://github.com/hypov8/blender_kingpin_models
+-- https://prochitecture.gumroad.com/l/blender-osm
+- Audacity
+- OpenMPT
+- Texture Grabber and Tiler from https://tools.ummjackson.com/
+- ffmpeg
+- Meshroom, for photogrammetry
+- SkyPaint
+- QWalk
+- Batch script for adding WAV loop cues from here: https://developer.valvesoftware.com/wiki/Looping_a_sound
+
+* Credits *
+
+Inspirations:
+- A neighbourhood in my hometown, as seen here: https://www.openstreetmap.org/#map=18/50.283529/19.180257
+- Church interior based on: https://rozancowasosnowiec.pl/galeria/kosciol,1
+
+Audio sources:
+- Music is "ParisChateau_Music.umx" from Deus Ex
+- Outro song from https://www.youtube.com/watch?v=SkBL5FbbmSo
+- TV audio from https://www.youtube.com/watch?v=K5zcnv1YtYs
+- https://freesound.org/people/Dusk225/sounds/346403/
+
+Texture sources:
+- Hexen ][, by Raven Software
+- Quake, by Id Software
+- https://3dtextures.me/2017/11/26/stylized-bark-001/
+- https://3dtextures.me/2022/02/24/hedge-001/
+- https://3dtextures.me/2020/09/08/stylized-leaves-002/
+- Makkon's texture packs, too many to list
+- Kebby's test textures, included in the QBJ3 devkit
+- TV footage from https://www.youtube.com/watch?v=K5zcnv1YtYs
+- https://pl.wikipedia.org/wiki/Plik:Orange_logo.svg
+- https://en.wikipedia.org/wiki/File:Cyfrowy_Polsat_logo.svg
+- https://pl.wikipedia.org/wiki/Plik:Cyfra%2B_logo_1998-2013.svg
+- a few textures from here: https://www.slipseer.com/index.php?threads/shadow-warrior-1997-textures-deleted.442/
+- the upper part of the skybox was taken from here: https://polyhaven.com/a/overcast_soil_puresky
+
+3D model sources:
+- Tree from Hexen ][, converted into brushes with a Blender plugin
+- Kingpin, by Xatrix Entertainment
+- Dopefish from Daikatana, by Ion Storm
+- https://models.spriters-resource.com/ds_dsi/sonicrushadventure/asset/299671/
+- Cirno Fumo from https://skfb.ly/prQFS
+- https://models.spriters-resource.com/ds_dsi/mariosonicattheolympicgames/asset/313806/
+- https://models.spriters-resource.com/psp/familyguyvideogame/asset/293084/
+- https://lukasatbk.itch.io/pomni-lowpoly
+- https://models.spriters-resource.com/mobile/puchigurulovelive/asset/310108/
+- https://www.deviantart.com/bahpony/art/Super-Low-Polygon-Twilight-Sparkle-558129120
+- Fiat cars taken from https://skfb.ly/our8K and https://skfb.ly/o8RXM , but used to render textures.

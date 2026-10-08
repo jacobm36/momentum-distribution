@@ -1,0 +1,71 @@
+Map: Color Charge (qbj3_nickster)
+Version: 1.2
+Author: nickster (nickster6660@hotmail.com)
+
+v1.2 Changes:
+- Added another autosave in the first section of the map
+- Made it easier to get out of the tar pit around the second silver key
+- Fixed a hypothetical softlock behind the green steel supports
+- Fixed non-functioning tar pit ladder
+- Adjusted yellow reactor fog color
+- Mixed music to have a bit less dynamic range
+- Various texture alignment/geometry cleanup
+
+v1.1 Changes:
+- Fixed various cracks/sparklies/visible skip/etc.
+- Cleaned up some messy brushwork (SOME of it :))
+- Minor item placement changes
+- Minor texture alignment fixes
+- Added some "safety clipping" around basalt
+- Improved enemy triggering in reactor rooms
+- Various cosmetic/visual improvements
+- Added music track
+
+v1.0:
+- Initial QBJ3 submission
+
+Description:
+	Pretty big map for Quake Brutalist Jam 3 (QBJ3) (2025).
+	What power are they trying to harness?
+Requires Mod?
+	Yes - QBJ3
+Requires Source Port?
+	Yes - tested with
+		IronWail (https://github.com/andrei-drexler/ironwail)
+
+---------------------------------------
+YOU SHOULD HAVE INSTALLED THIS WITH THE JAM, BUT JUST IN CASE
+
+Installation:
+	Unzip the archive into your quake/qbj3 folder
+To Play:
+	Start QBJ3
+	Open the console (~)
+	Type "skill #" where # is 0 (easy), 1 (normal), 2 (hard), 3 (nightmare) and hit enter
+	Type "map qbj3_nickster" and hit enter
+	Hold onto your butt
+
+---------------------------------------
+
+Technical:
+	Enemies (E/N/H): 290/371/431
+	Secrets: 4
+
+---------------------------------------
+
+Custom Textures:
+	Makkon (https://www.slipseer.com/index.php?resources/makkon-textures.28/)
+		Concrete, Tech, and various
+		
+Custom Sky:
+	Makkon (mak_beksinskisky3)
+
+Custom Music:
+	Music track (track121.ogg) by me (https://jupiterskydive.bandcamp.com/)
+	
+Custom Sounds:
+	Reactor shutdown sound by me
+	Sound FX source from Freesound.org:
+		"Lluvia.wav" by vinjatovix (https://freesound.org/people/vinjatovix/sounds/110354/) licensed under CC Attribution 4.0
+	Several sounds from Quake 2
+	Some other sound FX source from NASA

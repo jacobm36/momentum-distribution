@@ -1,0 +1,46 @@
+================================================================
+Title                   : McKinley's Copyright Infringement	
+Filename                : qbj3_wiedo.bsp
+Author                  : wiedo
+Bluesky                 : @wiedo.nl
+Discord                 : wiedo#5077
+Description             : Remix of the OG CTF1 maps
+Version			: 1.0
+Special thanks          : Colossus, Makkon, rabbit, Mopey bloke, Chuma & Alpha
+
+Comments                : This map has been in the garbage bin for a while. Should've finished it 3 years ago but I couldn't make progress. For this jam I decided to remove most of the interiors I already made for it and start over Brutalist style. It was still a slow and painful process but I think it turned out to be a fun little map.
+
+* Play Information *
+
+Mod Needed		: Quake Brutalist Jam 3
+Single Player           : Yes
+Cooperative             : Yes, 4 starts
+Deathmatch              : Yes
+Difficulty Settings     : skill 0 1 2
+New Sounds              : No
+New Graphics            : Yes, from my personal texture set I used before and a lot of Makkon textures
+New Music               : Yes (Blood Instinct - Eradication from Quake Music Jam - https://www.slipseer.com/index.php?resources/quake-music-jam-1-runic-resonances.292/) 
+CD Track                : 269 (aka 13)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : -
+Editor(s) used          : Trenchbroom
+Known Bugs              : 
+Build Time              : ~40 hours
+
+Texture Wad used        : prototype_1_3.wad, wiedohive.wad, and almost all Makkon texture sets
+
+Compile machine         : Windows PC with 12th Gen Intel(R) Core(TM) i3-12100F 
+QBSP Time               : 2.199s
+Light			: 11.928s (with -extra4 -gamma 1.35)
+VIS Time		: 2.10s
+
+Brushes                 : 1415
+Entities                : 647
+
+
+* Legal Stuff *
+--------------------------
+Feel free to use my map file to expand or copy my code, however shoot me a message because I would like to know!

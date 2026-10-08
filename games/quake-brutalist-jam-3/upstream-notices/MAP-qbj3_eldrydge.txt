@@ -1,0 +1,23 @@
+-+-Ennaum Teferet-+-
+ABOUT
+This is my first Quake map, so do excuse any ugly or unnecessary brushwork (or combat, or lighting, or any weirdness in general).
+I tried to make a large enclosed space, so there's no outdoors section.
+
+PLAY INFO
+Co-op starts provided. The map isn't balanced for it beyond this.
+All difficulties have been balanced for. Ultimately, it's not very hard but not a piece of cake either.
+Completion time is around 15-20 minutes, maybe a bit less.
+
+CREDITS
+Song: Silicon, composed by Kandy Soda for this map. Big thanks to them.
+Check their music out here:
+https://www.youtube.com/@NikoKozlowitz/videos
+
+WADs used:
+Concrete
+Industrial
+Tech
+Liquids
+
+All made by Makkon, found here:
+https://www.slipseer.com/index.php?resources/makkon-textures.28/

@@ -1,0 +1,54 @@
+===========================================================================
+Title			: More Sand Than Oil
+Filename		: qbj2_recycledoj.bsp
+Original Release date	: Oct. 17, 2023
+Author			: Ryan JL "RecycledOJ"
+Email Address		: ryan@thecenterworld.com
+Website			: thecenterworld.com
+Description		: "There is more sand than oil in your engine!"
+
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Other                   : No
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : From Scratch
+Original Build Time     : ~2.5 Weeks
+Editor(s) used          : Trenchbroom
+Tested With             : vkQuake
+Textures Used		: Makkon 4, LibreQuake
+
+
+* Additional Credits *
+
+Music: Phisush by Immorpher
+
+Skybox: Dragonvale by Kell
+
+Additional Sound Effect(s) by Markie Music
+
+Special Thanks, Testing, Feedback:
+Chuma
+Samuel2213
+
+* Copyright / Permissions *
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.

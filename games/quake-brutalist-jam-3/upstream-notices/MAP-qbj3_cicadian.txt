@@ -1,0 +1,61 @@
+╔══════════════════════════════════════╗
+║RELEASE NOTES                         ║ 
+║Title        : Blood From Stone       ║
+║Filename     : qbj3_cicadian.bsp      ║
+║Version      : 1.1                    ║
+║Release date : January 2026           ║
+║Author       : Cicadian (CKDN)        ║
+║Website      : https://deerbell.games/║
+║Social       : ckdn.bsky.social       ║
+╚══════════════════════════════════════╝
+In this map you raid a mysterious facility where the enemy is developing a new weapon. 
+Map made for Quake Brutalist Jam 3
+https://www.slipseer.com/index.php?threads/quake-brutalist-jam-3-announced.745/
+
+This map was initially loosely designed for 2 player coop but I included 4 spawns. I've balanced it mostly for Normal/Hard difficulties but there's a few helpers on easy. It is not designed for deathmatch.
+
+Credits: My friends for putting up with me being busy for so long, my girlfriend for supporting my endeavors, my community for helping me fall in love with music and being creative again, the very fine (and at times very silly) people at the Quake Mapping discord for answering all my questions lightning fast and Makkon for nearly all the textures, inspiration and subtle encouragement. Rock on ;)
+
+The file q3bj_cicadian.zip and its contents are only authorized to be distributed with Quake Brutalism Jam 3. You may explore the provided source map and make alterations or borrow from it as long as you give credit when publishing. Please let me know if you do this so I can see what cool stuff you've done with my work!
+
+I grant the maintainers of Quake Brutalist Jam 3 a non-exclusive, non-transferable license to include the file track15.ogg as part of the mod pack and distribute it only as part of this pack. No other reproduction, distribution, modification, or reuse of this work is permitted without my express permission.
+
+Additionally, if you would like to discuss my work please get in touch!
+
+Changelog
+1/4/26 - 1.0 (Compiled 12/25)
+Initial Release
+
+1/16/26 - 1.1
+Thank you everyone for the amazing feedback and video coverage!
+---
+Fixed incorrect path calls for model entities which could lead to map not loading on a linux device.
+Adjusted enemy spawns in entrance, foundry and nexus areas, added a single wizard to the quarry.
+In addition to this, the shalrath have been removed from the puzzle room, added golems in their place and on each pillar. Should be a fun fight on nightmare!
+The security hallway encounter will end friendly cover fire 1 kill earlier.
+Moved lightswitch to small alcove in nexus to help point to a secret better.
+Added a bunch of health and armor items to the foundry gauntlet to encourage the intended design of rushing through it rather than parking at the door.
+Added visual cue at end of foundry gauntlet to show the loopback better.
+Added exploration rewards to foundry gantry.
+Added light above MMML.
+Added missing sounds from doors.
+Added various visual hints to the other 3 secrets.
+Added floodlight to nexus warehouse pointing at the ladder.
+Fixed misaligned textures on inside of doors and guardrails and caution tape.
+In response to this map appearing to be a lot of people's first pick when starting the mod, more ammo pickups have been added.
+Office Hell Knight lady that menaces you through the window now gets mad when you enter her office.
+Adjusted how second objective works behind the scenes so it's harder to miss when completed.
+Added a second semi-permanent message to alert you to destroy an objective that appears when standing near it in addition to the one-time trigger that already occured.
+Added small exploration reward to the quarry.
+Raised ceiling of guts room so the shambler can move around better.
+Fixed duplicate shalkin in nexus final fight.
+Added lights to foundry conveyor belt to better show what the room and machine is supposed to be doing.
+Added metadata to track15.ogg
+╔════════════════════════════════╗
+║INCLUDED FILES                  ║
+║q3bj_cicadian.bsp               ║
+║q3bj_cicadian.lit               ║
+║q3bj_cicadian.map               ║
+║q3bj_cicadian.txt               ║
+║track15.ogg "Assemblage" by CKDN║
+╚════════════════════════════════╝

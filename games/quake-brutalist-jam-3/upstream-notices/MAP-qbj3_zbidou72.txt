@@ -1,0 +1,65 @@
+===================================================================================
+
+Title	      	: Das Brut (qbj3_zbidou72)
+Author		: Zbidou72 (07/12/2025)
+
+----------------
+
+About		: This is my entry for the Quake Brutalist Jam 3.
+                  
+                  Infiltrate a secret facility and steal the Reich's latest superweapon : Das Brut !
+
+
+Tools used	: Trenchbroom 2025.4, ericw tools, necros's compiling GUI
+
+Tested on	: Ironwail 0.8.0
+
+Bugs		: N/A
+
+----------------
+What is included
+---------------- 
+
+New levels              : Yes
+New textures		: Mostly from Makkon, a few from Strideh
+New skybox		: Yes ("mak_nightsky1" from Makkon)
+New sounds             	: Yes(Mostly from Markie)
+New music               : Yes
+                          This music is streamer fiendly.
+                          "The Outsider" by Karl Casey@White Bat Audio
+
+Progs used	      	: QBJ3 1.4.1
+
+Single Player 		: Yes
+Cooperative 2-4 Players	: No
+Deathmatch 2-8 Players	: No
+
+Enemy count 		: 299/381/447  (easy/normal/hard)
+Secrets			: 16
+
+
+
+
+----------------
+Remarks
+----------------
+
+Whenever you see a blinking button, press it.
+
+------
+Update
+------
+
+Added tips to improve directions.
+Minor changes to some textures, geo and lighting.
+
+
+The difficulty may lean on the hard side, a little secret hunting and tactical
+analysis will help a lot.
+
+
+Copyright		: You MAY distribute this file, provided you include this text file, 
+			  with no modifications. You may distribute this file in any electronic 
+			  format as long as you include this file intact.
+
+===================================================================================

@@ -1,0 +1,108 @@
+===========================================================================
+Title			: The Smell of Sunshine
+===========================================================================
+
+Filename		: qbj3_h4724.bsp
+Author			: h4724
+Other Files By Author	: sm207; ctsj; d1m5, dwelldm2 (dwellv2p2.zip);
+			  speedmap snack pack; sm213; ctsj2; DOPE
+
+Discord			: h4724
+
+Description		: My submission for Quake Brutalist Jam 3
+
+Additional Credits to   : QBJ3 Team
+			  Makkon for textures, plus prefabs for lights,
+			  pipes, and barrels
+			  ptoing for graffiti and big light textures
+			  DEvSEb for music
+			  metlslime and czg for laser sounds from Rubicon 2
+			  Markie for rain sound
+			  fw, spootnik, stickflip, Makkon, and Mazu for
+			  testing
+			  Lunaran for Copper
+			  Everyone who submitted a map for qbj3
+
+===========================================================================
+
+Notes:
+	I started this map for QBJ2 way back in September 2023. Once the 
+deadline passed, I set it aside to work on other things and hoped to maybe
+release it standalone or as part of QBJ3. Of course, I didn't know at that
+point that QBJ3 would come 2 years later and include a total conversion.
+	The initial inspiration for the visuals came from some pictures I
+took of the cargo unloading area of a shopping mall. It doesn't look like
+the map at all, but it was a starting point for the facade through which 
+you exit the starting area, as well as the overwhelming sense of space that
+I wanted to capture. I blended various styles and purposes, including
+utilitarian industrial spaces, monumental/sculptural shapes, utopian public
+spaces, and military bunkers, along with crystalline growths of concrete
+that aren't meant to have been built at all. I didn't try to fit a specific
+backstory; it's all somewhat dreamlike and nonsensical, just like Quake,
+but I did try to execute on some clear ideas.
+	I'm happy with the highly vertical layout, and I think there are
+some fun gameplay moments, but it's a lot less tightly designed than some
+of my other maps. I don't think that's so bad, especially when I wanted the
+focus to be more on the visuals, but it does mean that some of the
+encounters get messy and less fun depending on how you play them.
+
+===========================================================================
+
+* What is included *
+
+New levels		: Yes
+Source			: Yes
+Sounds			: Yes
+Skybox			: mak_bluesky3 by Makkon
+Music			: Hopeless by DEvSEb
+https://www.slipseer.com/index.php?resources/quake-music-jam-1-runic-resonances.292/
+Graphics		: Yes
+Other			: skywind cfg
+Other files required	: QBJ3
+
+
+* Play Information *
+
+Singleplayer		: Designed for
+Cooperative 2+ Players	: Not supported
+Deathmatch 2+ Players	: Not supported
+Difficulty Settings	: Yes
+Enemies			: 277 / 328 / 350
+Secrets			: 10
+
+
+* Construction *
+
+Base			: New from scratch
+Editor(s) used		: Trenchbroom 2022.1, ericw's compiling tools,
+			  necros' compiling GUI
+Known Bugs		: None
+Tested With		: Ironwail 0.8.0
+Compiler settings	: qbsp.exe -bsp2 -splitturb
+			  light.exe -soft -extra4
+
+===========================================================================
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or 
+reuse with correct attribution.  Permissions have been obtained from original
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format as long as you include this file intact, and only at no charge 
+to the recipient.
+
+
+* Where to get the files that this text file describes *
+
+Slipgate Sightseer	: https://www.slipseer.com/
+Quaddicted		: https://www.quaddicted.com/
+
+Dwell			: https://www.slipseer.com/index.php?resources/dwell.21/
+
+Copper			: http://lunaran.com/copper/download/
+			  https://www.slipseer.com/index.php?resources/copper.27
+
+DOPE			: https://www.slipseer.com/index.php?resources/d-o-p-e.470/

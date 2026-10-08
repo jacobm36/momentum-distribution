@@ -1,0 +1,48 @@
+===========================================================================
+Title                   : Ruff Concrete (Remix)
+Filename                : qbjr_mrtaufner.map, *.bsp, *.lit
+Release date            : Dec 5, 2025
+Author                  : Vinnie "mrtaufner" Taufner
+Discord                 : mrtaufner
+Bluesky                 : https://bsky.app/profile/mrtaufner.bsky.social
+ArtStation              : https://www.artstation.com/mrtaufner
+
+Additional Credits/Thanks to:
+  Ben "makkon" Hale - Wads
+  The QBJ3 Crew - This new and enhanced version of Copper, soon to be a mod on its own
+  Everyone who played the original map
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : Yes - deep.wav (Alkaline), runwater.wav (Half-Life)
+Music                   : Track 10 - Falling (Quake OST)
+Graphics                : Makkon wads   
+Other files required    : QBJ3Dev, QBJ3Copper or whatever it's gonna be called in the end
+
+
+* Play Information *
+
+Single Player           : Designed for
+Cooperative 2-4 Player  : Not implemented (no spawns)
+Deathmatch 2-4 Player   : Not implemented (no spawns)
+Difficulty Settings     : Not implemented (all skills are hard)
+
+
+* Construction *
+
+Base                    : This is my QBJ2 map, remixed with some new things from QBJ3, essentially. The hardest part was to decide whether improving the existing geo and encounters or not. Took me quite a while to figure out what to change and what to keep. The loop is the same as the original map.
+
+Build Time              : I don't really know for sure. I started remixing this map back in May-June, and been working on it on and off ever since.
+
+Editor(s) used          : TrenchBroom v2025.2
+Known Bugs              : None known, please ping me you find anything
+May Not Run With        : Unknown, please ping me you find anything
+Tested With             : Ironwail 0.8
+
+* Copyright / Permissions *
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.

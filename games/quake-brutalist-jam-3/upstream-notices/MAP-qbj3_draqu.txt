@@ -1,0 +1,16 @@
+Title:		Concrete Maxima
+Filename:	qbj3_draqu.bsp
+Author:		DraQu
+Build time:	Way too long and not enough time all at once
+Tested with:	Ironwail 0.8.0
+Tools used:	Trenchbroom, ericw-tools-2.0.0-alpha9, Photoshop, Texmex
+
+Required mods:  QBJ3
+Singleplayer:	Yes
+Co-operative:	Yes but not tested
+Deathmatch:	No
+Difficulties:	Tested on skill 2. No balance changes between difficulties (yet)
+
+This is a demo version of a larger map to be released one day.
+
+Thank you to the team for all the hard work on the mod!

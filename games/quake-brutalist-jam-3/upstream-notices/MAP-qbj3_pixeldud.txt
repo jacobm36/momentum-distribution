@@ -1,0 +1,34 @@
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│        █████   ██████  ██  ██  ██████  ██      █████   ██  ██  █████         │
+│        ██  ██    ██    ██  ██  ██      ██      ██  ██  ██  ██  ██  ██        │
+│        █████     ██     ████   ████    ██      ██  ██  ██  ██  ██  ██        │
+│        ██        ██    ██  ██  ██      ██      ██  ██  ██  ██  ██  ██        │
+│        ██      ██████  ██  ██  ██████  ██████  █████    ████   █████         │
+│                                                                              │
+│                                     ████                                     │
+│         for Quake Brutalist Jam 3   ██     presents his second level         │
+│                                     ██████                                   │
+│                                   ██                                         │
+│                                                                              │
+│            ██████  ██  ██   ████    ████    █████  ██████  █████             │
+│            ██      ███ ██  ██  ██  ██  ██  ██      ██      ██  ██            │
+│            ████    ██ ███  ██      ██████   ████   ████    ██  ██            │
+│            ██      ██  ██  ██  ██  ██  ██      ██  ██      ██  ██            │
+│            ██████  ██  ██   ████   ██  ██  █████   ██████  █████             │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Hello once again! Quake Brutalist Jam is back, and I decided to give it another
+go! I had a lot of fun participating in QBJ2, and learned quite a bit about
+mapping while doing so. It's been some time since then, and I think I've put my
+new knowledge to good use with this map.
+
+A big thanks to the QBJ3 team for putting on this fantastic jam.
+
+The textures used are once again by the talented Makkon. Also utilized are the
+dev tools textures by Kebby.
+
+Track 70 is the song "Burnt to a Crisp" by Daniel Birch, and is licensed under
+CC BY-NC 4.0 (creativecommons.org/licenses/by-nc/4.0/). You can find more of his
+music here: https://daniel-birch.bandcamp.com

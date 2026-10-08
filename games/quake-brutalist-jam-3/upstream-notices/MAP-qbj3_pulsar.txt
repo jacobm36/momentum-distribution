@@ -1,0 +1,58 @@
+Title                   : The Monochorome
+Filename                : qbj3_pulsar
+Release date            : 08/12/2025
+Author                  : Andrey 'PuLSaR' Sayenko
+Email Address           : pulsar1337@gmail.com
+Misc. Author Info       : I map from time to time and like to place spawns in quake maps
+
+Description             : Medium-sized concrete map. It's actually a remix of my Map-Center retrojam 4 entry (The Hexagon Vault). It was very brutal so 			  	  I decided to redress it in the Makkon concrete texture set (with some textures by Strideh). But new weapons and monsters play so
+			  differently that I had to rebalance the map entirely. I added a few brand new sections to the map in the end.
+
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : Yes, some sounds from Arcane Dimensions
+Music                   : Yes, Monochrome Echo (track72), written by me specifically for this map
+Graphics                : Makkon concrete texture set plus some additional textures by Strideh
+Demos                   : No
+Other                   : Source map included
+Other files required    : qbj3 progs
+
+
+* Play Information *
+
+Game                    : Quake
+Map #                   : 1
+Single Player           : Designed for
+Cooperative 2-4 Player  : Yes, 4 starts, additional coop-only scripting (tested solo)
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes (80/130/170)
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : ~1.5 weeks for the original map + ~4 weeks to remix
+Editor(s) used          : Trenchbroom
+May Not Run With        : Quakespasm, KEX, MarkV
+Tested With             : Ironwail 0.8.0
+
+* Playtesters *
+
+Gila, AlexUnder, Vondur, VoidForce, rj, INfront95, chaosed0
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use.
+

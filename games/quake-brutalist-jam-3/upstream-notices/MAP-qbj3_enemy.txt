@@ -1,0 +1,9 @@
+The Fiendish Concrete City by ENEMY!!!
+I have a lot of half-finished Quake maps so I did this map to force myself to release something.
+I had to hurry and to cut some detailing out in order to get the map finished, but I hope
+not ooo many bugs have slipped through.
+Music was composed by myself for this map on track 54.
+
+Playthroughs of the map take around 20-25 minutes typically.
+WADS used: Makkon Concrete, Industrial, Urban (+ Urban Interior), Tech, Nature
+https://www.slipseer.com/index.php?resources/makkon-textures.28/

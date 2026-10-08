@@ -1,0 +1,55 @@
+===========================================================================
+Title			: Whisked in the Pan
+Filename		: qbj3_roj.bsp
+Release Date		: Dec. 7, 2025
+Author			: Ryan JL "RecycledOJ"
+Email Address		: ryan@thecenterworld.com
+Website			: thecenterworld.com
+Description		: Stay light on your feet, or you may burn.
+
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Other                   : No
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (8+ Spawns)
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : From Scratch
+Original Build Time     : ~4 Weeks
+Editor(s) used          : Trenchbroom
+Tested With             : vkQuake
+Textures Used		: Makkon, LibreQuake (Dev, Liquids), Socktech
+
+
+* Additional Credits *
+
+Music: the bare thought remains gloomy by Zentriert ins Antlitz
+Released under Non-Commercial Creative Commons License
+(http://zentriertinsantlitz.de/)
+
+Skybox: Ruins by Hazel Whorley
+
+Additional Sound Effect(s) from Alkaline & Sprawl96
+
+Special Thanks:
+Makkon for additional inspiration with the in-map font.
+
+* Copyright / Permissions *
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.

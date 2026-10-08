@@ -1,0 +1,46 @@
+
+===========================================================================
+Title                   : You've Been Tagged and Now You're It
+Filename                : qbj3_efant.bsp
+Author                  : efant
+
+Description             :
+                        Your interdimensional travel got intercepted and now you find yourself on some sort of playground.
+                        Escape the forces responsible for your abduction. Locate both Silver and Gold Rune Keys, and slip through another gateway!
+
+                        "You've Been Tagged and Now You're It" is a map in a style of Brutalist playground with just two keys, obstacles and structures for (hopefully!) joyful movement.
+                        Made for Quake Brutalist Jam 3.
+
+Credits to              :
+                        Ben "Makkon" Hale and the entire QBJ3 team for:
+                            - QBJ3 Progs
+                            - makkon_concrete.wad
+                            - Quake Brutalist Jam 3!
+                        autophobia for "playground" (track19.ogg) // https://soundcloud.com/autophobia-608736808
+                        Andrew Yoder for the Playgrounds article
+===========================================================================
+* What is included *
+
+New levels              : Yes (1)
+Sounds                  : No
+Music                   : Yes (1)
+Graphics                : No
+Other files required    : QBJ3 Progs
+
+
+* Play Information *
+
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : Player starts only
+Difficulty Settings     :
+                        "Easy" for free-form exploration without items, weapons, monsters.
+                        "Normal" for regular Quake + QBJ3 Progs gameplay.
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 21 Days
+Editor(s) used          : TrenchBroom 2025.4-RC2
+Tested With             : Ironwail 0.8.0
+

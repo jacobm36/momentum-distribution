@@ -1,0 +1,54 @@
+===========================================================================
+Primary purpose         : Single play
+===========================================================================
+Title                   : Savior Machine
+Filename                : qbj3_simonn.bsp
+Release date            : [Same as QBJ3]
+Author                  : Simon Novak
+Email Address           : i.am.seyemon@gmail.com
+Other Files By Author   : mc_rj4_simonn.bsp
+                          bonk_simonn.bsp
+Misc. Author Info       : I stream on Twitch here:
+                          https://www.twitch.tv/simon_novak
+
+Description             : You're sent to investigate a broken fuse, you're
+                          going to leave wishing you had taken up software
+                          engineering, instead.
+
+Additional Credits to   : Makkon and the Dwell team for textures.
+                          DEvSEb for music.
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Demos                   : No
+Other                   : No
+Other files required    : QBJ3 (should be a part of)
+
+
+* Play Information *
+
+Game                    : Quake
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 7 weeks on and off
+Editor(s) used          : Trenchbroom, TexMex
+Known Bugs              : Monster counts are not accurate and I can't find
+                          where they ran off to or why some won't spawn.
+Tested With             : Ironwail 0.8.0
+
+* Special Thanks *
+
+- Everybody at the Quake Mapping discord for their help.
+- Softi, Clenow and Osh from the same discord for playtesting my map.

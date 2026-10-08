@@ -1,0 +1,32 @@
+QONQRETE: RESURFACED
+
+Qonqrete was a map with a lot of problems. I cut it down massively during the first brutalist jam and what was left was a bit of a mess. Tight corridors and easily broken encounters. A QBJ3 remix let me take a stab at improving a few things, without massively rebuilding everything.
+
+I started by deleting most of the encounters, all the weapons and starting over. I overhauled a lotta spaces to read a bit cleaner, optimised that absolute hell of out geometry and texture memory, added in a little more room to move and fixed up all the places I found monsters getting caught. 
+
+Treating it essentially as a "hard mode" remix of the original, I made it much nastier and updated it with the latest Makkon textures and a darker, moodier atmosphere to suit. Enjoy!
+
+- more enemies! (59/64/72 -> 86/98/115)
+- more secrets! (2 -> 6)
+- more efficient!
+- a hidden little guy
+
+Fix-up time: a week or two, give or take
+
+Co-op is supported but not tested and will probably reveal some sneaky monster spawns.
+
+---------------------------------
+
+Credits:
+
+Music: 
+There's no Light Here, by Souls of Nephilims
+From the album Falésia (Enough Records)
+Licensed under CC BY-NC-SA 3.0
+https://freemusicarchive.org/music/Souls_of_Nephilims/none_given_1017/cd2_05_souls_of_nephilims_-_theres_no_light_here/
+
+Textures: 
+Makkon (small edits and additional textures by me)
+
+Skybox: 
+Makkon (mak_cloudysky2)

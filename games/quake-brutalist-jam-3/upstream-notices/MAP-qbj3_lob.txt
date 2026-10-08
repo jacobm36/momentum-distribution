@@ -1,0 +1,57 @@
+===========================================================================
+Title:						High Rise
+Filename:					qbj3_lob.bsp
+Release date:				08-12-2025
+Author:						Lobotomy-Lobster (AKA "Lob")
+Mod Requirements:			Quake Brutality Jam 3
+===========================================================================
+
+
+
+
+
+DESCRIPTION AND INSTALLATION
+============================
+The height of modern YIMBY living
+
+This map has been included in Quake Brutality Jam 3, and is best run by installing the jam as per its instructions
+
+
+
+
+
+CONSTRUCTION
+============
+Time to make:	about a week
+Editor:			Trenchbroom
+Wads used:		various Makkon, Remaster and some foliage ones
+
+
+
+
+
+CREDITS, THANKS, COPYRIGHT, AND PERMISSIONS
+===========================================
+Thanks to:
+	the QBJ3 team for making the mod and running the jam
+	Quake Mapping Discord and its community for help, guidance and playing the game
+	
+Music:
+	Let Your Enemies Feel the Weight of Your Burdens - Chris Zabriskie
+		distributed unchanged under Attribution 4.0 International licence CC BY 4.0
+		https://chriszabriskie.bandcamp.com/track/let-your-enemies-feel-the-weight-of-your-burdens
+		https://creativecommons.org/licenses/by/4.0/
+	
+Feel free to inspect the included .map, but it may NOT be used for anything commercial, and please credit me if you take things from this
+
+All copyright and permissions for WADS, mods, jam packs, Quake, sounds, music, and any other associated files and entities are the rights of their respective owners,
+so please respect their wishes and licence agreements
+
+
+
+
+
+CONTACT
+=======
+At the time of release I can be found in the Quake Mapping Discord and Map Center servers and can be contacted there
+Questions, comments and issues are all welcome in these servers or via DM ( if you are polite (: )

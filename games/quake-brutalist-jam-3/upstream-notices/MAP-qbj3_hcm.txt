@@ -1,0 +1,127 @@
+===========================================================================
+Title                   : Escape from KOE-37
+Filename                : qbj3_hcm
+Release date            : 7.12.2025
+Updated			: 18.12.2025
+Author                  : Mazu
+
+Email Address           : pyroclaw88@gmail.com
+Discord			: HCMazu
+Twitch			: twitch.tv/hcmazu
+BlueSky			: hcmazu.bsky.social
+YouTube			: https://www.youtube.com/@HardcoreMazu/
+
+Other Files By Author   : SMEJ(1,2)QBJ(1,2,3 now). Check more at Slipseer.
+			  https://www.slipseer.com/
+
+Misc. Author Info       : Massive Quake and DOOM nerd. Speedrunner.
+			  Professional level designer occasionally.
+
+Description             : Concrete everywhere, using Makkon textures.
+			  Large megastructure has a dark secret to uncover.
+			  Join Rover in a daring escape rush. Map is kinda
+			  inspired by Half-Life and more low tech weapons
+			  and puzzly situations. Until you get your arsenal
+			  of course.
+
+			  Version 1.07
+			  - Train items stay on
+			  - Fix'd arena fight on easy difficulty
+
+			  Version 1.06
+			  - Added coop spawns that progress
+			  - Custom sounds for some environment stuff
+			  - Typo fixes in data files and comms
+			  - Special effects (rubble, lightning)
+			  - Difficulty balance changes
+			  - Roof area added behind silver key door
+			  - More enemies on some arenas to make them feel
+			  better and actiony
+
+			  Earlier
+			  - Fixed some train related problems
+			  - Added 47 lore items (data files)
+			  - Added all endings
+
+			  Thanks QBJ3 TEAM, Spootnik for testing
+
+
+Additional Credits to   : Lunaran for the copper mod. Makkon for host and
+			  textures. QBJ3 Team.
+
+			  smej2start.wad
+			  custom_q2aero.wad (Smilecythe)
+			  makkon_concrete.wad
+			  makkon_industrial.wad
+			  makkon_tech.wad
+			  prototype_1_3.wad (Khreator)
+			  blood_streak.wad (Thanks Kebby!)
+
+			  soldier_half.mdl (Thanks Kebby!)
+
+			  mak_barfsky_ (Makkon Barfsky, Skybox)
+
+			  Half-Life the game by Valve. Sounds.
+			  Control by Remedy.
+
+			  VuRkka for redeeming map idea: Immorphers butt
+
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : Yes
+			  alarm.wav bustconcrete2.wav bustglass2.wav
+			  bustmetal1.wav bustmetal2.wav repel.wav
+Music                   : Yes
+Graphics                : Yes
+			  solider_half.mdl
+Other                   : -
+Other files required    : qbj3 progs
+
+
+* Play Information *
+
+Single Player           : Designed for
+Cooperative 2-4 Player  : "Designed for"
+Deathmatch 2-4 Player   : Player starts only
+Difficulty Settings     : Yes
+Monsters		: 884 easy, 1373 normal, 2069 Hard
+Secrets			: 83
+
+
+* Construction *
+
+Base                    : from scratch
+Build Time              : almost 2 months (250-350 hours)
+Brushes			: 72383
+Editor(s) used          : Trenchbroom, ericw-tools, necros gui
+Known Bugs              : Hugging corners in moving train can
+			  cause annoying desync issues.
+
+			  Swarmers might get stuck on geo
+
+			  Coop player positions might cause some
+			  hilarious issues with effects.
+
+			  Picking up lore items or trash will
+			  change your weapon.
+
+
+May Not Run With        : QSS probably
+Tested With             : IW 0.8.0 / qbj3 progs
+
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use the contents of this file as a base for
+modification or reuse WITHOUT permission. Permissions have been obtained
+from original authors for any of their resources modified or included
+in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.

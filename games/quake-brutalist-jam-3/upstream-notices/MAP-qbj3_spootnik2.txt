@@ -1,0 +1,31 @@
+Title: Wurstwasser
+Filename: qbj3_spootnik1.bsp
+Author: Spootnik (Spoot)
+Discord: spootnik1
+
+About: A void map, focused on combat/gameplay.
+Single Player: Yes
+Cooperative 2-4 Player: No
+Deathmatch 2-4 Player: No
+Difficulty Settings: Yes
+
+Tested with IronWail.
+Known bugs: None yet. If you find any, please let me know.
+
+===========================================================================
+* Credits*
+===========================================================================
+Thanks to the QBJ3 team for QBJ3.
+Thanks to Lunaran for Copper.
+Thanks to all the usual peeps on QM for the help and community.
+
+===========================================================================
+* Music *
+===========================================================================
+Í'Shuv by Immorpher from Ataraxia
+https://immorpher.bandcamp.com/
+
+===========================================================================
+* Copyright / Permissions *
+===========================================================================
+See QBJ3/Copper permissions.

@@ -1,0 +1,147 @@
+Release date: 09/11/2025
+Quake 1 Single Player Map
+
+============================================================
+
+Title:			Stalking The Reactor
+File:			qbj3_pinchy.bsp
+Author:			Pinchy 
+Email address:	pinchyskree [at] gmail [dot] com
+URL:			https://www.twitch.tv/pinchyskree
+Twitter:		https://x.com/PinchySkree	
+Description:	My submission for Quake Brutalist Jam 3
+Album:			  
+				https://drive.google.com/file/d/1_duEocLrmOPxVsZB1fQ_kW15OgD86Tu7/
+				https://drive.google.com/file/d/1NzFuRvYjdLc6NTOpN0-NggIYPP5PKH2y/
+				https://drive.google.com/file/d/1jUuzQlp7ne8uF3mCXFsrYdGZCpos5q1B/
+				https://drive.google.com/file/d/1Tvqq_AnoVZTqhcwsWSwlyD4rlwvZPXTn/
+				https://drive.google.com/file/d/1RttQbmQn0U4VLjThZq-xQ4Ww7MZIevgC/
+
+============================================================
+
+Single Player		Yes
+Cooperative			Yes, but not tested
+Tourney:			No
+Deathmatch:			No
+Team deathmatch:	No
+CTF:				No
+Monster Count:		310/278/257
+Lore:				Many believe only those who are living and in the Zone can be stalked
+
+					That is unless what you are stalking has a special presence of it's own
+					
+					Which needs to be switched off
+
+============================================================
+
+Designed for the Ironwail engine
+https://github.com/andrei-drexler/ironwail/
+
+REQUIRES an engine with increased limits
+
+REQUIRES qbj3 mod
+
+NOT compatible with the original Quake.exe or GLQuake.exe
+
+============================================================
+
+Thank you to everyone who helped with the map:
+
+Ben Hale "Makkon"
+Kebby
+Spootnik
+Mazu
+Lain Fleming "Fairweather"
+James Paddock "Jimmy"
+GSC Game World
+
+============================================================
+
+SPECIAL THANKS to Eric Wasylishen for his excellent compiling 
+tools and his constant work solving problems for mappers and 
+coders. Thanks to Kristian Duske for creating Trenchbroom!
+Necros for his compiling GUI.
+
+============================================================
+
+Base:           Original
+
+Editors:        Trenchbroom 2 Version 2025.3 Release Win64
+
+Other progs:   	ericw-tools (v0.18.2)
+				ne_q1spCompilingGui v1.0.3
+
+Other assets:	
+
+Wads:			liquids_v2.wad, makkon_building.wad, makkon_concrete.wad, makkon_industrial.wad, makkon_liquid.wad,
+				makkon_nature.wad, makkon_stone.wad, makkon_tech.wad, makkon_urbaninterior.wad, prototype_1_3.wad, solids3.wad
+
+Skybox:			"Makkon Nightsky" by Ben Hale "Makkon" https://www.slipseer.com/index.php?resources/makkon-textures.28/ https://www.youtube.com/user/makkon06
+
+Progs:			qbj3 by qbj3 team
+
+Sounds:			
+
+				wooden-planks-break-1.wav
+				wooden-planks-break-2.wav
+				wooden-planks-break-3.wav
+				https://freesound.org/people/Saladsounds/sounds/723974/
+				723974__saladsounds__wooden-door-breaks.wav
+				https://freesound.org/people/TheLittleCrow/sounds/589866/
+				589866__thelittlecrow__wooden-planks-dropping-on-concrete-breaking-wood.wav
+				Edits: Gain increase, cut, mix, time adjust
+
+				geiger-counter-small.wav
+				geiger-counter-medium.wav
+				geiger-counter-large.wav
+				geiger-counter-extreme.wav
+				https://freesound.org/people/JustLaz/sounds/616513/
+				616513__justlaz__geiger_tick_low_to_high.wav
+				Edits: Gain increase, cut, silence
+
+				water-flowing.wav
+				https://freesound.org/people/Nox_Sound/sounds/511077/
+				511077__nox_sound__ambiance_waterfall_loop_02.wav
+				Edits: Gain increase
+
+				alarm.wav
+				https://freesound.org/people/sassyman/sounds/201325/
+				201325__sassyman__warn_12.aiff
+				https://freesound.org/people/qubodup/sounds/832414/
+				832414__qubodup__factory-warning-buzzer.wav
+				Edits: Crop, mix
+
+Music:			"Atlantis" by James "Jimmy" Paddock https://www.jamespaddockmusic.com/
+
+Engines tested:	Ironwail 0.8.0
+
+Known bugs:     
+
+Build time:     331 hours
+
+============================================================
+
+Additional thanks to ...
+
+id Software
+The func_msgboard community
+The Quake Mapping discord (dumptruck_ds - founder)
+
+============================================================
+
+Distribution / Copyright / Permissions 
+
+Copyright (c) 2025 Pinchy
+
+All rights reserved.
+
+Quake is a registered trademark of id Software, Inc.
+
+This level may be electronically distributed only at NO
+CHARGE to the recipient in its current state, MUST include
+this .txt file, and may NOT be modified IN ANY WAY. 
+UNDER NO CIRCUMSTANCES IS THIS LEVEL TO BE DISTRIBUTED ON
+PHYSICAL MEDIUM SUCH AS A DVD WITHOUT PRIOR WRITTEN 
+PERMISSION.
+
+============================================================

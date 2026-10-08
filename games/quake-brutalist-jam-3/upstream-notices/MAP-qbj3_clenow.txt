@@ -1,0 +1,26 @@
+--- Section 28 ---
+
+-Map Information-
+- Made by Clenow
+- Requires qbj3.progs
+- Single Player
+- 4 co-op starts, updating co-op respawns as you move through, but no further balancing (I will simply die if I have to look at this map anymore)
+- Skills 0,1,2, implanted. Nightmare at your own risk
+
+-- Build Information --
+Editor: Trenchbroom
+Compiler: ericwtools 2.0.0 Alpha 10
+Qbps flags: -bsp2
+Vis flags: -noambient
+Light flags: -_bounce 1 -extra4
+
+-About-
+Two pretty bad things that came in under Thatcher were Section 28, part of an act of parliament that among other things functionally banned any discussion of LGBT topics in schools. It had impacted a lot of lives including mine. The other was the destruction of widely available social housing, at the peak of which ~30% of the population lived in.
+
+I'm also always a little sad that brutalism has a strong association with authoritarian dystopias when much of its origin was in post WW2 reconstruction and social housing development, so I decided to smash all these things that annoy me together into a blob. I hope you like it, or don't.
+
+-Thanks-
+- Makkon for the vast majority of the textures as well as all the people who worked hard to make the mod.
+- Rabbit, Wons, Softi, chaosed0 for testing
+
+Feel free to redistribute this, but please leave this readme and do not use for any commercial gain.

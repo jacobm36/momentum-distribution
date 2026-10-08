@@ -1,0 +1,91 @@
+====================================================================================================
+* Map Info *
+
+Title                   : Toxycoses in Self-Improvement
+Map                     : qbjr_bmfbr
+Release Date            : Dec./2025 (Quake Brutalist Jam 3)
+Original Release Date   : Sept./2022 (Quake Brutalist Jam)
+Author                  : bmFbr
+Email                   : fabiolimamp@gmail.com
+Discord                 : bmfbr
+
+* Play Information *
+
+Required mods           : QBJ3
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+Other requirements      : Recommended protocol 999 or FTE999
+
+* Construction *
+
+Base                    : Fourth Vertex of Trapezoid (qbj_bmfbr)
+Editor used		: TrenchBroom 2024.1
+Known Bugs              : None I hope
+Tested With             : Ironwail 0.80
+Construction Time       : A few days spread across multiple months lol
+
+* Included *
+
+- BSP and LIT files
+- Skybox (/gfx/env/aboveclouds_*.tga)
+- Skywind configuration file (/gfx/env/aboveclouds_wind.cfg)
+- Custom ambient sounds (/sound/bmfbr/*.wav)
+- Map source
+- This readme file
+
+====================================================================================================
+
+* Notes *
+
+"Quake ep4 (beta3, fake end, release) is seminarism on Dead Sea Scrolls soft self-gnosticism
+emphasis Pentium Computability direction in Orthodox Church In Amerika problematics anti-Occultism
+anti-Illuminati. Quake in else is on-ep4 a heresy Quake Now Is.
+Abandon(bjp-Winquake)/VVF(MarkV-Winquake)/Thred is the underpin behind Quake Now Is direction from
+non-clerical recluse-wizard. Both propagate toxycoses in self-improvement.
+Quake Now Is is to be abandoned immediately."
+- Anonymous Guest
+
+Entry for the Quake Brutalist Jam 3.
+
+Basically a mild remix of my original QBJ1 entry (Fourth Vertex of Trapezoid). Updated textures with
+Makkon's latest concrete pack, various gameplay balancing changes to accomodate the QBJ3 roster
+and arsenal, miscellaneous geometry and texturing fixes, a bit of switchable shadow abuse, added
+coop spawn points, and did a great deal of optimization that cut down the BSP+LIT to less than 1/4
+of the original size.
+
+It was now compiled with full vis (YES!), but light was compiled only with -extra instead of
+-extra4 (NO!) otherwise it'd take more than a full day to run on my 10yo CPU. Compiled with
+ericw-tools 2.0 alpha10 - it's a lot more feature-packed but unfortunately way slower as well.
+
+Tested on Ironwail, but should run fine on any QS fork. Protocol 999 is recommended but that should
+already be enforced by the QBJ3 devkit.
+
+Like the original, it has no music track set. Enjoy all the ambiences around the map.
+
+Skybox was modified from the original for Ironwail skywind support. If you're on another port you
+won't see the glorious moving clouds.
+
+====================================================================================================
+
+* Thanks *
+
+- Makkon for the texture set and for organizing the jam (again)
+- Lunaran for Copper
+- The rest of QBJ3 team for all the hard work we went through to get the mod out of the door
+
+====================================================================================================
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications. You may distribute this file in any electronic
+format as long as you include this file intact.
+I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+

@@ -1,0 +1,94 @@
+===========================================================================
+Title                   : The Oppressing Facade
+Filename                : qbj3_sze.bsp
+Release date            : December 2025
+Author                  : Sze
+Email Address           : christoph.claassen@gmail.com
+Bsky:			: @szze.bsky.social
+
+Description             : When QBJ3 got teased a long time ago I did some research on how my map could look like. I found this
+			  amazing picture by German and Berlin-based painter Stefan Hoehnerloh (https://www.hoenerloh.de/de/galerie/galerie06.html) which
+			  captures an eerie dreamlike concrete atmosphere which perfectly fits Quake's vibe, and also reminds me of my city of choice, Berlin.
+			  I started using Makkon trimsheets and lots of nested linked groups to create a looming façade, separated some elements to create
+			  variety so it didn't look as repetitive. Besides that I built corridor elements also with linked groups (pieces with 1/2/3
+			  connections, straights and corners) so I could in theory easily stick together a layout quickly. This all was just the art test
+			  phase, there was no gameplay, not even a general layout yet.
+
+			  The layout planning started only after QBJ3 officially got announced and we got the progs. You can still see the sketch_layout layer
+			  in the .map which I used for very high level planning. As for the high level gameplay I didn't want a overarching theme as in many
+			  of my other maps, but rather embrace unique traps to surprise players. It was freeing and fun to think about little things to keep
+			  players on their toes.
+
+			  In terms of structure I wanted to have a linear introduction with a loop at the end. From there players reach the elevator and the
+			  next "tier" of challenges: they could tackle one of two encounters in the order they preferred, both yielding a silver key, and two
+			  silver doors which hold another (more difficult?) encounter in which each silver key gets "exchanged" if you will to a golden key.
+			  Both golden keys are needed to reach the final encounter. This allows for more freedom, but with the tiered approach still doesn't
+			  overwhelm players.
+
+			  One difficulty working with this art style was that it looked "too real" in some ways. That and the fact I built all these bespoke
+			  corridor pieces made encounter design not as flexible. In my previous maps or Quake general the locations are very abstract (mostly
+			  generic factories with weird proportions, or something non-descriptive as my antigravity jam map). But this time the façade and the
+			  corridors look like socialist architecture which people recognise, so I felt if the proportions are extreme (like the super high
+			  ceilings in the cone spotlight rooms) it's fine, but if they are only halfway too off (I experimented with ceiling heights), it
+			  looks weird. But of course it also can't be too realistic, because then everything would look too crammed for Quake's fast gameplay.
+			  That's why I added some destruction to allow for higher ceilings, wider passages etc. Working with linked groups early made at least
+			  iteration speed quick.
+
+			  Thanks to the deadline extensions I could reach all my goals, even though I almost scrapped the water section. It also allowed me to
+			  create these propaganda posters based on QBJ3's fantastic enemy roster to add a bit of environmental storytelling. Also the last
+			  encounter took quite some time, as I wanted it to look special and thus couldn't rely on too much linked group recycling.
+			  Oh and thanks to Rabbit I added a python script in my compile routine to offset the windows randomly in all the linked groups so
+			  they didn't look repetitive.
+
+
+Additional Credits to   : custom music by Anna Karina - https://soundcloud.com/karina-protsenko
+			  The QBJ3/Megalith team for an absolutely insane mod: the unique weapons and juicy hit effects, new enemies, the whole new audiovisuals...
+			  I will just use this second line to stress how impressive this mod really is.
+			  ok, a 3rd one even. It plays more fluid, while still retaining Quake's gameplay aesthetics.
+			  Makkon for the incredible textures and support in QM
+			  Skybox: mak_purplesky5_ by Makkon
+			  Rabbit for the idea of python post-processing and general their yapping channel for knowledge sharing and inspiration
+			  SleepwalkR for Trenchbroom, ericW/Paril for ericw-tools
+			  As always, shoutouts to the whole Quake Mapping Discord, I found the buzz in the QBJ3 channel so motivating
+			  ...and thanks to YOU, the player!
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : No
+Music                   : Yes
+CD Track:		: 90
+Graphics                : Yes (skybox)
+Other                   : No
+Other files required    : No
+
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (untested)
+Difficulty Settings     : Yes
+Monsters		: 140/195/255
+Secrets			: 9?
+
+
+* Construction *
+
+Build Time              : Around eight weeks
+Editor(s) used          : Trenchbroom,  ericw-tools
+Tested With             : Ironwail, VkQuake
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
