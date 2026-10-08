@@ -13,7 +13,7 @@ UZDoom by the UZDoom contributors, continuing GZDoom/ZDoom. Resolved separately 
 ## Artwork
 
 Store card (updated 2026-10-07): owner's existing Momentum library
-`media/aliens-eradication/icon.png`, published as `artwork/aliens-eradication-store-icon.png`.
+`media/aliens-eradication/icon.png`, published as `artwork/aliens-eradication.png`.
 PNG re-encoded without resizing or changing decoded pixels. Exact creator,
 original image page and license are unknown. Owner explicitly requested this
 Store-only artwork change; no separate creator permission is claimed.
