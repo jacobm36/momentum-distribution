@@ -12,6 +12,13 @@ UZDoom by the UZDoom contributors, continuing GZDoom/ZDoom. Resolved separately 
 
 ## Artwork
 
+Store card (updated 2026-10-07): owner's existing Momentum library
+`media/ashes-2063/icon` (actual PNG), published as `artwork/ashes-2063-store-icon.png`.
+PNG re-encoded without resizing or changing decoded pixels. Exact creator,
+original image page and license are unknown. Owner explicitly requested this
+Store-only artwork change; no separate creator permission is claimed.
+The immutable installer 0.1.0 retains the guide-selected artwork below.
+
 Guide-selected owner-supplied `ashes-2063.png` from the existing local setup. Actual input format: WEBP; lossless format conversion to PNG for Momentum, no resize/redraw. Exact image creator, original image page and license are unknown. Owner instructed packaging with artwork; no separate creator permission or blanket redistribution license is invented.
 
 ## Mods
