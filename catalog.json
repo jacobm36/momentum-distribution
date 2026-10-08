@@ -2,6 +2,54 @@
   "catalog_version": 1,
   "games": [
     {
+      "id": "brutal-doom",
+      "version": "0.1.0",
+      "name": "Brutal Doom",
+      "description": "Brutal Doom v21 with optional Doom Metal Volume 5 included. Bring your Doom II IWAD; incompatible voxel addon excluded.",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/brutal-doom.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/brutal-doom-0.1.0/brutal-doom-0.1.0.zip",
+      "sha256": "0d0cea49c903c8c41a0f9c87e691d43ec8d5a82a6dc9289f65f9d03d3bd15446",
+      "digest": "sha256:850bf6ff653852f3584bd7c9b68bbf9929d77df2117a7f81483ceb4c87586b7b",
+      "size": 231009734,
+      "platform": {
+        "os": "ubuntu",
+        "releases": ["24.04"],
+        "architectures": ["x86_64"]
+      }
+    },
+    {
+      "id": "aliens-eradication",
+      "version": "0.1.0",
+      "name": "Aliens: Eradication",
+      "description": "Aliens: Eradication 2.0 with the complete eight-map campaign. Bring your Doom II IWAD.",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/aliens-eradication.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/aliens-eradication-0.1.0/aliens-eradication-0.1.0.zip",
+      "sha256": "15f8fab43464b1009c4aba5d9f289acc0104266346b9d217da49165d282fbf5c",
+      "digest": "sha256:555e4306d3706c566fc0540eb18295ab1b6425ba46a93f6e73923101babca194",
+      "size": 184952801,
+      "platform": {
+        "os": "ubuntu",
+        "releases": ["24.04"],
+        "architectures": ["x86_64"]
+      }
+    },
+    {
+      "id": "ashes-2063",
+      "version": "0.1.0",
+      "name": "Ashes 2063: Enriched",
+      "description": "Ashes 2063: Enriched 2.23 with its embedded episode, expansion and soundtrack. This guide-defined setup requires your Doom II IWAD.",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/ashes-2063.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/ashes-2063-0.1.0/ashes-2063-0.1.0.zip",
+      "sha256": "6bffb2d5904508226659422075bc043c35e09b6a3db6a5416b4c1c8770d03e04",
+      "digest": "sha256:82d94b61109cdf034248e5a7e27b54e19f93a64a4520c0138230b9ff599a11f3",
+      "size": 124000992,
+      "platform": {
+        "os": "ubuntu",
+        "releases": ["24.04"],
+        "architectures": ["x86_64"]
+      }
+    },
+    {
       "id": "duke-nukem-3d",
       "version": "0.1.1",
       "name": "Duke Nukem 3D",
