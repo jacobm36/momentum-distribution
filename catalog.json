@@ -2,6 +2,22 @@
   "catalog_version": 1,
   "games": [
     {
+      "id": "duke-nukem-3d",
+      "version": "0.1.1",
+      "name": "Duke Nukem 3D",
+      "description": "Come get some. Complete upscale, voxel and SC-55 packs included; bring registered original or Atomic DUKE3D.GRP. Gameplay confirmation required.",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/duke-nukem-3d.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/duke-nukem-3d-0.1.1/duke-nukem-3d-0.1.1.zip",
+      "sha256": "bcbabe615ce992dcd12977181df0d0705d48baa854ebc711b2ca6abb07451bcd",
+      "digest": "sha256:fada5b3a6b6e04bbfc79239a5af216c9047a78cc3a2b1a62edb675bf477bc76b",
+      "size": 256759445,
+      "platform": {
+        "os": "ubuntu",
+        "releases": ["24.04"],
+        "architectures": ["x86_64"]
+      }
+    },
+    {
       "id": "brutal-doom-64",
       "version": "0.1.0",
       "name": "Brutal Doom 64",
