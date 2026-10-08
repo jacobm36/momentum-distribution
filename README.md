@@ -17,11 +17,12 @@ Choose your next arcade run:
 | [L.A. Machineguns](games/l-a-machineguns/README.md) | 0.1.0 | Japan `lamachin.zip`, kept zipped |
 | [Episode Enyo](games/quake-slave-zero-x/README.md) | 0.1.0 | Quake folder with both `id1` PAKs; complete mod included |
 | [Brutal Doom 64](games/brutal-doom-64/README.md) | 0.1.0 | Folder containing `DOOM2.WAD`; complete four-file mod included |
+| [Duke Nukem 3D](games/duke-nukem-3d/README.md) | 0.1.1 | Registered original/Atomic `DUKE3D.GRP`; upscale, voxel and SC-55 packs included |
 
 The new installers pass isolated installation checks; gameplay confirmation
 is still required for each user's setup. Read the game page for display/control
 limits. Commercial base-game data, ROMs and BIOS files are not included;
-Episode Enyo and Brutal Doom 64 include their complete distributable mods.
+Episode Enyo, Brutal Doom 64 and Duke Nukem 3D include their complete distributable mods.
 
 The current public installer is [The House of the Dead 2 0.1.3](https://github.com/jacobm36/momentum-distribution/releases/tag/the-house-of-the-dead-2-0.1.3).
 Old installer ZIP downloads have been withdrawn; use 0.1.3.

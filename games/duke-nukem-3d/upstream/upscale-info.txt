@@ -1,0 +1,82 @@
+Duke Nukem 3D Upscale Pack v1.3 by Phredreeke
+Released 1 December 2020
+
+New
+
+* Liztroop has fullbright eyes
+* Pigcop tank was updated
+* Faces updated on babes
+* Dev pictures in Faces of Death and Pigsty have been upscaled using vintage photos as reference
+* First person weapon sprites have generally cleaner palette swaps
+* DEFs added for indexed hightile support
+* DN64 style liztroop added to Life's a Beach
+* The beach babes have had their blue sunglasses recolored grey
+* Nuclear Winter has been fixed to load images from the correct folder
+* The elves have been given new faces.
+* Several tiles have been given new holiday themed versions in NW
+* This list is not comprehensive, there's been additional changes besides these
+
+Tested with Polymost renderer although Polymer should work too. Does not work with Classic renderer (if a classic-like appearance is desired I suggest using r_yshearing CVAR in EDuke32) unless a build with indexed hightiles is used.
+
+
+Usage
+
+With EDuke32, Raze or Rednukem
+
+1. Place ZIP file in the same folder as the port and optionally wtupscale.zip
+2a. Extract the dukeupscale.bat in the same folder and run if under Windows
+2b. If using a EDuke32 or Rednukem build with indexed hightile, extract dukeindexed.bat if under Windows
+2c. Extract the sh files from the linux directory if under Linux
+
+(note that as of writing this, current builds of EDuke32 and Rednukem does not have indexed hightile support)
+
+With BuildGDX
+
+1. Create Autoload folder in the same location as your duke3d.grp and copy this ZIP file there
+2. In the BuildGDX launcher, make sure that Enable "autoload" folder is checked
+
+
+
+
+Known issues:
+- If used with usermaps with non-standard enemy pals, sprites will be displayed with their base palette (this does not apply to indexed hightiles)
+- If playing user content with custom sprites, those will be overridden by the default upscaled sprites
+
+
+List of models used
+
+Manga109			Kingdomakrillic
+DeviantPixelHD			Raulsangonzalo
+Fatality variants		twittman
+Dedither			alsa
+De-Toon, Rebout, XBRZ-DD	LyonHrt
+Smoothrealism			Joey
+Degif				NMKD
+DigitalFrames			Klexos
+
+
+ESRGAN models available for download here
+https://upscale.wiki/wiki/Model_Database
+
+oasiz's wannabethesis build bot for NBlood, PCExhumed and RedNukem
+https://lerppu.net/wannabethesis/
+
+
+Credits
+
+Base Game
+Widescreen Freezethrower, Shrinker and Expander sprites from World Tour
+Other widescreen weapon sprites by Jimmy
+Pig Cop Tank, Lockpanel and Tripmine upscales edited by Cianez
+Further Pig Cop Tank edits by Tea Monster
+Several signs and labels by Tea Monster
+Impaled babe (1336) by Dzierzan
+Hi-Res fonts by Cianez
+
+Life's a Beach
+Original widescreen weapon sprites by Jimmy
+Icemaker, Super Soak'em and Voodoo Tripmine upscales edited by Cianez
+
+Nuclear Winter
+Missing snow commander death frame (1956) by Jimmy
+Santa Claws poster by Tea Monster
