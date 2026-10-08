@@ -2,6 +2,22 @@
   "catalog_version": 1,
   "games": [
     {
+      "id": "quake-brutalist-jam-3",
+      "version": "0.1.0",
+      "name": "Quake Brutalist Jam III",
+      "description": "QBJ3 1.3 with Ironwail 0.8.2; bring both Quake PAKs. Restricted mod assets reused or separately approved pinned download.",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/quake-brutalist-jam-3.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/quake-brutalist-jam-3-0.1.0/quake-brutalist-jam-3-0.1.0.zip",
+      "sha256": "c0e7e6f3b101728f92b4bf4175e5a99db9ffbe174401a32dd56b2c9140478b21",
+      "digest": "sha256:5f98b31c48bd929fb2eb21272015459ce535755411805d40927574430c28b433",
+      "size": 412884,
+      "platform": {
+        "os": "ubuntu",
+        "releases": ["24.04"],
+        "architectures": ["x86_64"]
+      }
+    },
+    {
       "id": "brutal-doom",
       "version": "0.1.0",
       "name": "Brutal Doom",
