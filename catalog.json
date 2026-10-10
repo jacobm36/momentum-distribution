@@ -155,14 +155,14 @@
     },
     {
       "id": "star-wars-trilogy-arcade",
-      "version": "0.1.0",
+      "version": "0.2.1",
       "name": "Star Wars Trilogy Arcade",
-      "description": "Stay on target. Bring your swtrilgy.zip for the guide's fullscreen arcade setup. Gameplay confirmation required.",
+      "description": "Stay on target. Fullscreen arcade setup with mouse aim, confirmed on the owner's debug laptop. Bring swtrilgy.zip; stock credits, no free-play preset. Requires the updated launcher.",
       "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/star-wars-trilogy-arcade.png",
-      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/star-wars-trilogy-arcade-0.1.0/star-wars-trilogy-arcade-0.1.0.zip",
-      "sha256": "fa88892ac6d16b8538a180a8960cf3f58964a9685308474ea4edded180065eb2",
-      "digest": "sha256:a0e57a8ceac9f505bd183deddff574533d9f8ea82dc632e0ae0511e50662ec48",
-      "size": 247964,
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/star-wars-trilogy-arcade-0.2.1/star-wars-trilogy-arcade-0.2.1.zip",
+      "sha256": "f049015943cfd569820d3eebca9e8366efb294ea0a88340f1559e9646ff5caf4",
+      "digest": "sha256:3ce37cec1672d8dd96e842c418e7c890bebc89413b07c6d2aeb78eea7b67ac26",
+      "size": 251980,
       "platform": {
         "os": "ubuntu",
         "releases": [
@@ -175,14 +175,14 @@
     },
     {
       "id": "l-a-machineguns",
-      "version": "0.1.0",
+      "version": "0.2.2",
       "name": "L.A. Machineguns",
-      "description": "Two triggers. One city. Bring your Japan lamachin.zip for borderless 1920x1080 arcade action. Gameplay and calibration confirmation required.",
+      "description": "Fullscreen mouse aiming with a clean first-launch calibration seed, confirmed through fresh installation on the owner's debug laptop. Existing NVRAM preserved. Bring Japan lamachin.zip; requires the updated launcher.",
       "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/l-a-machineguns.png",
-      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/l-a-machineguns-0.1.0/l-a-machineguns-0.1.0.zip",
-      "sha256": "4648162b8ea810ec5ea3e8ab4d12a464b8ab7f0ce4caf8a5390a577319e52504",
-      "digest": "sha256:9ee6ef75ce86dba98ec02f2a78e4b7278d3cbcaeb7c1fdb34d9e42b87ce74e95",
-      "size": 948166,
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/l-a-machineguns-0.2.2/l-a-machineguns-0.2.2.zip",
+      "sha256": "1155287bf2fc734b49e80d1abf6dff3fce42f90ab90dd32916902a2694d004bb",
+      "digest": "sha256:a6d1d7ca1110176d5d966f58938c9e356e4025c7fc3633f35e9b0ea44dadefad",
+      "size": 954064,
       "platform": {
         "os": "ubuntu",
         "releases": [

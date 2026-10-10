@@ -14,7 +14,7 @@ Momentum prepares required software after approval, copies your game files, and 
 
 ## Controls
 
-Wait for the Darth Vader attract sequence. Press 3 for a credit and 1 to start. Mouse to aim, left-click or A to fire, right-click or S for the event button, D for trigger 2. Escape exits.
+Wait for the Darth Vader attract sequence. Press 3 for a credit and 1 to start. Mouse to aim, left-click or A to fire, right-click or S for the event button, D for trigger 2. Escape exits. Free play is not preconfigured; see `PLAYER-GUIDE.md`.
 
 ## Compatibility
 
@@ -24,7 +24,7 @@ Your installation remains **setup required** until you confirm gameplay.
 
 ## Where it goes
 
-Game files default to `~/Games/Star Wars Trilogy Arcade`.
+Game files default to `~/Games/star-wars-trilogy-arcade`.
 Settings and saves stay separate in `~/.local/share/momentum-core/state/star-wars-trilogy-arcade`.
 The launcher is `~/.local/bin/star-wars-trilogy-arcade`; support and backups remain
 under `~/.local/share/momentum-core/`.
@@ -32,3 +32,7 @@ under `~/.local/share/momentum-core/`.
 ## Keep it yours
 
 Verification is read-only. Repair restores missing owned files only from their original bytes; modified files are preserved and reported. Uninstall removes only unchanged owned resources, keeping originals, user state, required software and retained support. Reconcile interrupted jobs before retrying.
+
+## Credits and attribution
+
+See [LEGAL-NOTICES.md](LEGAL-NOTICES.md) for original game, software, artwork and mod credits, source links, applicable rights and documented follow-up. Upstream notices remain intact.

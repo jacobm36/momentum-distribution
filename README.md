@@ -13,8 +13,8 @@ Choose your next arcade run:
 |---|---|---|
 | [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | 0.1.3 | USA CUE and matching BIN tracks |
 | [Virtua Cop 2](games/virtua-cop-2/README.md) | 0.1.0 | Japan GDI and all 39 tracks |
-| [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | 0.1.0 | `swtrilgy.zip`, kept zipped |
-| [L.A. Machineguns](games/l-a-machineguns/README.md) | 0.1.0 | Japan `lamachin.zip`, kept zipped |
+| [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | 0.2.1 | `swtrilgy.zip`, kept zipped |
+| [L.A. Machineguns](games/l-a-machineguns/README.md) | 0.2.2 | Japan `lamachin.zip`, kept zipped |
 | [Episode Enyo](games/quake-slave-zero-x/README.md) | 0.1.0 | Quake folder with both `id1` PAKs; complete mod included |
 | [Brutal Doom 64](games/brutal-doom-64/README.md) | 0.1.0 | Folder containing `DOOM2.WAD`; complete four-file mod included |
 | [Duke Nukem 3D](games/duke-nukem-3d/README.md) | 0.1.1 | Registered original/Atomic `DUKE3D.GRP`; upscale, voxel and SC-55 packs included |
@@ -22,6 +22,22 @@ Choose your next arcade run:
 | [Aliens: Eradication](games/aliens-eradication/README.md) | 0.1.0 | `DOOM2.WAD`; complete 2.0 TC and eight-map campaign included |
 | [Ashes 2063: Enriched](games/ashes-2063/README.md) | 0.1.0 | `DOOM2.WAD`; exact guide-defined Enriched 2.23 PK3 included |
 | [Quake Brutalist Jam III](games/quake-brutalist-jam-3/README.md) | 0.1.0 | Both Quake `id1` PAKs; complete QBJ3 1.3 source reused or separately approved pinned download |
+
+### October 9 arcade release
+
+SWTA 0.2.1 and L.A. Machineguns 0.2.2 were accepted by the owner on the
+debug laptop. SWTA retains stock credits (3 for credit, 1 for Start), not
+preconfigured free play. L.A. Machineguns includes a clean calibrated NVRAM
+seed only for absent first-launch state; existing NVRAM is never overwritten.
+The owner confirmed the final LAMG install played correctly without a manual
+NVRAM copy. Other hardware, ROM variants and emulator builds remain unverified.
+
+Use the [October 9 launcher release](https://github.com/jacobm36/momentum-distribution/releases/tag/momentum-core-launcher-2026.10.09)
+with these packages: it contains their exact compatibility evidence.
+Old launchers cannot approve the new versions. Extract the complete launcher
+into a separate folder and run `bash start-candidate.sh`; close the old launcher
+first. Do not overwrite old folders or delete journals. Existing user receipts
+and game state remain shared. This release does not update the other catalog games.
 
 The new installers pass isolated installation checks; gameplay confirmation
 is still required for each user's setup. Read the game page for display/control
