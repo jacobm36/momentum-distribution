@@ -35,11 +35,28 @@ Game ZIPs download separately through **Add game**; ROMs and BIOS are not bundle
 ## Withdrawn installers
 
 All other game releases are withdrawn from the supported catalog pending
-acceptance under the current installation standard. Historical releases,
-downloads, tags and documentation remain available for reference, not as
-recommended working installers. Withdrawal does not uninstall any existing game.
+acceptance under the current installation standard. Historical release records,
+tags, checksums recorded in release notes and documentation remain available for
+reference. Obsolete ZIP/checksum download assets have been removed; historical
+game pages describe old releases, not currently offered installers.
+Withdrawal does not uninstall any existing game.
 Old SWTA/L.A. Machineguns versions are likewise historical; use the versions above.
 Preserve your working setups, original media, saves and journals.
+
+## Storage and retention
+
+Keep downloads for the current accepted installers and latest launcher.
+Withdrawn versions retain small release records, source tags and test evidence,
+not bulky download assets. Never upload changed bytes under an old version.
+Before removing obsolete assets, verify any useful local fallback against its
+published checksum. Removing release assets does not rewrite source history.
+
+The package source repository deliberately excludes large bundled mod payloads
+from Git. A local working folder can contain those files, but a clone or Git
+backup alone does not preserve them. Back up required payload files separately
+with their hashes, together with uncommitted source changes. Keep an old ZIP
+only when it provides a useful fallback or historical comparison; do not treat
+withdrawn installers as accepted replacements.
 
 ## Release verification
 
