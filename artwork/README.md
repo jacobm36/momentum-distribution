@@ -31,4 +31,12 @@ hashes, provenance and original credits are retained separately in
 
 ## Best-effort follow-up
 
-Each game's `games/<id>/LEGAL-NOTICES.md` records known art credits and explicit unknown creator/image-page details. Improve these in later releases; do not assign authors based on lookalike images. Catalog icons match the current package icons.
+`brutal-doom.png` is the owner's supplied `BrutalDoom.png`, requested as a
+store-only icon replacement on October 10, 2026. The owner identified it as
+SteamDB artwork and stated permission is established. The individual creator
+and source image URL were not supplied; no attribution identity is invented.
+SHA256: `db539fcecbe02bbd9fdf50ba4b3a7781dbcb1b44329d8513676dcce9e16ac546`.
+It is third-party artwork, excluded from Momentum's MIT code license.
+The immutable Brutal Doom 0.3.0 installer and its bundled artwork are unchanged.
+
+Each game's `games/<id>/LEGAL-NOTICES.md` records known packaged-art credits and explicit unknown creator/image-page details. Improve these in later releases; do not assign authors based on lookalike images. Store artwork may differ from immutable package artwork.

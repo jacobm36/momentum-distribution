@@ -38,7 +38,7 @@
         "version": "0.3.0",
         "name": "Brutal Doom",
         "description": "Brutal Doom v21, Brutal Voxel Doom 2.0 Complete and Doom Metal Volume 5 in the tested load order. Bring DOOM2.WAD. Tested UZDoom reuse or separately approved isolated fallback; existing profiles preserved. Requires current private Momentum launcher.",
-        "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/brutal-doom.png",
+        "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/brutal-doom.png?v=db539fcecbe02bbd",
         "url": "https://github.com/jacobm36/momentum-distribution/releases/download/brutal-doom-0.3.0/brutal-doom-0.3.0.zip",
         "sha256": "e15004e1c628cf238cca80815062ce96b284dca0d7a34c7ca7fc7d90f321db73",
         "digest": "sha256:f75343640ff8a23ec1377a854adb7dafc49ff3e6418ec3295dfbeae830d32abe",
