@@ -14,9 +14,12 @@ The owner identified them as SteamGridDB artwork and explicitly authorized
 distribution for this batch. Individual creators/image URLs were not supplied;
 no attribution identity is invented. The same exclusion from the code license applies.
 
-`quake-slave-zero-x.png` is the owner's supplied SlaveZeroX icon, unchanged
-from the supplied Episode Enyo package. Creator details were not supplied;
-none are invented. It is excluded from the installer-code MIT license.
+`quake-slave-zero-x.png` is the unchanged 512x512 Anoisophia icon used by
+Episode Enyo 0.3.0: https://www.steamgriddb.com/icon/56641.
+Creator: https://www.steamgriddb.com/profile/76561198041916769.
+SHA256: `8fe8234cec4d282d6c5a54203641076526809cfe04615f03c644c53b9ad9ae2f`.
+The recorded SteamGridDB user-content grant is the distribution basis; it is
+excluded from the installer-code MIT license.
 Mod provenance and upstream credits are recorded separately in
 `games/quake-slave-zero-x/THIRD-PARTY.md`.
 
@@ -25,3 +28,7 @@ losslessly converted from the owner's ICO. No new creator identity is asserted.
 It is excluded from the installer-code MIT license. Complete unchanged mod
 hashes, provenance and original credits are retained separately in
 `games/brutal-doom-64/THIRD-PARTY.md` and its `upstream/` records.
+
+## Best-effort follow-up
+
+Each game's `games/<id>/LEGAL-NOTICES.md` records known art credits and explicit unknown creator/image-page details. Improve these in later releases; do not assign authors based on lookalike images. Catalog icons match the current package icons.

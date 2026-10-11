@@ -18,6 +18,54 @@
       }
     },
     {
+      "id": "the-house-of-the-dead-2",
+      "version": "0.3.0",
+      "name": "The House of the Dead 2",
+      "description": "Fullscreen mouse-lightgun setup with tested Flycast reuse or separately approved isolated fallback. Bring USA CUE and matching BIN tracks. Existing engines and profiles stay untouched. Requires current private Momentum launcher.",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/the-house-of-the-dead-2.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/the-house-of-the-dead-2-0.3.0/the-house-of-the-dead-2-0.3.0.zip",
+      "sha256": "93f3685c02ae8d6e1b14143319f5c392f65b9aaad074ab7a701b3d21aa808ecf",
+      "digest": "sha256:5dba413b80ed095c18933b55caf06b86d3c90bac15b7f95a4fa18b999e88d659",
+      "size": 173488,
+      "platform": {
+        "os": "ubuntu",
+        "releases": ["24.04"],
+        "architectures": ["x86_64"]
+      }
+    },
+      {
+        "id": "brutal-doom",
+        "version": "0.3.0",
+        "name": "Brutal Doom",
+        "description": "Brutal Doom v21, Brutal Voxel Doom 2.0 Complete and Doom Metal Volume 5 in the tested load order. Bring DOOM2.WAD. Tested UZDoom reuse or separately approved isolated fallback; existing profiles preserved. Requires current private Momentum launcher.",
+        "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/brutal-doom.png",
+        "url": "https://github.com/jacobm36/momentum-distribution/releases/download/brutal-doom-0.3.0/brutal-doom-0.3.0.zip",
+        "sha256": "e15004e1c628cf238cca80815062ce96b284dca0d7a34c7ca7fc7d90f321db73",
+        "digest": "sha256:f75343640ff8a23ec1377a854adb7dafc49ff3e6418ec3295dfbeae830d32abe",
+        "size": 261844494,
+        "platform": {
+          "os": "ubuntu",
+          "releases": ["24.04"],
+          "architectures": ["x86_64"]
+        }
+      },
+      {
+        "id": "quake-slave-zero-x",
+        "version": "0.3.0",
+        "name": "Quake - Slave Zero X: Episode Enyo",
+        "description": "Six-level Quake campaign with fullscreen startup. Bring Quake id1/pak0.pak and pak1.pak. Reuse verified Enyo files or approve a direct publisher download; no mod files bundled. Requires current private Momentum launcher.",
+        "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/quake-slave-zero-x.png",
+        "url": "https://github.com/jacobm36/momentum-distribution/releases/download/quake-slave-zero-x-0.3.0/quake-slave-zero-x-0.3.0.zip",
+        "sha256": "dac26911f421fdcc4f8e0966b7a8bfff6127072ee866b84df9735442a5481a97",
+        "digest": "sha256:17788bc4fee296ce399bf148b747eea6ee1cb89cb817ca8919ed9e4465defb4f",
+        "size": 248765,
+        "platform": {
+          "os": "ubuntu",
+          "releases": ["24.04"],
+          "architectures": ["x86_64"]
+        }
+      },
+    {
       "id": "l-a-machineguns",
       "version": "0.2.2",
       "name": "L.A. Machineguns",

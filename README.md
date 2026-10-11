@@ -1,7 +1,8 @@
 # Momentum Core Distribution
 
-Public downloads for Momentum's currently accepted game installers.
-Choose a game, locate your own game files, review and install.
+Public package downloads for the five owner-approved first-wave games.
+The Momentum frontend remains private; this repository publishes game installers,
+not a new launcher release.
 
 ## Supported catalog
 
@@ -9,66 +10,66 @@ Choose a game, locate your own game files, review and install.
 |---|---|---|
 | [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | 0.2.1 | `swtrilgy.zip`, kept zipped |
 | [L.A. Machineguns](games/l-a-machineguns/README.md) | 0.2.2 | Japan `lamachin.zip`, kept zipped |
+| [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | 0.3.0 | USA CUE and all referenced BIN tracks |
+| [Brutal Doom](games/brutal-doom/README.md) | 0.3.0 | `DOOM2.WAD` |
+| [Episode Enyo](games/quake-slave-zero-x/README.md) | 0.3.0 | Quake `id1/pak0.pak` and `id1/pak1.pak` |
 
-These two versions were accepted by the owner on the debug laptop.
-Other hardware, ROM variants and emulator builds remain unverified.
-SWTA keeps stock credits (3 for credit, 1 for Start), not preconfigured free play.
-L.A. Machineguns seeds only absent NVRAM with clean calibration; existing NVRAM
-is never overwritten. The owner confirmed the final installation played
-correctly without a manual NVRAM copy.
+The owner approved publication on October 10, 2026 after successful private
+testing. This is not certification of every hardware platform or every action.
+HOD2 and Brutal Doom 0.3.0 are the exact r6 candidate package bytes. Enyo 0.3.0
+is the source-only publisher-download installer: its installer/download flow
+was checked separately; earlier gameplay acceptance covered 0.2.2's matching
+mod/fullscreen recipe, not a separately observed 0.3.0 target checklist.
 
-## Launcher
+SWTA and L.A. Machineguns are unchanged. SWTA uses stock credits, not a free-play
+preset. L.A. Machineguns seeds only absent NVRAM with clean calibration.
 
-Use the [latest Momentum launcher](https://github.com/jacobm36/momentum-distribution/releases/latest).
-The 2026.10.09.1 launcher includes exact evidence for both supported packages,
-clear update guidance, reviewed recovery actions and release consistency checks.
-Startup uses Python's built-in HTTP support and does not require `curl`.
-Python 3 and `flock` must be available; Momentum does not install system
-packages or request administrator access automatically.
+## Required launcher
 
-Extract the complete launcher into a separate folder. Close the old launcher,
-then run `bash start-candidate.sh`. Do not overwrite old folders or delete jobs.
-Receipts and game state remain shared user data. Install shortcuts using
-`bash install.sh` only when ready to point them at the new folder.
-Game ZIPs download separately through **Add game**; ROMs and BIOS are not bundled.
+Use the current privately supplied Momentum Core Launcher, including commits
+`96d726f` (tested engine selection and isolated fallback) and `be6480c`
+(installed-game import). Historical public launcher downloads do not support
+these three new package revisions. No new frontend download is published here.
 
-## Withdrawn installers
+In Momentum choose **Add game > Browse the package store**, select a game and
+provide the required original files. Review software/source preparation and
+game installation separately. A missing host prerequisite needs manual system
+setup; installers do not request administrator access automatically.
 
-All other game releases are withdrawn from the supported catalog pending
-acceptance under the current installation standard. Historical release records,
-tags, checksums recorded in release notes and documentation remain available for
-reference. Obsolete ZIP/checksum download assets have been removed; historical
-game pages describe old releases, not currently offered installers.
-Withdrawal does not uninstall any existing game.
-Old SWTA/L.A. Machineguns versions are likewise historical; use the versions above.
-Preserve your working setups, original media, saves and journals.
+HOD2 and Brutal Doom reuse exact supported existing engines in place. When an
+installed copy is unsupported and no supported copy is found, a new installation
+can offer a separately approved tested isolated build. Each managed game has
+separate settings/saves; existing installations are not automatically migrated.
+Allow 6 GiB for isolated Flycast or 4 GiB for UZDoom, plus game copies.
+There are no automatic engine updates, profile migrations or shared cleanup.
 
-## Storage and retention
+Enyo reuses verified mod files/cache or offers a separately approved direct
+publisher download. No Enyo mod files or commercial base-game files are bundled.
 
-Keep downloads for the current accepted installers and latest launcher.
-Withdrawn versions retain small release records, source tags and test evidence,
-not bulky download assets. Never upload changed bytes under an old version.
-Before removing obsolete assets, verify any useful local fallback against its
-published checksum. Removing release assets does not rewrite source history.
+## Historical installers
 
-The package source repository deliberately excludes large bundled mod payloads
-from Git. A local working folder can contain those files, but a clone or Git
-backup alone does not preserve them. Back up required payload files separately
-with their hashes, together with uncommitted source changes. Keep an old ZIP
-only when it provides a useful fallback or historical comparison; do not treat
-withdrawn installers as accepted replacements.
+Only the five entries above are current supported downloads. Earlier incorrect
+or withdrawn installers are not restored to the store. Historical release
+records and source tags remain references, not accepted replacements.
+Withdrawal does not uninstall existing games. Preserve working setups, original
+media, settings, saves and journals.
 
-## Release verification
+## Release integrity and retention
 
-`catalog.json` identifies fixed release URLs, sizes, ZIP checksums, canonical
-package digests and platforms. Never replace published bytes under an existing
-version. Verify the uploaded anonymous downloads before promoting the catalog.
+`catalog.json` records immutable release URLs, sizes, ZIP SHA256 values, canonical
+package digests and platforms. Checksum sidecars accompany each installer.
+Verify anonymous uploaded downloads before promoting the catalog; never replace
+published bytes under an existing version.
 
-The launcher's read-only `tools/check-release.py` checks source/ZIP agreement,
-immutable versions, tests, exact launcher/software evidence and catalog fields.
-Its final result is `RELEASE CHECK: PASS` (exit 0) or `RELEASE CHECK: FAIL` (exit 1).
-It never publishes or invents gameplay acceptance.
+The launcher's read-only `tools/check-release.py` verifies source/ZIP agreement,
+immutable versions, package tests, exact software/helper evidence and catalog
+fields. Installer verification remains distinct from gameplay confirmation.
 
-Only approved distribution artifacts belong here, not commercial ROMs, BIOS,
-personal state, credentials or private development history. Attribution is not
-a blanket redistribution license; preserve each component's actual notices.
+Large bundled mod payloads are not tracked in the private package source Git
+repository. Keep their exact files/hashes separately; a source clone alone does
+not reproduce those archives.
+
+Game/mod/artwork credits and applicable notices are retained in each game's
+documentation and package. Installer-code licensing does not relicense
+third-party content. Commercial ROMs, BIOS, personal state, credentials and
+private development logs do not belong in this repository.
