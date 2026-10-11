@@ -31,6 +31,10 @@ hashes, provenance and original credits are retained separately in
 
 ## Best-effort follow-up
 
+`marvel-infinity-war.png` is the unchanged supplied icon from the tested 0.2.0
+installer. Its existing artwork and preview provenance is retained in
+`games/marvel-infinity-war/THIRD-PARTY.md`; no new creator identity is asserted.
+
 `brutal-doom.png` is the owner's supplied `BrutalDoom.png`, requested as a
 store-only icon replacement on October 10, 2026. The owner identified it as
 SteamDB artwork and stated permission is established. The individual creator

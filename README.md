@@ -1,6 +1,6 @@
 # Momentum Core Distribution
 
-Public package downloads for the five owner-approved first-wave games.
+Public package downloads for six owner-approved games.
 The Momentum frontend remains private; this repository publishes game installers,
 not a new launcher release.
 
@@ -13,6 +13,14 @@ not a new launcher release.
 | [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | 0.3.0 | USA CUE and all referenced BIN tracks |
 | [Brutal Doom](games/brutal-doom/README.md) | 0.3.0 | `DOOM2.WAD` |
 | [Episode Enyo](games/quake-slave-zero-x/README.md) | 0.3.0 | Quake `id1/pak0.pak` and `id1/pak1.pak` |
+| [Marvel Infinity War](games/marvel-infinity-war/README.md) | 0.2.0 | Direct ZVitor download or exact offline PAK |
+
+Marvel Infinity War 0.2.0 is the unchanged r1/r2 game package. The owner reported
+flawless debug-PC setup and supplied a gameplay screenshot, then approved
+publication. Its native OpenBOR 6391 runtime is bundled; the game PAK is not.
+Exact author acquisition and install/verify/repair/removal/reinstall passed
+isolated runner tests. Individual target acceptance checks and full campaign
+coverage are not claimed.
 
 The owner approved publication on October 10, 2026 after successful private
 testing. This is not certification of every hardware platform or every action.
@@ -29,7 +37,9 @@ preset. L.A. Machineguns seeds only absent NVRAM with clean calibration.
 Use the current privately supplied Momentum Core Launcher, including commits
 `96d726f` (tested engine selection and isolated fallback) and `be6480c`
 (installed-game import). Historical public launcher downloads do not support
-these three new package revisions. No new frontend download is published here.
+these new package revisions. Marvel Infinity War additionally needs the current
+private launcher's OpenBOR adapter and exact 0.2.0 evidence, included in the r2
+private candidate. No new frontend download is published here.
 
 In Momentum choose **Add game > Browse the package store**, select a game and
 provide the required original files. Review software/source preparation and
@@ -48,7 +58,7 @@ publisher download. No Enyo mod files or commercial base-game files are bundled.
 
 ## Historical installers
 
-Only the five entries above are current supported downloads. Earlier incorrect
+Only the six entries above are current supported downloads. Earlier incorrect
 or withdrawn installers are not restored to the store. Historical release
 records and source tags remain references, not accepted replacements.
 Withdrawal does not uninstall existing games. Preserve working setups, original
