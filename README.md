@@ -3,10 +3,14 @@
 **Community games. Arcade oddities. Boomer shooters.**
 All the stuff enthusiasts love, without the setup pain.
 
-Momentum Core is not a ROM frontend. It is a Linux game compatibility and
-packaging platform. Each package carries a tested setup: the engine, launch
-settings, controls, presentation and preserved player state. You bring your own
-game files where required.
+Momentum Core is not a ROM frontend. It is a Linux game library plus a
+compatibility and packaging platform. The launcher can hold any game you can
+launch on Linux; packages add a tested setup: the engine, launch settings,
+controls, presentation and preserved player state. You bring your own game
+files where required.
+
+The catalog currently specializes in three areas, and grows one real game at a
+time:
 
 - **OpenBOR:** fan-made beat 'em ups, packaged and made Linux-native.
   OpenBOR, without the setup.
