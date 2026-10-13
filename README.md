@@ -1,19 +1,38 @@
 # Momentum Core Distribution
 
+**Community games. Arcade oddities. Boomer shooters.**
+All the stuff enthusiasts love, without the setup pain.
+
+Momentum Core is not a ROM frontend. It is a Linux game compatibility and
+packaging platform. Each package carries a tested setup: the engine, launch
+settings, controls, presentation and preserved player state. You bring your own
+game files where required.
+
+- **OpenBOR:** fan-made beat 'em ups, packaged and made Linux-native.
+  OpenBOR, without the setup.
+- **Momentum Mouse Arcade:** light-gun and rail-shooter games adapted to mouse
+  controls. Point, click, play.
+- **Boomer Shooters:** classic engines and modern mods, curated into a polished
+  library. Classic engines. Modern mods. Less setup.
+
 Public package downloads for six owner-approved games.
 The Momentum frontend remains private; this repository publishes game installers,
 not a new launcher release.
 
 ## Supported catalog
 
-| Game | Installer | Bring your own |
-|---|---|---|
-| [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | 0.2.1 | `swtrilgy.zip`, kept zipped |
-| [L.A. Machineguns](games/l-a-machineguns/README.md) | 0.2.2 | Japan `lamachin.zip`, kept zipped |
-| [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | 0.3.0 | USA CUE and all referenced BIN tracks |
-| [Brutal Doom](games/brutal-doom/README.md) | 0.3.0 | `DOOM2.WAD` |
-| [Episode Enyo](games/quake-slave-zero-x/README.md) | 0.3.0 | Quake `id1/pak0.pak` and `id1/pak1.pak` |
-| [Marvel Infinity War](games/marvel-infinity-war/README.md) | 0.2.0 | Direct ZVitor download or exact offline PAK |
+| Pillar | Game | Runtime | Installer | Bring your own |
+|---|---|---|---|---|
+| OpenBOR | [Marvel Infinity War](games/marvel-infinity-war/README.md) | OpenBOR 6391 | 0.2.0 | Direct ZVitor download or exact offline PAK |
+| Momentum Mouse Arcade | [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | Supermodel | 0.2.1 | `swtrilgy.zip`, kept zipped |
+| Momentum Mouse Arcade | [L.A. Machineguns](games/l-a-machineguns/README.md) | Supermodel | 0.2.2 | Japan `lamachin.zip`, kept zipped |
+| Momentum Mouse Arcade | [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | Flycast | 0.3.0 | USA CUE and all referenced BIN tracks |
+| Boomer Shooters | [Brutal Doom](games/brutal-doom/README.md) | UZDoom | 0.3.0 | `DOOM2.WAD` |
+| Boomer Shooters | [Episode Enyo](games/quake-slave-zero-x/README.md) | vkQuake | 0.3.0 | Quake `id1/pak0.pak` and `id1/pak1.pak` |
+
+Catalog entries carry optional `pillar` and `runtime` fields that the current
+launcher uses to group the store and show runtime badges. Older launchers
+ignore them.
 
 Marvel Infinity War 0.2.0 is the unchanged r1/r2 game package. The owner reported
 flawless debug-PC setup and supplied a gameplay screenshot, then approved
