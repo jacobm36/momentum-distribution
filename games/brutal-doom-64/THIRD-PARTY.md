@@ -24,3 +24,7 @@ Supplied `MomentumCore.zip`, `GamesRepo/momentum-core-launcher/media/brutal-doom
 ## Shared software and input
 
 UZDoom is separately resolved from Flathub (`org.zdoom.UZDoom`), https://flathub.org/en/apps/org.zdoom.UZDoom and https://github.com/UZDoom/UZDoom. No engine binary/runtime is bundled. Doom II IWAD is user-selected, copied without touching the original, and retained on removal. Existing sandbox settings/saves and personal artwork are preserved.
+
+## Attribution
+
+See [LEGAL-NOTICES.md](LEGAL-NOTICES.md) for complete known credits and best-effort follow-up; attribution is not an independent grant of redistribution rights.

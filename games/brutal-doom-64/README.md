@@ -12,9 +12,13 @@ included; no separate mod download or file ordering is needed.
 
 **Add game > Brutal Doom 64 > Choose folder > Review > Install.**
 
-Momentum reuses compatible UZDoom without upgrading it. If missing, separately
-approve preparation for your account, then review the game-file plan.
-Your original IWAD stays untouched.
+Momentum reuses compatible UZDoom without upgrading it. Version 0.3.0 also
+accepts an explicitly approved Momentum-managed isolated UZDoom 5.0.1 build when
+no tested copy is available. That path keeps separate settings/saves under
+`~/.local/share/momentum-core/state/brutal-doom-64/engine-profile-v1`, uses a
+hash-bound retained launch helper and grants read-only game-media access. No
+existing profile is imported or silently migrated. Your original IWAD stays
+untouched.
 
 ## Rip, tear, save
 
@@ -33,10 +37,12 @@ Vision when changing engine setups; Momentum does not change it for you.
 
 ## Keep it yours
 
-Default destination: `~/Games/Brutal Doom 64`. The IWAD sits beside
+Default destination for new installs: `~/Games/brutal-doom-64`. Upgrades keep
+the folder recorded by an earlier install (for example `~/Games/Brutal Doom 64`). The IWAD sits beside
 `mods/BrutalDoom64`, loaded as gameplay, maps, announcer, then music.
 Access is granted read-only for each launch, not through persistent overrides.
-UZDoom settings and saves remain under `~/.var/app/org.zdoom.UZDoom/`.
+With an existing UZDoom, settings and saves remain under
+`~/.var/app/org.zdoom.UZDoom/`.
 
 Verify is read-only. Repair restores missing files from their original bytes.
 Uninstall removes only unchanged owned mod/integration files, keeping your IWAD,
@@ -45,3 +51,7 @@ reinstall without replacing saves.
 
 The launcher is `~/.local/bin/brutal-doom-64`. Lifecycle support and backups
 remain under `~/.local/share/momentum-core/`. See the player guide for play notes.
+
+## Credits and attribution
+
+See [LEGAL-NOTICES.md](LEGAL-NOTICES.md) for original game, software, artwork and mod credits, source links, applicable rights and documented follow-up. Upstream notices remain intact.

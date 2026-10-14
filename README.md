@@ -19,7 +19,7 @@ time:
 - **Boomer Shooters:** classic engines and modern mods, curated into a polished
   library. Classic engines. Modern mods. Less setup.
 
-Public package downloads for six owner-approved games.
+Public package downloads for seven owner-approved games.
 The Momentum frontend remains private; this repository publishes game installers,
 not a new launcher release.
 
@@ -32,6 +32,7 @@ not a new launcher release.
 | Momentum Mouse Arcade | [L.A. Machineguns](games/l-a-machineguns/README.md) | Supermodel | 0.2.2 | Japan `lamachin.zip`, kept zipped |
 | Momentum Mouse Arcade | [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | Flycast | 0.3.0 | USA CUE and all referenced BIN tracks |
 | Boomer Shooters | [Brutal Doom](games/brutal-doom/README.md) | UZDoom | 0.3.0 | `DOOM2.WAD` |
+| Boomer Shooters | [Brutal Doom 64](games/brutal-doom-64/README.md) | UZDoom | 0.3.0 | `DOOM2.WAD` |
 | Boomer Shooters | [Episode Enyo](games/quake-slave-zero-x/README.md) | vkQuake | 0.3.0 | Quake `id1/pak0.pak` and `id1/pak1.pak` |
 
 Catalog entries carry optional `pillar` and `runtime` fields that the current
@@ -59,6 +60,12 @@ mod/fullscreen recipe, not a separately observed 0.3.0 target checklist.
 SWTA and L.A. Machineguns are unchanged. SWTA uses stock credits, not a free-play
 preset. L.A. Machineguns seeds only absent NVRAM with clean calibration.
 
+Brutal Doom 64 0.3.0 was approved for publication on October 13, 2026.
+Package checks and synthetic installer lifecycle/managed-engine tests passed;
+graphical gameplay and save/relaunch acceptance have not been reported for this
+revision. Its four mod files, artwork and load order are unchanged from 0.1.x.
+Readiness remains setup-required until the player confirms the game.
+
 ## Required launcher
 
 Use the current privately supplied Momentum Core Launcher, including commits
@@ -69,12 +76,17 @@ private launcher's OpenBOR adapter with build-specific runtime folders and the
 exact 0.3.0 evidence (commits `6a59195` and `9613e2a`). No new frontend
 download is published here.
 
+Brutal Doom 64 0.3.0 additionally requires the exact installer evidence and
+managed binding registration in private launcher commit `1890ee9`.
+UZDoom 5.0.1 is its supported build; Brutal Doom's
+additional 5.0.3 evidence does not apply to this package.
+
 In Momentum choose **Add game > Browse the package store**, select a game and
 provide the required original files. Review software/source preparation and
 game installation separately. A missing host prerequisite needs manual system
 setup; installers do not request administrator access automatically.
 
-HOD2 and Brutal Doom reuse exact supported existing engines in place. When an
+HOD2, Brutal Doom and Brutal Doom 64 reuse exact supported existing engines in place. When an
 installed copy is unsupported and no supported copy is found, a new installation
 can offer a separately approved tested isolated build. Each managed game has
 separate settings/saves; existing installations are not automatically migrated.
@@ -86,7 +98,7 @@ publisher download. No Enyo mod files or commercial base-game files are bundled.
 
 ## Historical installers
 
-Only the six entries above are current supported downloads. Earlier incorrect
+Only the seven entries above are current supported downloads. Earlier incorrect
 or withdrawn installers are not restored to the store. Historical release
 records and source tags remain references, not accepted replacements.
 Withdrawal does not uninstall existing games. Preserve working setups, original
