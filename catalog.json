@@ -20,6 +20,24 @@
       }
     },
     {
+      "id": "ultimate-double-dragon-3",
+      "version": "0.1.0",
+      "name": "Ultimate Double Dragon 3",
+      "description": "The fan-made Ultimate Double Dragon beat 'em up on the tested native OpenBOR 6391 runtime, with the captured fullscreen, shader and controller preset. Bring your own exact UDD_3.0.pak; no download. Requires current private Momentum launcher.",
+      "pillar": "openbor",
+      "runtime": "OpenBOR 6391",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/ultimate-double-dragon-3.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/ultimate-double-dragon-3-0.1.0/ultimate-double-dragon-3-0.1.0.zip",
+      "sha256": "ab887f099cb5233c9f70893d4f3f3e355e24deeded88144090cd7a898880a07e",
+      "digest": "sha256:d728447c7399b784544c7698ee386ce6490a23d7183a95975e9a07d008cb9823",
+      "size": 16229614,
+      "platform": {
+        "os": "ubuntu",
+        "releases": ["24.04"],
+        "architectures": ["x86_64"]
+      }
+    },
+    {
       "id": "star-wars-trilogy-arcade",
       "version": "0.2.1",
       "name": "Star Wars Trilogy Arcade",

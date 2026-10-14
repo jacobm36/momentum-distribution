@@ -44,3 +44,8 @@ It is third-party artwork, excluded from Momentum's MIT code license.
 The immutable Brutal Doom 0.3.0 installer and its bundled artwork are unchanged.
 
 Each game's `games/<id>/LEGAL-NOTICES.md` records known packaged-art credits and explicit unknown creator/image-page details. Improve these in later releases; do not assign authors based on lookalike images. Store artwork may differ from immutable package artwork.
+
+`ultimate-double-dragon-3.png` is the unchanged 256x256 icon bundled in
+Ultimate Double Dragon 3 0.1.0, supplied by the owner, who authorized its
+distribution. Its creator is not established and no identity is invented. It is
+excluded from the installer-code MIT license.

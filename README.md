@@ -19,7 +19,7 @@ time:
 - **Boomer Shooters:** classic engines and modern mods, curated into a polished
   library. Classic engines. Modern mods. Less setup.
 
-Public package downloads for seven owner-approved games.
+Public package downloads for eight owner-approved games.
 The Momentum frontend remains private; this repository publishes game installers,
 not a new launcher release.
 
@@ -28,6 +28,7 @@ not a new launcher release.
 | Pillar | Game | Runtime | Installer | Bring your own |
 |---|---|---|---|---|
 | OpenBOR | [Marvel Infinity War](games/marvel-infinity-war/README.md) | OpenBOR 6391 | 0.3.0 | Direct ZVitor download or exact offline PAK |
+| OpenBOR | [Ultimate Double Dragon 3](games/ultimate-double-dragon-3/README.md) | OpenBOR 6391 | 0.1.0 | Exact `UDD_3.0.pak` |
 | Momentum Mouse Arcade | [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | Supermodel | 0.2.1 | `swtrilgy.zip`, kept zipped |
 | Momentum Mouse Arcade | [L.A. Machineguns](games/l-a-machineguns/README.md) | Supermodel | 0.2.2 | Japan `lamachin.zip`, kept zipped |
 | Momentum Mouse Arcade | [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | Flycast | 0.3.0 | USA CUE and all referenced BIN tracks |
@@ -49,6 +50,13 @@ then upgraded a real 0.2.0 installation, reported it looks great and approved
 publication on October 13, 2026. The runtime is bundled; the game PAK is not.
 Individual target acceptance checks and full campaign coverage are not claimed.
 The 0.2.0 release remains available unchanged for older launchers.
+
+Ultimate Double Dragon 3 0.1.0 was approved for publication on October 13, 2026.
+It shares Marvel's exact OpenBOR 6391 runtime and build-specific folder; you
+supply the exact `UDD_3.0.pak` (no download). The isolated real-runner lifecycle
+passed with the exact PAK. The owner previously confirmed play with persistent
+fullscreen, shader and controller settings on a manual 6391 setup; stage
+transitions and the full campaign are not claimed.
 
 The owner approved publication on October 10, 2026 after successful private
 testing. This is not certification of every hardware platform or every action.
@@ -75,6 +83,10 @@ these new package revisions. Marvel Infinity War additionally needs the current
 private launcher's OpenBOR adapter with build-specific runtime folders and the
 exact 0.3.0 evidence (commits `6a59195` and `9613e2a`). No new frontend
 download is published here.
+
+Ultimate Double Dragon 3 0.1.0 additionally requires the approved OpenBOR
+package list and its installer evidence in private launcher commits `6ec9449`
+and `3764f92`.
 
 Brutal Doom 64 0.3.0 additionally requires the exact installer evidence and
 managed binding registration in private launcher commit `1890ee9`.
