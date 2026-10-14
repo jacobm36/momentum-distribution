@@ -2,11 +2,13 @@
 
 Connect your 8BitDo before opening the game. Pick your heroes and use the tutorial to try their attacks, movement and special abilities. Jacob’s working controller/display preset is provided for a fresh install; your existing settings always win.
 
-For private package 0.2.0, fresh installs use `~/Games/marvel-infinity-war`;
+For package 0.3.0, fresh installs use `~/Games/marvel-infinity-war`;
 existing receipt locations are unchanged. Keep `Saves/` backed up. Repair and
 game-only removal preserve customized CFG and progress and keep the shared
 engine. If a managed PAK or launcher was edited, removal stops rather than
-deleting those edits. This installer has not certified target gameplay.
+deleting those edits. Upgrading from 0.2.0 keeps your saves and settings and
+moves the game to its own build-specific engine folder; the old engine folder
+is left untouched. This installer has not certified target gameplay.
 
 ## Suggested 8BitDo layout
 

@@ -1,4 +1,22 @@
-# Marvel Infinity War — private 0.2.0 validation
+# Marvel Infinity War — 0.3.0 validation
+
+0.3.0 changes only where the shared engine lives: it requests the launcher's
+build-specific OpenBOR folder (`software/openbor/builds/6391-ef96ad2e3a64`).
+Engine, PAK, CFG and artwork pins are unchanged from 0.2.0.
+
+On October 13, 2026, all **49 package unit tests passed** through
+`tools/build.py --stamp` (throwaway copy and HOME), with apply proposals
+reconciled by the current launcher `ownership.py`, and launcher ZIP intake passed.
+New coverage: build-specific runtime path and `"layout": "build"` declaration;
+the legacy `openbor/6391` launch path is rejected; an unchanged 0.2.0 wrapper is
+replaced with a backup while settings, saves and the legacy engine folder are
+kept; an edited wrapper blocks the upgrade unchanged.
+
+Not yet done for 0.3.0: launcher installer evidence, the real upgrade of an
+existing 0.2.0 install, and owner gameplay confirmation. The 0.2.0 notes
+below remain the history for the shared lifecycle.
+
+## 0.2.0 validation (history)
 
 Contract 1.0.0, installer standard 1.0.1. This report covers the package-side
 current Momentum integration, not the historical companion patch or a public

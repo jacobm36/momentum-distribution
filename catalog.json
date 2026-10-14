@@ -3,16 +3,16 @@
   "games": [
     {
       "id": "marvel-infinity-war",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "name": "Marvel Infinity War",
-      "description": "ZVitor's Marvel beat 'em up with the tested native OpenBOR 6391 runtime, fullscreen, CRT and controller preset. Download the pinned game directly from ZVitor or supply the matching PAK. Existing settings and progress preserved. Requires current private Momentum launcher.",
+      "description": "ZVitor's Marvel beat 'em up with the tested native OpenBOR 6391 runtime in its own build-specific folder, fullscreen, CRT and controller preset. Download the pinned game directly from ZVitor or supply the matching PAK. Upgrades keep existing settings and progress. Requires current private Momentum launcher.",
       "pillar": "openbor",
       "runtime": "OpenBOR 6391",
       "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/marvel-infinity-war.png",
-      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/marvel-infinity-war-0.2.0/marvel-infinity-war-0.2.0.zip",
-      "sha256": "07f3d7afd753b5205e95f5aae7c596d2d9e8b2a3fb0edf3849dcf5a16ebf6749",
-      "digest": "sha256:22fed88ff0aaecb7bc9016cde8ec67dff4fdb49f48574ce88c80dfde03b6859c",
-      "size": 41658555,
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/marvel-infinity-war-0.3.0/marvel-infinity-war-0.3.0.zip",
+      "sha256": "db6883ff019833a62f7a549e5794fc01df7f98d77dd526d1ad26a041a8cf8a2f",
+      "digest": "sha256:98a1104490cfef6c27ec0c1a19289100d344e190f0b0e73599624035f881329d",
+      "size": 41660199,
       "platform": {
         "os": "ubuntu",
         "releases": ["24.04"],

@@ -27,7 +27,7 @@ not a new launcher release.
 
 | Pillar | Game | Runtime | Installer | Bring your own |
 |---|---|---|---|---|
-| OpenBOR | [Marvel Infinity War](games/marvel-infinity-war/README.md) | OpenBOR 6391 | 0.2.0 | Direct ZVitor download or exact offline PAK |
+| OpenBOR | [Marvel Infinity War](games/marvel-infinity-war/README.md) | OpenBOR 6391 | 0.3.0 | Direct ZVitor download or exact offline PAK |
 | Momentum Mouse Arcade | [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | Supermodel | 0.2.1 | `swtrilgy.zip`, kept zipped |
 | Momentum Mouse Arcade | [L.A. Machineguns](games/l-a-machineguns/README.md) | Supermodel | 0.2.2 | Japan `lamachin.zip`, kept zipped |
 | Momentum Mouse Arcade | [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | Flycast | 0.3.0 | USA CUE and all referenced BIN tracks |
@@ -38,12 +38,16 @@ Catalog entries carry optional `pillar` and `runtime` fields that the current
 launcher uses to group the store and show runtime badges. Older launchers
 ignore them.
 
-Marvel Infinity War 0.2.0 is the unchanged r1/r2 game package. The owner reported
-flawless debug-PC setup and supplied a gameplay screenshot, then approved
-publication. Its native OpenBOR 6391 runtime is bundled; the game PAK is not.
-Exact author acquisition and install/verify/repair/removal/reinstall passed
-isolated runner tests. Individual target acceptance checks and full campaign
-coverage are not claimed.
+Marvel Infinity War 0.3.0 keeps the same game, settings preset and OpenBOR 6391
+bytes as 0.2.0, but prepares the engine in Momentum's build-specific folder
+`openbor/builds/6391-ef96ad2e3a64`. Upgrading from 0.2.0 keeps the game folder,
+settings and saves, backs up the old launcher script and leaves the legacy
+`openbor/6391` folder in place. Install/verify/repair/removal/reinstall and the
+0.2.0-to-0.3.0 upgrade passed isolated runner tests with the exact PAK; the owner
+then upgraded a real 0.2.0 installation, reported it looks great and approved
+publication on October 13, 2026. The runtime is bundled; the game PAK is not.
+Individual target acceptance checks and full campaign coverage are not claimed.
+The 0.2.0 release remains available unchanged for older launchers.
 
 The owner approved publication on October 10, 2026 after successful private
 testing. This is not certification of every hardware platform or every action.
@@ -61,8 +65,9 @@ Use the current privately supplied Momentum Core Launcher, including commits
 `96d726f` (tested engine selection and isolated fallback) and `be6480c`
 (installed-game import). Historical public launcher downloads do not support
 these new package revisions. Marvel Infinity War additionally needs the current
-private launcher's OpenBOR adapter and exact 0.2.0 evidence, included in the r2
-private candidate. No new frontend download is published here.
+private launcher's OpenBOR adapter with build-specific runtime folders and the
+exact 0.3.0 evidence (commits `6a59195` and `9613e2a`). No new frontend
+download is published here.
 
 In Momentum choose **Add game > Browse the package store**, select a game and
 provide the required original files. Review software/source preparation and

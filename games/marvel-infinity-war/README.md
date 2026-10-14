@@ -1,29 +1,34 @@
 # Marvel Infinity War — Momentum Core
 
-## Published release 0.2.0
+## Published release 0.3.0
 
-The owner approved this unchanged tested installer for publication after
-reporting flawless debug-PC setup and sharing a gameplay screenshot. Actual
-author download and full isolated runner lifecycle passed, as did the source
-and extracted launcher suites (436 cases each, 67 skipped).
+The owner upgraded a real 0.2.0 installation to this unchanged tested installer,
+reported that it looks great, and approved publication. 0.3.0 keeps the same
+game, PAK, settings preset and OpenBOR 6391 bytes as 0.2.0; it moves the engine
+to Momentum's build-specific folder `openbor/builds/6391-ef96ad2e3a64`. Upgrading
+keeps your game folder, settings and saves, backs up the old launcher script and
+leaves the legacy `openbor/6391` folder in place. The isolated real-runner
+lifecycle and 0.2.0-to-0.3.0 upgrade passed with the exact PAK. The ZVitor
+download URL and hash are unchanged from 0.2.0; the 0.3.0 run itself used the
+offline PAK.
 
-Use the current privately supplied launcher with OpenBOR support. The game PAK
-downloads directly from ZVitor; it is not included in this release. The bundled
-OpenBOR runtime is the exact tested build 6391. Existing settings/progress are
-preserved. No complete campaign or individual target checklist is claimed.
+Use the current privately supplied launcher with build-specific OpenBOR support
+(commits `6a59195` and `9613e2a`). Older launchers cannot install 0.3.0; 0.2.0
+remains available as its own release. The game PAK is not included in this
+release. No complete campaign or individual target checklist is claimed.
 
 The text below and accompanying notices are the original immutable package
-documentation, including its earlier private-candidate status and explicitly
+documentation, including its pre-publication candidate status and explicitly
 recorded provenance unknowns. Publication does not rewrite those historical
 records or claim blanket rights clearance.
 
 Bring a team of Marvel heroes into ZVitor’s fan-made beat ’em up, with native Linux OpenBOR and Jacob’s captured fullscreen, CRT scanlines TV and controller settings.
 
-Private package **0.2.0**, Contract **1.0.0**, installer standard **1.0.1**, Ubuntu **24.04 x86_64**. This is an installer build candidate, with isolated lifecycle validation; current-runner real acquisition and target gameplay acceptance remain. See TEST-REPORT.md.
+Package **0.3.0**, Contract **1.0.0**, installer standard **1.0.1**, Ubuntu **24.04 x86_64**. This is an installer build candidate, with isolated lifecycle validation; current-runner real acquisition and target gameplay acceptance remain. See TEST-REPORT.md.
 
 ## Install through Momentum
 
-The current parent launcher integration provides the exact OpenBOR resolver and allows online jobs to omit the source input. Import `marvel-infinity-war-0.2.0.zip`, review its trust/digest information, leave Download from ZVitor checked (or choose your PAK folder in offline mode), and choose the games root (default `$HOME/Games`). Review and approve the separate shared-software preparation and game installation plans in Momentum.
+The current parent launcher integration provides the exact OpenBOR resolver and allows online jobs to omit the source input. Import `marvel-infinity-war-0.3.0.zip`, review its trust/digest information, leave Download from ZVitor checked (or choose your PAK folder in offline mode), and choose the games root (default `$HOME/Games`). Review and approve the separate shared-software preparation and game installation plans in Momentum.
 
 The PAK is acquired from the verified author-hosted release during approved setup, or copied from your chosen folder in offline mode. It is not bundled in the installer archive or committed to Git.
 
@@ -35,10 +40,12 @@ The installer creates its launcher and Applications entry during installation. N
 | Content | game directory: `Paks/Marvel_Infinity_War.pak` |
 | Settings / progress | game directory: `Saves/` |
 | Logs / screenshots | game directory: `Logs/`, `ScreenShots/` |
-| Shared engine | `$HOME/.local/share/momentum-core/software/openbor/6391/usr/bin/OpenBOR` |
+| Shared engine | `$HOME/.local/share/momentum-core/software/openbor/builds/6391-ef96ad2e3a64/usr/bin/OpenBOR` |
 | Generated wrapper | `$HOME/.local/bin/marvel-infinity-war` |
 | Applications entry | `$HOME/.local/share/applications/marvel-infinity-war.desktop` |
 | Retained support | `$HOME/.local/share/momentum-core/packages/marvel-infinity-war` |
+
+0.3.0 uses Momentum's build-specific OpenBOR folder. Upgrading from 0.2.0 prepares a fresh verified engine copy there, replaces the unchanged 0.2.0 wrapper (backing it up first) and keeps your game folder, PAK, settings and saves. The old `openbor/6391` engine folder is left in place for anything that still uses it. An edited wrapper stops the upgrade instead of being overwritten.
 
 The shared runtime is prepared from the exact tested AppImage’s extracted regular files. It uses its bundled libraries through `$ORIGIN/../lib`, requires no FUSE, and is reused only if every pinned file and mode matches. Preparation does not launch the game, download software, upgrade an engine or elevate privileges. Other OpenBOR versions are never substituted. Missing host libraries produce a setup requirement.
 
@@ -65,9 +72,9 @@ Build 7533 failed after the tutorial with `openborvariant: System variable name 
 Read [PLAYER-GUIDE.md](PLAYER-GUIDE.md), [SETUP-GUIDE.md](SETUP-GUIDE.md), [THIRD-PARTY.md](THIRD-PARTY.md), and [TEST-REPORT.md](TEST-REPORT.md). Artwork, engine, game and video retain their separate rights; Momentum’s MIT license applies only to its installer code and documentation.
 
 
-## Online setup in Momentum — 0.2.0
+## Online setup in Momentum — 0.3.0
 
-Import the 0.2.0 installer into Momentum with the matching runner/frontend adapter. Leave **Download from ZVitor** checked; the existing-file folder can be blank. Choose the destination and continue. Review the game-download card and file changes, then choose **Approve and install**. There are no terminal prompts or administrator requests. If the exact engine is missing, its existing separate preparation review appears first. This is the normal frontend approval flow, not an additional terminal gate.
+Import the 0.3.0 installer into Momentum with the matching runner/frontend adapter. Leave **Download from ZVitor** checked; the existing-file folder can be blank. Choose the destination and continue. Review the game-download card and file changes, then choose **Approve and install**. There are no terminal prompts or administrator requests. If the exact engine is missing, its existing separate preparation review appears first. This is the normal frontend approval flow, not an additional terminal gate.
 
 For offline setup, turn **Download from ZVitor** off and choose the folder containing `Marvel_Infinity_War.pak`. The PAK must match the exact size and checksum below; missing or different releases are rejected. Originals stay untouched. Online mode extracts only the PAK; the upstream Windows executable, logs, settings and personal state are excluded. Your fullscreen/CRT/controller preset still comes from this package, seeded only when settings are absent.
 

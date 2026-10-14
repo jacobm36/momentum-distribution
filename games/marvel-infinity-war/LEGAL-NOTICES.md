@@ -1,6 +1,6 @@
 # Credits, provenance and rights
 
-Private installer 0.2.0, reviewed October 10, 2026. Best-effort attribution under
+Installer 0.3.0; notices carried forward unchanged from the 0.2.0 review of October 10, 2026. Best-effort attribution under
 Momentum installer standard 1.0.1; no complete public redistribution clearance
 or third-party permission is inferred.
 

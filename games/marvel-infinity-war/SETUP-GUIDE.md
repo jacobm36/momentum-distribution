@@ -149,7 +149,7 @@ The working archive includes configuration, progress, high scores, and a numbere
 
 Keep shared engine files separate from game ownership. Track precise managed files and hashes. Uninstall previews by default and stops before mutation if a managed file was edited; it preserves user-state saves/configuration, unknown files and the shared engine, and supports reinstall with retained state. Never recursively remove the test folder or original PAK source.
 
-The private 0.2.0 package keeps the PAK external, using the pinned author-hosted download by default or an explicitly selected, exact-hash offline PAK. There is no game-bundling/finalization step. Fresh installs use `~/Games/marvel-infinity-war`; validated receipt directories remain unchanged without migration.
+The 0.3.0 package (like 0.2.0) keeps the PAK external, using the pinned author-hosted download by default or an explicitly selected, exact-hash offline PAK. There is no game-bundling/finalization step. Fresh installs use `~/Games/marvel-infinity-war`; validated receipt directories remain unchanged without migration.
 
 ## Artwork, preview, and attribution
 
@@ -194,9 +194,9 @@ Select the directory containing your PAK as the source. Only the PAK is copied, 
 Isolated lifecycle tests now cover seeding, repair, repeated installation, safe removal and retained-state reinstall. Actual packaged gameplay, Applications launch and clean-exit/relaunch persistence remain target acceptance tasks. No remote push was performed.
 
 
-## Online setup in Momentum — 0.2.0
+## Online setup in Momentum — 0.3.0
 
-Import the 0.2.0 installer into Momentum with the current runner/frontend integration. Leave **Download from ZVitor** checked; online contexts may omit `source_dir` entirely and the existing-file folder can be blank. Choose the destination and continue. Review the game-download card and file changes, then choose **Approve and install**. There are no terminal prompts or administrator requests. If the exact engine is missing, its existing separate preparation review appears first. This is the normal frontend approval flow, not an additional terminal gate.
+Import the 0.3.0 installer into Momentum with the current runner/frontend integration. Leave **Download from ZVitor** checked; online contexts may omit `source_dir` entirely and the existing-file folder can be blank. Choose the destination and continue. Review the game-download card and file changes, then choose **Approve and install**. There are no terminal prompts or administrator requests. If the exact engine is missing, its existing separate preparation review appears first. This is the normal frontend approval flow, not an additional terminal gate.
 
 For offline setup, turn **Download from ZVitor** off and choose the folder containing `Marvel_Infinity_War.pak`. Its size and SHA-256 must match the pins below. Originals stay untouched. Online mode extracts only the PAK; the upstream Windows executable, logs, settings and personal state are excluded. Your fullscreen/CRT/controller preset still comes from this package, seeded only when settings are absent.
 
