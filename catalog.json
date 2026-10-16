@@ -144,6 +144,24 @@
         "releases": ["24.04"],
         "architectures": ["x86_64"]
       }
+    },
+    {
+      "id": "virtua-cop-2",
+      "version": "0.1.2",
+      "name": "Virtua Cop 2",
+      "description": "Mouse-aimed Virtua Cop 2 setup on Flycast v2.7. The owner reports that it works great on their setup. Bring the Japanese GDI and all 39 matching tracks; 0.1.x migrations retain the old folder and separate state. Requires the updated private Momentum launcher.",
+      "pillar": "mouse-arcade",
+      "runtime": "Flycast v2.7",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/virtua-cop-2.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/virtua-cop-2-0.1.2/virtua-cop-2-0.1.2.zip",
+      "sha256": "1c307b3ff5e10755a9b8d4cbb5ae77f15b04d9348133308e8d0c1de5f11db1c2",
+      "digest": "sha256:c2c3709af88bff503142e96a55e49eac50c9d9fca51a3f7e8b6be4936c7bb7a9",
+      "size": 217534,
+      "platform": {
+        "os": "ubuntu",
+        "releases": ["24.04"],
+        "architectures": ["x86_64"]
+      }
     }
   ]
 }

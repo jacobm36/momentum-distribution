@@ -19,7 +19,7 @@ time:
 - **Boomer Shooters:** classic engines and modern mods, curated into a polished
   library. Classic engines. Modern mods. Less setup.
 
-Public package downloads for eight owner-approved games.
+Public package downloads for nine owner-approved games.
 The Momentum frontend remains private; this repository publishes game installers,
 not a new launcher release.
 
@@ -31,6 +31,7 @@ not a new launcher release.
 | OpenBOR | [Ultimate Double Dragon 3](games/ultimate-double-dragon-3/README.md) | OpenBOR 6391 | 0.1.0 | Exact `UDD_3.0.pak` |
 | Momentum Mouse Arcade | [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | Supermodel | 0.2.1 | `swtrilgy.zip`, kept zipped |
 | Momentum Mouse Arcade | [L.A. Machineguns](games/l-a-machineguns/README.md) | Supermodel | 0.2.2 | Japan `lamachin.zip`, kept zipped |
+| Momentum Mouse Arcade | [Virtua Cop 2](games/virtua-cop-2/README.md) | Flycast v2.7 | 0.1.2 | Japanese GDI and all 39 referenced tracks |
 | Momentum Mouse Arcade | [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | Flycast | 0.3.0 | USA CUE and all referenced BIN tracks |
 | Boomer Shooters | [Brutal Doom](games/brutal-doom/README.md) | UZDoom | 0.3.0 | `DOOM2.WAD` |
 | Boomer Shooters | [Brutal Doom 64](games/brutal-doom-64/README.md) | UZDoom | 0.3.0 | `DOOM2.WAD` |
@@ -68,6 +69,13 @@ mod/fullscreen recipe, not a separately observed 0.3.0 target checklist.
 SWTA and L.A. Machineguns are unchanged. SWTA uses stock credits, not a free-play
 preset. L.A. Machineguns seeds only absent NVRAM with clean calibration.
 
+Virtua Cop 2 0.1.2 uses a copy-only migration into the package-ID game folder;
+the previous folder and separate game state are retained. The owner reported
+that the game works great and confirmed gameplay acceptance on their setup on
+October 15, 2026; specific checklist items and compatibility with other
+hardware/platforms were not reported. Its earlier 0.1.0 release remains
+withdrawn and unchanged.
+
 Brutal Doom 64 0.3.0 was approved for publication on October 13, 2026.
 Package checks and synthetic installer lifecycle/managed-engine tests passed;
 graphical gameplay and save/relaunch acceptance have not been reported for this
@@ -87,6 +95,9 @@ download is published here.
 Ultimate Double Dragon 3 0.1.0 additionally requires the approved OpenBOR
 package list and its installer evidence in private launcher commits `6ec9449`
 and `3764f92`.
+
+Virtua Cop 2 0.1.2 additionally requires the exact installer evidence in private
+launcher commit `1ca410e`.
 
 Brutal Doom 64 0.3.0 additionally requires the exact installer evidence and
 managed binding registration in private launcher commit `1890ee9`.

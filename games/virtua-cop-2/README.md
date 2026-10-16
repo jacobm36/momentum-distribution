@@ -18,13 +18,13 @@ Mouse to aim, left-click to fire, Enter to start. Tab opens the Flycast menu. Te
 
 ## Compatibility
 
-Ubuntu 24.04 x86_64, X11, standalone Flycast v2.7 on the exact approved build. This is an owner-approved adaptation from the RetroArch guide, not a claim that the new standalone profile has passed gameplay testing. OpenGL, desktop borderless fullscreen and rendering threads off preserve the guide's intent. Confirm controls, reload and saved progress before relying on this setup.
-
-Your installation remains **setup required** until you confirm gameplay.
+Ubuntu 24.04 x86_64, X11, standalone Flycast v2.7 on the exact approved build. The owner confirmed that Virtua Cop 2 0.1.2 works great on their setup. This is not a claim of universal hardware support or a report of specific checklist items.
 
 ## Where it goes
 
-Game files default to `~/Games/Virtua Cop 2 (Japan)`.
+New installs use `~/Games/virtua-cop-2`. Upgrading from 0.1.0 or 0.1.1 copies
+selected files into that folder while retaining the legacy game folder unchanged.
+An occupied destination or modified managed legacy media stops migration safely.
 Settings and saves stay separate in `~/.local/share/momentum-core/state/virtua-cop-2`.
 The launcher is `~/.local/bin/virtua-cop-2`; support and backups remain under
 `~/.local/share/momentum-core/`.
@@ -32,3 +32,7 @@ The launcher is `~/.local/bin/virtua-cop-2`; support and backups remain under
 ## Keep it yours
 
 Verification is read-only. Repair restores missing owned files only from their original bytes; modified files are preserved and reported. Uninstall removes only unchanged owned resources, keeping originals, user state, required software and retained support. Reconcile interrupted jobs before retrying.
+
+## Credits and attribution
+
+See [LEGAL-NOTICES.md](LEGAL-NOTICES.md) for original game, software, artwork and mod credits, source links, applicable rights and documented follow-up. Upstream notices remain intact.
