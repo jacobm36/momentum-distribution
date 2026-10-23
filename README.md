@@ -19,7 +19,7 @@ time:
 - **Boomer Shooters:** classic engines and modern mods, curated into a polished
   library. Classic engines. Modern mods. Less setup.
 
-Public package downloads for nine owner-approved games.
+Public package downloads for ten owner-approved games.
 The Momentum frontend remains private; this repository publishes game installers,
 not a new launcher release.
 
@@ -32,6 +32,7 @@ not a new launcher release.
 | Momentum Mouse Arcade | [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | Supermodel | 0.2.1 | `swtrilgy.zip`, kept zipped |
 | Momentum Mouse Arcade | [L.A. Machineguns](games/l-a-machineguns/README.md) | Supermodel | 0.2.2 | Japan `lamachin.zip`, kept zipped |
 | Momentum Mouse Arcade | [Virtua Cop 2](games/virtua-cop-2/README.md) | Flycast v2.7 | 0.1.2 | Japanese GDI and all 39 referenced tracks |
+| Momentum Mouse Arcade | [Time Crisis II](games/time-crisis-ii/README.md) | MAME 0.289 | 0.1.1 | `timecrs2.zip` compatible with the pinned build |
 | Momentum Mouse Arcade | [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | Flycast | 0.3.0 | USA CUE and all referenced BIN tracks |
 | Boomer Shooters | [Brutal Doom](games/brutal-doom/README.md) | UZDoom | 0.3.0 | `DOOM2.WAD` |
 | Boomer Shooters | [Brutal Doom 64](games/brutal-doom-64/README.md) | UZDoom | 0.3.0 | `DOOM2.WAD` |
@@ -84,6 +85,16 @@ Readiness remains setup-required until the player confirms the game.
 
 ## Required launcher
 
+Time Crisis II 0.1.1 requires the private launcher's MAME adapter and exact-byte
+installer evidence in commit `22f0cb0`. The owner reported testing and accepting
+the matching package-installed 0.1.0 candidate and approved publication on
+October 22, 2026. The runtime, controls and exact seed are unchanged. Public
+inclusion of the seed's calibration, scores and bookkeeping is explicitly
+owner-approved; it is not a cleaned factory preset. Final 0.1.1 real
+existing-engine lifecycle checks passed. Synthetic missing/incompatible-engine
+tests do not establish real network acquisition. No full-speed, individual
+gameplay checklist or other-machine claims are made.
+
 Use the current privately supplied Momentum Core Launcher, including commits
 `96d726f` (tested engine selection and isolated fallback) and `be6480c`
 (installed-game import). Historical public launcher downloads do not support
@@ -121,7 +132,7 @@ publisher download. No Enyo mod files or commercial base-game files are bundled.
 
 ## Historical installers
 
-Only the seven entries above are current supported downloads. Earlier incorrect
+Only the ten entries above are current supported downloads. Earlier incorrect
 or withdrawn installers are not restored to the store. Historical release
 records and source tags remain references, not accepted replacements.
 Withdrawal does not uninstall existing games. Preserve working setups, original
