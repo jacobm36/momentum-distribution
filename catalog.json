@@ -5,7 +5,7 @@
       "id": "time-crisis-ii",
       "version": "0.1.1",
       "name": "Time Crisis II",
-      "description": "Mouse aim, left-click fire, hold right-click for cover/reload. Fullscreen, BGFX default and the owner-approved free-play seed on pinned MAME 0.289. Bring your own timecrs2.zip. Requires current private Momentum launcher.",
+      "description": "Take cover. Reload. Beat the clock. Dive into Namco's explosive arcade shootout, where quick aim and split-second timing keep you in the fight. Mouse-ready action, fullscreen arcade atmosphere and free play - no pockets full of coins required. Bring your own timecrs2.zip for MAME 0.289; requires the current private Momentum launcher.",
       "pillar": "mouse-arcade",
       "runtime": "MAME 0.289",
       "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/time-crisis-ii.png",
