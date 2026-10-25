@@ -1,6 +1,6 @@
 # The House of the Dead 2
 
-Installer **0.3.0** brings the Dreamcast USA release to Momentum with fullscreen,
+Installer **0.3.1** brings the Dreamcast USA release to Momentum with fullscreen,
 mouse-lightgun input and a visible crosshair. Supply
 `House of the Dead 2, The (USA).cue` and every referenced BIN track together.
 No ROM, BIOS or engine binary is bundled.
@@ -29,8 +29,15 @@ switch profiles.
 
 The wrapper requests fullscreen, port-A lightgun input, mouse aim, visible
 crosshair and standard aspect ratio. Confirm Start/trigger mappings, aiming,
-reload, audio and exit on your hardware. Dedicated right-click reload is not
-separately certified. See [PLAYER-GUIDE.md](PLAYER-GUIDE.md).
+reload, audio and exit on your hardware. Right-click reload and middle-click
+Start are seeded from the owner's MK-51002 mouse mapping only when absent.
+Ordinary user/system reuse and managed installs use their respective profiles;
+existing custom mappings are preserved. Final-package reload gameplay remains
+to be confirmed. See [PLAYER-GUIDE.md](PLAYER-GUIDE.md).
+
+Includes a description, portrait Grid art, gameplay screenshot and video.
+Requires the current privately supplied launcher with package presentation
+retention and exact 0.3.1 evidence.
 
 Verify checks installed files. Repair restores missing owned files and reports
 edits rather than replacing them. Uninstall preserves user state, shared engine
@@ -44,11 +51,12 @@ Ubuntu 24.04 x86_64; Bash/Python 3.10+, Flatpak and suitable graphics drivers.
 Requires the current private launcher with the exact package/helper contract;
 historical public launcher assets do not support this revision.
 
-These are the exact HOD2 r6 bytes that passed installer/repeat, repair,
-remove/reinstall, isolated real acquisition, windowed boot and idle VMU checks.
-The owner reported the candidate working successfully and approved publication.
-Individual target input/fullscreen/game-earned-save actions were not separately
-documented; validate them on your machine. No general hardware certification.
+The 0.3.1 package tests and exact synthetic ordinary/managed installer checks
+passed, including repeat, managed repair/removal/reinstall and binding-drift
+blocking. It retains the earlier managed helper and pinned engines. Historical
+0.3.0 acquisition/boot evidence and owner reports do not constitute a new
+0.3.1 gameplay acceptance report. Validate input/fullscreen/audio and save
+persistence on your machine. No general hardware certification.
 
 See [LEGAL-NOTICES.md](LEGAL-NOTICES.md) for attribution. Installer code is MIT;
 third-party artwork retains its own terms. No endorsement or affiliation.

@@ -25,7 +25,22 @@ Credit to **flyinghead and the Flycast contributors** and the upstream contribut
 - [Creator profile](https://www.steamgriddb.com/profile/76561199032730738/icons/1)
 - [Service terms](https://www.steamgriddb.com/terms), consulted October 6, 2026 as recorded in `assets/README.md`.
 
-The project owner authorized distribution on the recorded user-content-terms basis. This is not separate written creator permission or a legal conclusion about underlying game imagery. The exact individual image-page URL was not supplied. Third-party artwork is excluded from Momentum's MIT license. No cover, screenshots or video are bundled.
+The project owner authorized distribution on the recorded user-content-terms basis. This is not separate written creator permission or a legal conclusion about underlying game imagery. The exact individual image-page URL was not supplied. Third-party artwork is excluded from Momentum's MIT license.
+
+### Catalog media added in 0.3.1
+
+`assets/grid.png` and `assets/preview.mp4` reuse owner-supplied existing local
+HOD2 library media. Their original creator/source URLs were not supplied.
+`assets/cover.png` is a genuine 640×480 decoded gameplay frame at approximately 12 seconds from that
+preview, supplied for this revision. It is the catalog's screenshot/cover
+surface; there are no additional screenshot files. No new third-party
+permission or complete legal clearance is asserted. Original game imagery
+remains attributable to SEGA and its original team; third-party media is not
+relicensed under Momentum's MIT license.
+
+The per-game mouse mapping in `presets/` is copied byte-for-byte from the
+owner's existing local Flycast mapping; it is integration configuration, not
+game data or an emulator binary.
 
 ## Mods
 

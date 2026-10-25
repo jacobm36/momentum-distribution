@@ -2,9 +2,7 @@
 
 Wait for the Darth Vader attract sequence. Press 3 for a credit and 1 to start. Mouse to aim, left-click or A to fire, right-click or S for the event button, D for trigger 2. Escape exits.
 
-Free play is not preconfigured. Use 3 to add a credit before pressing 1 to start. This package does not copy another installation's NVRAM or service settings. If you enable a verified service-menu option, configure it in this game's isolated state and confirm it persists after relaunch.
-
-Confirm credits/Start, mouse aim, fire, event button, feedback-lever startup, fullscreen, sound, exit and relaunch/state persistence. Check bonus-stage controls separately.
+The owner-approved `swtrilgy.nv` seed is copied into this game's isolated state only if NVRAM is absent. The owner confirms it shows Free Play and includes existing scores/bookkeeping. Existing NVRAM and scores are never overwritten. The owner reports the original setup works, but gameplay of this package revision remains pending confirmation. On a fresh install, confirm Free Play, credits/Start, mouse aim, fire, event button, feedback-lever startup, fullscreen, sound, exit and relaunch/state persistence. Check bonus-stage controls separately.
 
 Settings and saves belong to this game alone. Changes you make there are kept on repair and removal.
 

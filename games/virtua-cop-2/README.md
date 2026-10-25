@@ -14,11 +14,20 @@ Momentum prepares required software after approval, copies your game files, and 
 
 ## Controls
 
-Mouse to aim, left-click to fire, Enter to start. Tab opens the Flycast menu. Test reload in gameplay; no dedicated reload binding is promised.
+Mouse to aim, left-click to fire, right-click to reload, middle-click or Enter
+to start. Tab opens the Flycast menu. Installer 0.1.3 seeds the owner's
+HDR-0061 mouse mapping only when missing; existing custom mappings are retained.
+Confirm reload in gameplay on your system.
+
+Includes a description, portrait Grid art, gameplay screenshot and video.
+Requires the current privately supplied launcher with package presentation
+retention and exact 0.1.3 evidence; older public launchers are unsupported.
 
 ## Compatibility
 
 Ubuntu 24.04 x86_64, X11, standalone Flycast v2.7 on the exact approved build. The owner confirmed that Virtua Cop 2 0.1.2 works great on their setup. This is not a claim of universal hardware support or a report of specific checklist items.
+The 0.1.3 package and synthetic installer checks passed; its new binding has not
+received a separate final-package gameplay acceptance report.
 
 ## Where it goes
 

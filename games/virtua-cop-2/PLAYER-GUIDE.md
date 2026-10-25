@@ -1,10 +1,15 @@
 # Virtua Cop 2: ready, aim, play
 
-Mouse to aim, left-click to fire, Enter to start. Tab opens Flycast settings. No dedicated reload binding is promised.
+Mouse to aim, left-click to fire, right-click to reload, middle-click or Enter
+to start. Tab opens the Flycast menu. Existing custom mappings take precedence:
+the per-game HDR-0061 preset is seeded only if absent, never on top of your edits.
+This is the owner's previously loaded mapping, not a new gameplay certification.
 
-The owner confirmed gameplay acceptance for version 0.1.2 on their setup on October 15, 2026. Specific checklist items and compatibility with other hardware/platforms were not reported.
+Launch Virtua Cop 2 and confirm Enter/Start, aim, fire, reload, crosshair, borderless fullscreen, sound, exit and relaunch/state persistence. Standalone gameplay is not yet confirmed; Tab opens Flycast settings.
 
-New installs use `~/Games/virtua-cop-2`. Upgrading from version 0.1.0 or 0.1.1 copies the selected game files into the new folder and retains the old folder unchanged. An existing destination or modified managed legacy media stops migration without overwriting it. Settings and saves belong to this game alone and are kept on repair and removal.
+Settings and saves belong to this game alone. Changes you make there are kept on repair and removal.
+
+New installs use `~/Games/virtua-cop-2`. When migrating from 0.1.0 or 0.1.1, Momentum copies the selected game folder and leaves `~/Games/Virtua Cop 2 (Japan)` unchanged. If the new destination already exists, setup stops rather than merging or replacing its contents.
 
 ## Credits and attribution
 

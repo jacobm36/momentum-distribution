@@ -1,6 +1,6 @@
 # Legal notices and attribution — Star Wars Trilogy Arcade
 
-Attribution reviewed: October 7, 2026. Package 0.2.1. Best-effort credit record; unresolved details are explicit.
+Attribution reviewed: October 25, 2026. Package 0.2.2. Best-effort credit record; unresolved details are explicit.
 
 ## Original game — Star Wars Trilogy Arcade
 
@@ -25,6 +25,26 @@ Owner-supplied **swta.png**, recorded as SteamGridDB artwork and approved by the
 - [Identified distribution platform](https://www.steamgriddb.com/)
 - [Service terms](https://www.steamgriddb.com/terms)
 - Exact bundled-byte and packaging record: `assets/README.md` and `SHA256SUMS`.
+
+## Owner-approved NVRAM seed
+
+`presets/swtrilgy.nv` is an exact copy of the owner's current
+`/home/jake/Games/Supermodel/NVRAM/swtrilgy.nv`, explicitly approved for this
+package revision, including its game-generated scores and bookkeeping. The
+owner confirms this NVRAM shows Free Play. It is copied only if isolated
+`NVRAM/swtrilgy.nv` is absent; later launches, upgrades, repairs and removals
+preserve existing NVRAM. This user-supplied game-generated state is not ROM
+media or an emulator executable, and this package does not claim to relicense
+its embedded data or imply endorsement by SEGA.
+
+## Other bundled media
+
+`assets/grid.png` and `assets/preview.mp4` are byte copies of the matching
+owner-maintained launcher media under `media/star-wars-trilogy-arcade/`.
+`assets/cover.png` is the supplied decoded gameplay video frame at about
+12 seconds (853x480), visually inspected by the owner.
+These provenance notes do not claim separate creator permissions or alter the
+rights in the original imagery.
 
 ## Mods
 

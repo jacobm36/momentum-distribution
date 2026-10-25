@@ -2,7 +2,7 @@
 
 Press 3 for a credit and 1 to start. Mouse to aim; left-click or A and right-click or S operate the two triggers. Escape exits. Cabinet service/test: 5 and 6; use only when deliberately calibrating.
 
-Confirm credits/Start, both triggers, mouse aiming at all playfield edges, fullscreen display, sound, exit and relaunch/state persistence. Fresh installations receive a clean calibrated NVRAM seed on first launch; settings remain saved afterward.
+The owner-approved `lamachin.nv` seed is copied into this game's isolated state only if NVRAM is absent. The owner confirms it shows Free Play and includes existing scores/bookkeeping. Existing NVRAM and scores are never overwritten. The owner reports the original setup works, but gameplay of this package revision remains pending confirmation. On a fresh install, confirm Free Play, credits/Start, both triggers, mouse aiming at all playfield edges, fullscreen display, sound, exit and relaunch/state persistence.
 
 Settings and saves belong to this game alone. Changes you make there are kept on repair and removal.
 

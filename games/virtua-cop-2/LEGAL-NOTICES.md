@@ -1,6 +1,6 @@
 # Legal notices and attribution — Virtua Cop 2
 
-Attribution reviewed: October 7, 2026. Package 0.1.1. Best-effort credit record; unresolved details are explicit.
+Attribution reviewed: October 7, 2026. Package 0.1.2. Best-effort credit record; unresolved details are explicit.
 
 ## Original game — Virtua Cop 2
 
@@ -26,6 +26,13 @@ Owner-supplied **Vc2.png**, recorded as SteamGridDB artwork and approved by the 
 - Exact bundled-byte and packaging record: `assets/README.md` and `SHA256SUMS`.
 
 ## Mods
+
+Revision 0.1.3 also reuses owner-supplied portrait grid artwork and the existing
+local preview video. The Background art is a frame captured from that video.
+Exact upstream image/video creator and source-page details remain unrecorded;
+no new permission or complete clearance is claimed. These media are not covered
+by the installer-code license. The per-game mapping is copied from the owner's
+working setup; no saves or account information are included.
 
 No gameplay mod is bundled in this arcade package. Title-specific settings are Momentum integration, not an additional third-party mod.
 

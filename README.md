@@ -29,11 +29,11 @@ not a new launcher release.
 |---|---|---|---|---|
 | OpenBOR | [Marvel Infinity War](games/marvel-infinity-war/README.md) | OpenBOR 6391 | 0.3.0 | Direct ZVitor download or exact offline PAK |
 | OpenBOR | [Ultimate Double Dragon 3](games/ultimate-double-dragon-3/README.md) | OpenBOR 6391 | 0.1.0 | Exact `UDD_3.0.pak` |
-| Momentum Mouse Arcade | [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | Supermodel | 0.2.1 | `swtrilgy.zip`, kept zipped |
-| Momentum Mouse Arcade | [L.A. Machineguns](games/l-a-machineguns/README.md) | Supermodel | 0.2.2 | Japan `lamachin.zip`, kept zipped |
-| Momentum Mouse Arcade | [Virtua Cop 2](games/virtua-cop-2/README.md) | Flycast v2.7 | 0.1.2 | Japanese GDI and all 39 referenced tracks |
+| Momentum Mouse Arcade | [Star Wars Trilogy Arcade](games/star-wars-trilogy-arcade/README.md) | Supermodel | 0.2.2 | `swtrilgy.zip`, kept zipped |
+| Momentum Mouse Arcade | [L.A. Machineguns](games/l-a-machineguns/README.md) | Supermodel | 0.2.3 | Japan `lamachin.zip`, kept zipped |
+| Momentum Mouse Arcade | [Virtua Cop 2](games/virtua-cop-2/README.md) | Flycast v2.7 | 0.1.3 | Japanese GDI and all 39 referenced tracks |
 | Momentum Mouse Arcade | [Time Crisis II](games/time-crisis-ii/README.md) | MAME 0.289 | 0.1.1 | `timecrs2.zip` compatible with the pinned build |
-| Momentum Mouse Arcade | [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | Flycast | 0.3.0 | USA CUE and all referenced BIN tracks |
+| Momentum Mouse Arcade | [The House of the Dead 2](games/the-house-of-the-dead-2/README.md) | Flycast | 0.3.1 | USA CUE and all referenced BIN tracks |
 | Boomer Shooters | [Brutal Doom](games/brutal-doom/README.md) | UZDoom | 0.3.0 | `DOOM2.WAD` |
 | Boomer Shooters | [Brutal Doom 64](games/brutal-doom-64/README.md) | UZDoom | 0.3.0 | `DOOM2.WAD` |
 | Boomer Shooters | [Episode Enyo](games/quake-slave-zero-x/README.md) | vkQuake | 0.3.0 | Quake `id1/pak0.pak` and `id1/pak1.pak` |
@@ -62,13 +62,20 @@ transitions and the full campaign are not claimed.
 
 The owner approved publication on October 10, 2026 after successful private
 testing. This is not certification of every hardware platform or every action.
-HOD2 and Brutal Doom 0.3.0 are the exact r6 candidate package bytes. Enyo 0.3.0
+Historical HOD2 0.3.0 and Brutal Doom 0.3.0 are the exact r6 candidate package bytes. Enyo 0.3.0
 is the source-only publisher-download installer: its installer/download flow
 was checked separately; earlier gameplay acceptance covered 0.2.2's matching
 mod/fullscreen recipe, not a separately observed 0.3.0 target checklist.
 
-SWTA and L.A. Machineguns are unchanged. SWTA uses stock credits, not a free-play
-preset. L.A. Machineguns seeds only absent NVRAM with clean calibration.
+SWTA 0.2.2 and L.A. Machineguns 0.2.3 seed missing NVRAM with the owner's
+working Free Play state, including explicitly approved scores/bookkeeping.
+These are not cleaned factory presets. Existing player NVRAM is never replaced.
+Virtua Cop 2 0.1.3 and HOD2 0.3.1 seed missing title-specific mouse mappings
+with the owner's right-click reload binding. Personal mappings stay intact.
+All four include a description, portrait Grid art, a genuine screenshot and a
+preview video. This is the baseline for new/revised packages; historical
+immutable releases are not rewritten. Exact package and isolated synthetic
+installer checks passed; new-revision gameplay acceptance remains separate.
 
 Virtua Cop 2 0.1.2 uses a copy-only migration into the package-ID game folder;
 the previous folder and separate game state are retained. The owner reported
@@ -84,6 +91,17 @@ revision. Its four mod files, artwork and load order are unchanged from 0.1.x.
 Readiness remains setup-required until the player confirms the game.
 
 ## Required launcher
+
+The four presentation/preset revisions above require the current privately
+supplied launcher with generic package cover/Grid/video retention and their
+exact installer evidence. The earlier 2026.10.25 preview.1 preparation ZIP
+predates this support. Historical public launchers cannot install these
+revisions; no new launcher is published by this package release.
+The matching private preparation bundle is
+`Momentum-Core-Launcher-2026.10.25-preview.2-package-presets-private.zip`
+(SHA256 `e32b5b90456be30f7ecb24f2cfea9d85fb0ebd6a12bf6e81805cf388db3592f1`).
+Its exact evidence, package/source bytes, catalog and checksums were checked
+together. The canonical laptop checkout also contains this support.
 
 Time Crisis II 0.1.1 requires the private launcher's MAME adapter and exact-byte
 installer evidence in commit `22f0cb0`. The owner reported testing and accepting

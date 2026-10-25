@@ -5,15 +5,15 @@ This package requests mouse lightgun on Port A, visible crosshair and fullscreen
 1. Close any other Flycast session before installation/repair/removal.
 2. Launch the installed Momentum entry, or the generated `~/.local/bin/house-of-the-dead-2` wrapper if the runner used the suggested path.
 3. Confirm fullscreen and a visible crosshair. Move the mouse and check that aim tracks across the whole play area.
-4. Use your configured **Start** binding to enter the game. If it is missing, open Flycast's input settings and bind Start for your keyboard. No particular default key is claimed here.
-5. Confirm left-click fires. The earlier laptop setup confirmed **firing off-screen reloads**. Dedicated right-click reload has not been verified; do not rely on it.
+4. A fresh HOD2 mouse mapping seeds **middle-click Start**. An existing custom mapping is kept, so use its Start binding instead if present.
+5. Confirm **left-click fires** and test **right-click reload**. Those are the shipped fresh-mapping bindings, copied exactly from the laptop. Load binding was tested historically, not actual right-click gameplay reload. The earlier laptop setup confirmed **firing off-screen reloads**; confirm both actions on your installation.
 6. Check reload, then play through a short section. If aim is offset, use the game's calibration/settings and preserve the resulting state. Do not substitute widescreen hacks as an aiming fix.
 7. Exit through the configured Flycast menu/exit control. Confirm Momentum stops recording the session. Exact default exit/menu keys must be checked on your installed version.
 8. Relaunch and confirm mappings, calibration and progress/settings persist. Record the Flycast version and OS with the test result.
 
-If input does not work, inspect Flycast's Mouse/Keyboard input mapping for Port A. Set/configure the trigger and Start as needed; mappings differ by device/version. An absent fresh profile is intentionally left for Flycast to create, and manual setup remains visible in Momentum.
+If input does not work, inspect Flycast's Mouse/Keyboard input mapping for Port A. Set/configure trigger, reload and Start as needed; mappings differ by device/version. Manual setup remains visible in Momentum. At launch only, an absent `SDL_Default Mouse_MK-51002.cfg` is seeded under the normal Flatpak `config/flycast/mappings`, or the bound managed profile's `config/flycast/mappings`. Existing edited mappings are never replaced; install, repair and uninstall leave them alone.
 
-The launcher provides read-only access to the game folder. Normal Flycast profile storage remains its own user Flatpak profile. If the emulator tries to write state beside the CUE and fails, stop and record the actual path before changing permissions or the package contract.
+The launcher provides read-only access to the game folder. Ordinary Flycast reuse keeps its own user Flatpak profile; explicitly managed installs use the bound `engine-profile-v1` instead. If the emulator tries to write state beside the CUE and fails, stop and record the actual path before changing permissions or the package contract.
 
 An installed/setup-required result means the files are installed and target/manual checks remain. Only your successful test should authorize Momentum to record user-confirmed readiness.
 

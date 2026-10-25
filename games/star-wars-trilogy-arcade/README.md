@@ -14,7 +14,16 @@ Momentum prepares required software after approval, copies your game files, and 
 
 ## Controls
 
-Wait for the Darth Vader attract sequence. Press 3 for a credit and 1 to start. Mouse to aim, left-click or A to fire, right-click or S for the event button, D for trigger 2. Escape exits. Free play is not preconfigured; see `PLAYER-GUIDE.md`.
+Wait for the Darth Vader attract sequence, then press 1 to start. Mouse to aim,
+left-click or A to fire, right-click or S for the event button, D for trigger 2.
+Escape exits. Installer 0.2.2 seeds missing NVRAM with the owner's working
+Free Play state. Existing NVRAM is never replaced; older credit-mode state
+still uses 3 for a credit. See [PLAYER-GUIDE.md](PLAYER-GUIDE.md).
+
+Includes a description, portrait Grid art, gameplay screenshot and video.
+Requires the current privately supplied launcher with package presentation
+retention and exact 0.2.2 evidence; older public launchers are unsupported.
+The seed includes owner-approved scores/bookkeeping, not a factory reset.
 
 ## Compatibility
 
