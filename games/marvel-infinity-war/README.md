@@ -13,8 +13,9 @@ download URL and hash are unchanged from 0.2.0; the 0.3.0 run itself used the
 offline PAK.
 
 Use the current privately supplied launcher with build-specific OpenBOR support
-(commits `6a59195` and `9613e2a`). Older launchers cannot install 0.3.0; 0.2.0
-remains available as its own release. The game PAK is not included in this
+(commits `6a59195` and `9613e2a`). Older launchers cannot install 0.3.0. The
+obsolete 0.2.0 download was removed; its source tag remains for traceability.
+The game PAK is not included in this
 release. No complete campaign or individual target checklist is claimed.
 
 The text below and accompanying notices are the original immutable package

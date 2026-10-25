@@ -51,7 +51,7 @@ settings and saves, backs up the old launcher script and leaves the legacy
 then upgraded a real 0.2.0 installation, reported it looks great and approved
 publication on October 13, 2026. The runtime is bundled; the game PAK is not.
 Individual target acceptance checks and full campaign coverage are not claimed.
-The 0.2.0 release remains available unchanged for older launchers.
+The 0.2.0 source tag remains for traceability; its obsolete download was removed.
 
 Ultimate Double Dragon 3 0.1.0 was approved for publication on October 13, 2026.
 It shares Marvel's exact OpenBOR 6391 runtime and build-specific folder; you
@@ -150,11 +150,13 @@ publisher download. No Enyo mod files or commercial base-game files are bundled.
 
 ## Historical installers
 
-Only the ten entries above are current supported downloads. Earlier incorrect
-or withdrawn installers are not restored to the store. Historical release
-records and source tags remain references, not accepted replacements.
-Withdrawal does not uninstall existing games. Preserve working setups, original
-media, settings, saves and journals.
+Only the ten entries above are current supported downloads. Obsolete pre-release
+assets and release pages, including old launcher downloads, were removed on
+October 25, 2026. Git commits and tags remain intact for traceability, not as
+supported installer replacements. Historical checksum files remain available
+in Git history rather than the current repository root.
+Removing downloads does not uninstall existing games. Preserve working setups,
+original media, settings, saves and journals.
 
 ## Release integrity and retention
 
@@ -162,6 +164,10 @@ media, settings, saves and journals.
 package digests and platforms. Checksum sidecars accompany each installer.
 Verify anonymous uploaded downloads before promoting the catalog; never replace
 published bytes under an existing version.
+
+During pre-release development, retain only catalog-current package downloads
+and their checksum sidecars. When retiring a version, remove its release page
+and assets without deleting its Git tag or rewriting source history.
 
 The launcher's read-only `tools/check-release.py` verifies source/ZIP agreement,
 immutable versions, package tests, exact software/helper evidence and catalog
