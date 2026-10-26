@@ -2,6 +2,24 @@
   "catalog_version": 1,
   "games": [
     {
+      "id": "duke-nukem-3d",
+      "version": "0.2.0",
+      "name": "Duke Nukem 3D",
+      "description": "Alien invaders, outrageous weapons, and attitude to spare. Blast through Los Angeles streets, space stations, and secret-filled strongholds as Earth’s wisecracking one-man army. Shrink enemies, set pipe-bomb traps, and strap on a jetpack to reach hidden routes. Interactive scenery, inventive weapons, and explosive firefights make exploration as entertaining as clearing the next room.",
+      "pillar": "boomer-shooters",
+      "runtime": "EDuke32",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/duke-nukem-3d.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/duke-nukem-3d-0.2.0/duke-nukem-3d-0.2.0.zip",
+      "sha256": "dea60f2baedf3d0c59c3c1570c7363c0bc23389ff050e117e81668a208c7adfd",
+      "digest": "sha256:7624acef827b8cd2944d8df57b35ade79dd13437dfb539df269a24c8f677824c",
+      "size": 292286729,
+      "platform": {
+        "os": "ubuntu",
+        "releases": ["24.04"],
+        "architectures": ["x86_64"]
+      }
+    },
+    {
       "id": "time-crisis-ii",
       "version": "0.1.1",
       "name": "Time Crisis II",

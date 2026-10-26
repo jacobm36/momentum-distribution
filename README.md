@@ -19,9 +19,9 @@ time:
 - **Boomer Shooters:** classic engines and modern mods, curated into a polished
   library. Classic engines. Modern mods. Less setup.
 
-Public package downloads for ten owner-approved games.
-The Momentum frontend remains private; this repository publishes game installers,
-not a new launcher release.
+Public package downloads for eleven owner-approved games.
+The [Momentum launcher is public](https://github.com/jacobm36/momentum-core-launcher/releases).
+This repository publishes game installers, not launcher downloads.
 
 ## Supported catalog
 
@@ -37,6 +37,7 @@ not a new launcher release.
 | Boomer Shooters | [Brutal Doom](games/brutal-doom/README.md) | UZDoom | 0.3.0 | `DOOM2.WAD` |
 | Boomer Shooters | [Brutal Doom 64](games/brutal-doom-64/README.md) | UZDoom | 0.3.0 | `DOOM2.WAD` |
 | Boomer Shooters | [Episode Enyo](games/quake-slave-zero-x/README.md) | vkQuake | 0.3.0 | Quake `id1/pak0.pak` and `id1/pak1.pak` |
+| Boomer Shooters | [Duke Nukem 3D](games/duke-nukem-3d/README.md) | Native EDuke32 | 0.2.0 | Registered original/Atomic `DUKE3D.GRP` |
 
 Catalog entries carry optional `pillar` and `runtime` fields that the current
 launcher uses to group the store and show runtime badges. Older launchers
@@ -91,6 +92,11 @@ revision. Its four mod files, artwork and load order are unchanged from 0.1.x.
 Readiness remains setup-required until the player confirms the game.
 
 ## Required launcher
+
+Duke Nukem 3D 0.2.0 requires launcher preview.2 or newer for bundled EDuke32
+preparation and screenshot retention. Its owner-accepted package reuses the
+exact working engine/source pair and three enhancement packs, with the owner's
+revised description and existing-user artwork/description preservation.
 
 The four presentation/preset revisions above require the current privately
 supplied launcher with generic package cover/Grid/video retention and their
