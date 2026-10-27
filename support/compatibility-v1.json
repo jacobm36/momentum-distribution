@@ -1,0 +1,688 @@
+{
+  "format_version": 1,
+  "generated_at": "2026-10-27T02:40:00Z",
+  "records": [
+    {
+      "id": "star-wars-trilogy-arcade",
+      "version": "0.2.2",
+      "digest": "sha256:e9afb71a269848ef0b0e100f00b9f4f42060850d1e996e0b77cbcb05abdec4bf",
+      "runtime": "supermodel",
+      "software": {
+        "provider": "native",
+        "scope": "user",
+        "version": "v0.3a-20260928-git-8b4de23",
+        "sha256": "4497b72c682d22f29b45d33607e07651240c2222a1e95e4b3f77846c9a7c1311",
+        "games_xml_sha256": "48c56b24ea720fb66188c0b2d94579a110be24971ac215ea808c563c665cf655"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "2026-10-25: package tests and exact synthetic-media real-runner intake, approval/reconnect, install, receipt/catalog commit, presentation retention and repeat cancellation passed in isolated homes with the copied pinned runtime. Absent-only config and NVRAM seeding preserve edits. Owner confirmed Free Play on the working seed and explicitly approved including its scores/bookkeeping. Existing player NVRAM is never replaced. Grid, screenshot and video reuse existing library media; screenshot visually inspected. No final-ZIP gameplay or new-machine certification."
+    },
+    {
+      "id": "l-a-machineguns",
+      "version": "0.2.3",
+      "digest": "sha256:43cfd52847a63dce24a1382c530e518df304b2a6e532f641a9813d92e76c7499",
+      "runtime": "supermodel",
+      "software": {
+        "provider": "native",
+        "scope": "user",
+        "version": "v0.3a-20260928-git-8b4de23",
+        "sha256": "4497b72c682d22f29b45d33607e07651240c2222a1e95e4b3f77846c9a7c1311",
+        "games_xml_sha256": "48c56b24ea720fb66188c0b2d94579a110be24971ac215ea808c563c665cf655"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "2026-10-25: package tests and exact synthetic-media real-runner intake, approval/reconnect, install, receipt/catalog commit, presentation retention and repeat cancellation passed in isolated homes with the copied pinned runtime. Absent-only config and NVRAM seeding preserve edits. Owner approved including the working NVRAM and its scores/bookkeeping; this replaces only the bundled default, not existing player calibration/NVRAM. Later owner testing found Free Play was not enabled as expected: Free Play is unconfirmed and is not a promised preset. Grid, screenshot and video reuse existing library media; screenshot visually inspected. No final-ZIP gameplay or new-machine certification."
+    },
+    {
+      "id": "virtua-cop-2",
+      "version": "0.1.3",
+      "digest": "sha256:fd90be3e89905fe726854031131cdae969aec98a99c6dde29871c65b511a9b9a",
+      "runtime": "flycast",
+      "software": {
+        "provider": "flatpak",
+        "scope": "user",
+        "app_id": "org.flycast.Flycast",
+        "version": "v2.7",
+        "commit": "86ec4d845a66ff07cdba8e003d8549e93cd7a814b519766e1f744e530c5d3e5b"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "2026-10-25: 13 package tests and exact synthetic GDI real-runner install, approval/reconnect, receipt/catalog, presentation retention, repeat cancellation, missing-software preparation and wrong-build blocking passed with a Flatpak test double. Launch construction seeds exact owner HDR-0061 mouse mapping only when absent; right button binds reload and personal edits survive. Grid, screenshot and video reuse existing library media; screenshot visually inspected. No emulator/game launched; right-click gameplay and final-ZIP target acceptance remain separate."
+    },
+    {
+      "id": "l-a-machineguns",
+      "version": "0.2.2",
+      "digest": "sha256:a6d1d7ca1110176d5d966f58938c9e356e4025c7fc3633f35e9b0ea44dadefad",
+      "runtime": "supermodel",
+      "software": {
+        "provider": "native",
+        "scope": "user",
+        "version": "v0.3a-20260928-git-8b4de23",
+        "sha256": "4497b72c682d22f29b45d33607e07651240c2222a1e95e4b3f77846c9a7c1311",
+        "games_xml_sha256": "48c56b24ea720fb66188c0b2d94579a110be24971ac215ea808c563c665cf655"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "2026-10-09: 0.2.2 build/intake and synthetic lifecycle tests passed. Bundled clean Japan lamachin calibration seed SHA256 f411adfb79f822eac65dfafa9f1ae3c15356a8343ec78c5de6a0194eda5e33b5 was created in fresh isolated state, calibrated to 0-255 on both axes, and owner-confirmed after restart for playfield aiming and both triggers. Owner confirmed transferring these exact seed bytes fixed aiming on the debug laptop. Native build and input/display recipe unchanged. Existing NVRAM is preserved. Manual evidence covers the seed and recipe, not gameplay of the final 0.2.2 ZIP or universal fresh-machine certification."
+    },
+    {
+      "id": "star-wars-trilogy-arcade",
+      "version": "0.2.1",
+      "digest": "sha256:3ce37cec1672d8dd96e842c418e7c890bebc89413b07c6d2aeb78eea7b67ac26",
+      "runtime": "supermodel",
+      "software": {
+        "provider": "native",
+        "scope": "user",
+        "version": "v0.3a-20260928-git-8b4de23",
+        "sha256": "4497b72c682d22f29b45d33607e07651240c2222a1e95e4b3f77846c9a7c1311",
+        "games_xml_sha256": "48c56b24ea720fb66188c0b2d94579a110be24971ac215ea808c563c665cf655"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "2026-10-09: exact local ZIP tested through real launcher intake, approval, package apply, receipt/catalog commit and repeat install in disposable homes with synthetic ROM media and copied verified native runtime. Host prerequisite checks run; no game launched. Package tests assert canonical fullscreen/input flags and seed-only configuration. Free play is not preconfigured. Not fresh-machine, real-ROM, graphics, input or gameplay certification."
+    },
+    {
+      "id": "l-a-machineguns",
+      "version": "0.2.1",
+      "digest": "sha256:c4325845c4075fc6a2fb279b737289f4588179f7cf44076d55766bbbaf585012",
+      "runtime": "supermodel",
+      "software": {
+        "provider": "native",
+        "scope": "user",
+        "version": "v0.3a-20260928-git-8b4de23",
+        "sha256": "4497b72c682d22f29b45d33607e07651240c2222a1e95e4b3f77846c9a7c1311",
+        "games_xml_sha256": "48c56b24ea720fb66188c0b2d94579a110be24971ac215ea808c563c665cf655"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "2026-10-09: exact local ZIP tested through real launcher intake, approval, package apply, receipt/catalog commit and repeat install in disposable homes with synthetic ROM media and copied verified native runtime. Host prerequisite checks run; no game launched. Canonical ordinary fullscreen at 1920x1080 with mouse axes/two triggers asserted by package tests. Fresh calibration, actual input/graphics and gameplay remain unverified. No shared NVRAM imported."
+    },
+    {
+      "id": "virtua-cop-2",
+      "version": "0.1.2",
+      "digest": "sha256:c2c3709af88bff503142e96a55e49eac50c9d9fca51a3f7e8b6be4936c7bb7a9",
+      "runtime": "flycast",
+      "software": {
+        "provider": "flatpak",
+        "scope": "user",
+        "app_id": "org.flycast.Flycast",
+        "version": "v2.7",
+        "commit": "86ec4d845a66ff07cdba8e003d8549e93cd7a814b519766e1f744e530c5d3e5b"
+      },
+      "installer_validated": true,
+      "gameplay": "owner-confirmed",
+      "limits": "2026-10-15: exact local 0.1.2 ZIP passed launcher intake, review/approval, install, receipt/catalog update, repeat-install cancellation, missing-software preparation and mismatched-build blocking in disposable homes with synthetic GDI/tracks and a Flatpak test double. Package tests separately verify copy-only migration from 0.1.0/0.1.1 while retaining the old folder. The owner subsequently reported that the game works great and confirmed gameplay acceptance on their setup; specific checklist items and other hardware/platforms were not reported. Installer tests themselves used no real emulator or game launch."
+    },
+    {
+      "id": "virtua-cop-2",
+      "version": "0.1.0",
+      "digest": "sha256:e5f63fd17d5680609073880f2e14a0fa9fce1aba3c16d3ef5f6636de43f0113a",
+      "runtime": "flycast",
+      "software": {
+        "provider": "flatpak",
+        "scope": "user",
+        "app_id": "org.flycast.Flycast",
+        "version": "v2.7",
+        "commit": "86ec4d845a66ff07cdba8e003d8549e93cd7a814b519766e1f744e530c5d3e5b"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "Standalone Flycast adaptation authorized by the owner. Exact build, GDI containment, isolated paths, source preservation and installer lifecycle verified separately. Enter/Start and mouse defaults and CLI options checked against v2.7 source. This is not target gameplay evidence; confirm all controls, reload, display, sound and state persistence."
+    },
+    {
+      "id": "star-wars-trilogy-arcade",
+      "version": "0.1.0",
+      "digest": "sha256:a0e57a8ceac9f505bd183deddff574533d9f8ea82dc632e0ae0511e50662ec48",
+      "runtime": "supermodel",
+      "software": {
+        "provider": "native",
+        "scope": "user",
+        "version": "v0.3a-20260928-git-8b4de23",
+        "sha256": "4497b72c682d22f29b45d33607e07651240c2222a1e95e4b3f77846c9a7c1311",
+        "games_xml_sha256": "48c56b24ea720fb66188c0b2d94579a110be24971ac215ea808c563c665cf655"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "Guide-defined 992x768 fullscreen and force-feedback startup flag. Exact pinned runtime assets and host CLI checked separately from synthetic installer lifecycle and isolated-state checks. The guide reports historical gameplay; no new isolated-package gameplay or bonus-stage certification. Confirm controls, display, sound and saved progress."
+    },
+    {
+      "id": "l-a-machineguns",
+      "version": "0.1.0",
+      "digest": "sha256:9ee6ef75ce86dba98ec02f2a78e4b7278d3cbcaeb7c1fdb34d9e42b87ce74e95",
+      "runtime": "supermodel",
+      "software": {
+        "provider": "native",
+        "scope": "user",
+        "version": "v0.3a-20260928-git-8b4de23",
+        "sha256": "4497b72c682d22f29b45d33607e07651240c2222a1e95e4b3f77846c9a7c1311",
+        "games_xml_sha256": "48c56b24ea720fb66188c0b2d94579a110be24971ac215ea808c563c665cf655"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "Guide-defined borderless 1920x1080 at 0,0 with mouse-only gun axes and two triggers. Exact pinned runtime assets/host CLI and isolated installer lifecycle checked separately. Fresh cabinet calibration and gameplay of this package are not certified. Confirm edge aiming, both triggers, display and state persistence; X11 reference layout only."
+    },
+    {
+      "id": "brutal-doom",
+      "version": "0.3.0",
+      "digest": "sha256:f75343640ff8a23ec1377a854adb7dafc49ff3e6418ec3295dfbeae830d32abe",
+      "runtime": "uzdoom",
+      "software": {
+        "provider": "flatpak",
+        "app_id": "org.zdoom.UZDoom",
+        "version": "5.0.1",
+        "commit": "d7b8ce76e5480a28d1e07400093a20d47f56c201fd974b0a5dbfa3b26bbd587e",
+        "arch": "x86_64",
+        "branch": "stable",
+        "origin": "flathub"
+      },
+      "additional_software": [
+        {
+          "provider": "flatpak",
+          "app_id": "org.zdoom.UZDoom",
+          "version": "5.0.3",
+          "commit": "6c574decab62fc97a68c5c23daacafcab37fa1f1cb9362e85c2f6b285cfd3a19",
+          "arch": "x86_64",
+          "branch": "stable",
+          "origin": "flathub"
+        }
+      ],
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "2026-10-10 private managed-engine candidate. Package self-check/24 lifecycle tests, exact synthetic runner separate engine/game approvals, repeat and descriptor-drift refusal passed. Final helper-bound bytes passed fresh real primary-build isolated acquisition with their own runtime/graphics dependencies, exact game installation and no-change repeat. Canonical bundled content and load order remain unchanged. Retained installed wrapper content-init matched prior 5.0.1 script diagnostics/exit 57. Vanilla Doom II save/reload validates engine state mapping, not Brutal Doom gameplay/saves. Debug-PC display/input/audio/gameplay/save acceptance remains required. Normal engines/profile files and original media were preserved. No public publication."
+    },
+    {
+      "id": "brutal-doom",
+      "version": "0.2.0",
+      "digest": "sha256:d5ed231d379e60cab8c0cf82523496f7f39a1fb2e939d86ab133e57a9d96243a",
+      "runtime": "uzdoom",
+      "software": {
+        "provider": "flatpak",
+        "app_id": "org.zdoom.UZDoom",
+        "version": "5.0.1",
+        "commit": "d7b8ce76e5480a28d1e07400093a20d47f56c201fd974b0a5dbfa3b26bbd587e",
+        "arch": "x86_64",
+        "branch": "stable",
+        "origin": "flathub"
+      },
+      "additional_software": [
+        {
+          "provider": "flatpak",
+          "app_id": "org.zdoom.UZDoom",
+          "version": "5.0.3",
+          "commit": "6c574decab62fc97a68c5c23daacafcab37fa1f1cb9362e85c2f6b285cfd3a19",
+          "arch": "x86_64",
+          "branch": "stable",
+          "origin": "flathub"
+        }
+      ],
+      "installer_validated": true,
+      "gameplay": "user-confirmed-debug-laptop-private",
+      "user_acceptance": {
+        "date": "2026-10-10",
+        "delivery": "Momentum-First-Wave-Three-Candidates-20261010-r4.zip",
+        "report": "All three games install and work perfectly.",
+        "software_commit": "6c574decab62fc97a68c5c23daacafcab37fa1f1cb9362e85c2f6b285cfd3a19",
+        "limits": "Owner-reported result. Component redistribution permission remains unresolved; no public package publication."
+      },
+      "limits": "2026-10-09: exact 0.2.0 installer/repeat and missing-app separate pinned approvals tested with synthetic IWAD and mocked Flatpak. 2026-10-10: exact additional UZDoom 5.0.3 commit acquired into isolated user data; real metadata/runtime checks and -version passed. Actual real-Flatpak exact package install and repeat passed with licensed local IWAD, no software-preparation commands or engine changes. Installed wrapper read-only content access and canonical three-mod order passed using -norun. Both 5.0.3 and 5.0.1 reached D_CheckNetGame and documented 1337 early exit (57 on Unix), with matching voxel script diagnostic signatures. This is installer and non-graphical content-init evidence, not display, input, audio, gameplay or save/relaunch certification. Default missing-app preparation still pins 5.0.1. Private testing only; component redistribution clearance remains a public release gate."
+    },
+    {
+      "id": "brutal-doom",
+      "version": "0.1.0",
+      "digest": "sha256:850bf6ff653852f3584bd7c9b68bbf9929d77df2117a7f81483ceb4c87586b7b",
+      "runtime": "uzdoom",
+      "software": {
+        "provider": "flatpak",
+        "app_id": "org.zdoom.UZDoom",
+        "version": "5.0.1",
+        "commit": "d7b8ce76e5480a28d1e07400093a20d47f56c201fd974b0a5dbfa3b26bbd587e",
+        "arch": "x86_64",
+        "branch": "stable",
+        "origin": "flathub"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "Guide-defined Brutal Doom v21 baseline, explicit --metal soundtrack option, incompatible voxel excluded. Exact package tests and isolated full-payload runner lifecycle; user/default-system reuse and separately approved missing-user preparation checked using mocked Flatpak. Actual installed UZDoom metadata/runtime read-only checks only. No engine invocation, graphical gameplay, real fresh-machine install or save/relaunch certification. Shared settings preserved; readiness remains setup-required."
+    },
+    {
+      "id": "aliens-eradication",
+      "version": "0.1.0",
+      "digest": "sha256:555e4306d3706c566fc0540eb18295ab1b6425ba46a93f6e73923101babca194",
+      "runtime": "uzdoom",
+      "software": {
+        "provider": "flatpak",
+        "app_id": "org.zdoom.UZDoom",
+        "version": "5.0.1",
+        "commit": "d7b8ce76e5480a28d1e07400093a20d47f56c201fd974b0a5dbfa3b26bbd587e",
+        "arch": "x86_64",
+        "branch": "stable",
+        "origin": "flathub"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "Guide-defined Aliens 2.0 TC then campaign WAD order. Required mouse-look/jump/crouch and recommended lighting documented, no shared configuration writes. Exact package tests and isolated full-payload runner lifecycle; user/default-system reuse and separately approved missing-user preparation checked using mocked Flatpak. Actual installed UZDoom metadata/runtime read-only checks only. No engine invocation, graphical gameplay, real fresh-machine install or save/relaunch certification. Readiness remains setup-required."
+    },
+    {
+      "id": "ashes-2063",
+      "version": "0.1.0",
+      "digest": "sha256:82d94b61109cdf034248e5a7e27b54e19f93a64a4520c0138230b9ff599a11f3",
+      "runtime": "uzdoom",
+      "software": {
+        "provider": "flatpak",
+        "app_id": "org.zdoom.UZDoom",
+        "version": "5.0.1",
+        "commit": "d7b8ce76e5480a28d1e07400093a20d47f56c201fd974b0a5dbfa3b26bbd587e",
+        "arch": "x86_64",
+        "branch": "stable",
+        "origin": "flathub"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "Guide-defined Ashes Enriched 2.23 main PK3 with Doom II. Undocumented Freedoom patch and copied engine support files excluded. Exact package tests and isolated full-payload runner lifecycle; user/default-system reuse and separately approved missing-user preparation checked using mocked Flatpak. Actual installed UZDoom metadata/runtime read-only checks only. No engine invocation, graphical gameplay, real fresh-machine install or save/relaunch certification. Shared settings preserved; readiness remains setup-required."
+    },
+    {
+      "id": "brutal-doom-64",
+      "version": "0.1.0",
+      "digest": "sha256:56b890f11e4a040e560db9aa90c927172b24f5a367674e36922c500fb2db1d32",
+      "runtime": "uzdoom",
+      "software": {
+        "provider": "flatpak",
+        "app_id": "org.zdoom.UZDoom",
+        "version": "5.0.1",
+        "commit": "d7b8ce76e5480a28d1e07400093a20d47f56c201fd974b0a5dbfa3b26bbd587e",
+        "arch": "x86_64",
+        "branch": "stable",
+        "origin": "flathub"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "Guide-defined four-file mod order, explicit user/default-system scope, per-launch read-only game access and isolated lifecycle checked. User-only software preparation tested with mocked Flatpak, not a real fresh-machine install. Exact installed system UZDoom metadata/runtime checked read-only. No engine invocation, graphics/audio, input, real IWAD gameplay or save/relaunch confirmation. Readiness remains setup-required."
+    },
+    {
+      "id": "brutal-doom-64",
+      "version": "0.3.0",
+      "digest": "sha256:c7a5a55a7fc89f8209810b1a257c3ed409e9d4b36785c2721279263903034500",
+      "runtime": "uzdoom",
+      "software": {
+        "provider": "flatpak",
+        "app_id": "org.zdoom.UZDoom",
+        "version": "5.0.1",
+        "commit": "d7b8ce76e5480a28d1e07400093a20d47f56c201fd974b0a5dbfa3b26bbd587e",
+        "arch": "x86_64",
+        "branch": "stable",
+        "origin": "flathub"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "2026-10-10 private managed-engine candidate on the Brutal Doom 0.3.0 UZDoom standard. Package self-check/24 lifecycle tests, exact synthetic runner reuse/missing-preparation/lifecycle and managed separate engine/game approvals, repeat and descriptor-drift refusal passed. Bundled four-file mod payload, artwork and load order unchanged from 0.1.x. New installs use ~/Games/brutal-doom-64; upgrades keep the recorded folder. Managed binding reuses the helper/build validated for Brutal Doom 0.3.0. Gameplay/display/input/audio/save acceptance remains required. No public publication."
+    },
+    {
+      "id": "duke-nukem-3d",
+      "version": "0.2.0",
+      "digest": "sha256:7624acef827b8cd2944d8df57b35ade79dd13437dfb539df269a24c8f677824c",
+      "runtime": "eduke32",
+      "software": {
+        "provider": "native",
+        "scope": "user",
+        "sha256": "bc3a5465c7e236f5f5662ccdc663c7f36ba375b70b4ccc5c2f3ca44f592e8270"
+      },
+      "installer_validated": true,
+      "gameplay": "owner-reported-candidate-acceptance",
+      "limits": "2026-10-25: 20 package lifecycle tests, full archive self-check and launcher intake passed. Four isolated full-payload runner checks cover fresh bundled preparation with separate approvals, reuse/repair/uninstall/reinstall and edited presentation preservation, cancel before publication, and unknown-engine gating. Exact owner EDuke32 and matching pinned source are bundled without compilation or download. Owner Grid/icon/gameplay screenshot reused; fullscreen requested without forcing resolution. Owner reported the candidate looks amazing and approved publication; final package changes only description, changelog and launcher-version documentation from the accepted candidate. Original/Atomic GRP only; World Tour, full Episode 4 voxel coverage, campaign and individual input/audio/save-relaunch checks are not certified. Automated checks use synthetic GRP and do not invoke the engine."
+    },
+    {
+      "id": "duke-nukem-3d",
+      "version": "0.1.1",
+      "digest": "sha256:fada5b3a6b6e04bbfc79239a5af216c9047a78cc3a2b1a62edb675bf477bc76b",
+      "runtime": "eduke32",
+      "software": {
+        "provider": "native",
+        "scope": "user",
+        "sha256": "bc3a5465c7e236f5f5662ccdc663c7f36ba375b70b4ccc5c2f3ca44f592e8270"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "Complete supplied upscale, voxel and SC-55 archives; guide-defined arguments, game-local state, source preservation and exact isolated lifecycle checks. Guide engine bytes are reused read-only. Source build preparation is separately approved; a newly compiled unknown hash remains gated before game writes. ELF/library prerequisites do not certify engine invocation, OpenGL, input, sound, real GRP gameplay or save/relaunch. Confirm these before relying on the installation."
+    },
+    {
+      "id": "time-crisis-ii",
+      "version": "0.1.1",
+      "digest": "sha256:836e5a179c9a5547f9d3399578f1d30bb8b8208346b81ade833b73e59f24f6a1",
+      "zip_sha256": "ee8b984ceca4cdf62f13df06f396ef4b9412cc48b7f0d7abf18e0e7ec2d6c47e",
+      "runtime": "mame",
+      "managed_helper_sha256": "11e1fad71cef012374b132720eca315a2fa7c6202cf5044aac6811294442eeef",
+      "software": {
+        "provider": "flatpak",
+        "scope": "user",
+        "app_id": "org.mamedev.MAME",
+        "version": "0.289",
+        "commit": "41ebdb5c266627f4d1f02ba11f8109e793d2381081b68afc48714dd48a703788",
+        "runtime_ref": "org.kde.Platform/x86_64/6.11",
+        "runtime_commit": "fe192771c0992ad873e6a9ccc6e4f087c76314ce5ced165650cc7ea045a6bbaa"
+      },
+      "installer_validated": true,
+      "gameplay": "owner-accepted-matching-0.1.0-candidate",
+      "limits": "Final 0.1.1 ZIP passed package self-check, 15 package unit tests and launcher intake. On 2026-10-22 the real runner on installed system MAME passed install, no-change repeat, read-only verify, missing-launcher and missing-ROM repairs, removal preserving unknown content/state, retained-folder reinstall and clean-folder reinstall. Original manual launcher/settings/NVRAM/ROM/library were unchanged. Separate synthetic missing/incompatible-engine runs passed software/game approvals and the lifecycle; no real network acquisition is claimed. Runtime, launch/lifecycle code, controls and seed bytes match 0.1.0; public metadata/docs and version-sensitive fixtures changed. Owner reports testing and accepting the package-installed 0.1.0 candidate and explicitly approves public inclusion of the exact calibration/scores/bookkeeping seed. No individual gameplay checklist, separate 0.1.1 play session, full-speed performance or other-machine acceptance is claimed."
+    },
+    {
+      "id": "time-crisis-ii",
+      "version": "0.1.0",
+      "digest": "sha256:60537a844d0ba6bc5c90f3098b0efe33faa866b6c175b2c785eb6b94bce58245",
+      "zip_sha256": "be1f4918799268a1fd501c7269ce4b4bddbd08c2243fb38c13d199ca448865a2",
+      "runtime": "mame",
+      "software": {
+        "provider": "flatpak",
+        "scope": "user",
+        "app_id": "org.mamedev.MAME",
+        "version": "0.289",
+        "commit": "41ebdb5c266627f4d1f02ba11f8109e793d2381081b68afc48714dd48a703788"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "Exact ZIP passed package self-check, 15 package unit tests and actual launcher intake. Real runner on installed system MAME 0.289 with owner-supplied timecrs2.zip passed install, no-change repeat, read-only verify, missing-launcher repair, missing-ROM repair, removal retaining unknown content/state, retained-folder reinstall and clean-folder reinstall. Original manual launcher/settings/NVRAM/ROM/library were unchanged. Missing and incompatible engines passed separate software/game approvals and the same lifecycle with a synthetic Flatpak; this is NOT successful real network acquisition evidence. App and KDE runtime commits are pinned and checked, including at launch. Exact private CFG/free-play seed is owner-approved, including calibration/bookkeeping; public seed cleanup is deferred. Manual gameplay was accepted, but this isolated candidate still requires graphical owner acceptance. No performance or universal input claims."
+    },
+    {
+      "id": "marvel-infinity-war",
+      "version": "0.2.0",
+      "digest": "sha256:22fed88ff0aaecb7bc9016cde8ec67dff4fdb49f48574ce88c80dfde03b6859c",
+      "runtime": "openbor",
+      "installer_validated": true,
+      "software": {
+        "provider": "appimage",
+        "scope": "user",
+        "version": "6391",
+        "sha256": "35895117c2eae94867ee0b094083ae66cd3853372d7447d60cfe92fa929d73eb"
+      },
+      "limits": "Exact native runtime and actual runner lifecycle validated with the pinned author PAK. Owner subsequently reports flawless debug-PC setup and supplies gameplay screenshot for r1; individual controller, persistence and campaign acceptance checks were not reported.",
+      "validation": {
+        "package_tests": 43,
+        "adapter_tests": 11,
+        "actual_author_download": true,
+        "separate_runtime_and_game_approvals": true,
+        "exact_PAK_verified": true,
+        "repeat_without_download": true,
+        "verify": true,
+        "repair_missing_PAK": true,
+        "game_only_removal_preserves_state_and_runtime": true,
+        "reinstall_preserves_path_and_identity": true,
+        "served_artwork": true,
+        "gameplay_launched": false
+      },
+      "public_release": false,
+      "owner_acceptance": {
+        "reported": "2026-10-10",
+        "candidate": "Momentum-OpenBOR-Debug-Candidate-20261010-r1.zip",
+        "candidate_sha256": "d498e6a8329a670762f13db5c9335615bce0bfa867b360e1e1e7f270e5f51238",
+        "result": "Owner reports debug-PC setup worked flawlessly right out of the gate and supplied a gameplay screenshot. No individual acceptance checklist was reported."
+      }
+    },
+    {
+      "id": "marvel-infinity-war",
+      "version": "0.3.0",
+      "digest": "sha256:98a1104490cfef6c27ec0c1a19289100d344e190f0b0e73599624035f881329d",
+      "runtime": "openbor",
+      "installer_validated": true,
+      "software": {
+        "provider": "appimage",
+        "scope": "user",
+        "version": "6391",
+        "sha256": "35895117c2eae94867ee0b094083ae66cd3853372d7447d60cfe92fa929d73eb"
+      },
+      "limits": "Same pinned OpenBOR 6391 bytes as 0.2.0, prepared in the build-specific folder openbor/builds/6391-ef96ad2e3a64. Real-runner lifecycle validated offline with the exact owner PAK, including an isolated 0.2.0-to-0.3.0 upgrade. Owner reports the real 0.2.0-to-0.3.0 upgrade on the development ThinkPad worked and gameplay looks right; individual controller, persistence and campaign checks were not separately reported.",
+      "validation": {
+        "package_tests": 49,
+        "openbor_unit_tests": 15,
+        "actual_author_download": false,
+        "exact_PAK_verified": true,
+        "separate_runtime_and_game_approvals": true,
+        "repeat_without_download": true,
+        "verify": true,
+        "repair_missing_PAK": true,
+        "game_only_removal_preserves_state_and_runtime": true,
+        "reinstall_preserves_path_and_identity": true,
+        "served_artwork": true,
+        "upgrade_from_0_2_0_preserves_state_identity_and_legacy_engine": true,
+        "gameplay_launched": false
+      },
+      "public_release": false,
+      "owner_acceptance": {
+        "reported": "2026-10-13",
+        "candidate": "marvel-infinity-war-0.3.0.zip",
+        "candidate_sha256": "db6883ff019833a62f7a549e5794fc01df7f98d77dd526d1ad26a041a8cf8a2f",
+        "result": "Owner upgraded the real 0.2.0 install to 0.3.0 (receipt now 0.3.0 on openbor/builds/6391-ef96ad2e3a64, legacy openbor/6391 retained) and reports it looks great. No individual acceptance checklist was reported."
+      }
+    },
+    {
+      "id": "ultimate-double-dragon-3",
+      "version": "0.1.0",
+      "digest": "sha256:d728447c7399b784544c7698ee386ce6490a23d7183a95975e9a07d008cb9823",
+      "runtime": "openbor",
+      "installer_validated": true,
+      "software": {
+        "provider": "appimage",
+        "scope": "user",
+        "version": "6391",
+        "sha256": "35895117c2eae94867ee0b094083ae66cd3853372d7447d60cfe92fa929d73eb"
+      },
+      "limits": "Same pinned OpenBOR 6391 runtime and build-specific folder as Marvel 0.3.0. User-supplied PAK only (no download). Real-runner lifecycle validated with the exact owner UDD_3.0.pak from a read-only source. Owner previously confirmed UDD launches and plays on a manual 6391 setup with fullscreen, shader and controller persistence; packaged gameplay, stage transitions and the full campaign are not yet confirmed.",
+      "validation": {
+        "package_tests": 17,
+        "actual_author_download": false,
+        "exact_PAK_verified": true,
+        "separate_runtime_and_game_approvals": true,
+        "repeat_install": true,
+        "verify": true,
+        "repair_missing_PAK": true,
+        "game_only_removal_preserves_state_and_runtime": true,
+        "reinstall_preserves_path_and_identity": true,
+        "served_artwork": true,
+        "gameplay_launched": false
+      },
+      "public_release": false,
+      "owner_acceptance": {
+        "reported": "2026-10-13",
+        "candidate": "ultimate-double-dragon-3-0.1.0.zip",
+        "candidate_sha256": "ab887f099cb5233c9f70893d4f3f3e355e24deeded88144090cd7a898880a07e",
+        "result": "Owner reviewed the 0.1.0 package and approved publication. No individual acceptance checklist was reported; stage transitions and the full campaign remain unconfirmed."
+      }
+    },
+    {
+      "id": "quake-brutalist-jam-3",
+      "version": "0.1.0",
+      "digest": "sha256:5f98b31c48bd929fb2eb21272015459ce535755411805d40927574430c28b433",
+      "runtime": "ironwail",
+      "software": {
+        "provider": "native",
+        "scope": "user",
+        "version": "0.8.2",
+        "sha256": "484913a479bc1ddb64b405ff55e5c31caead0af1f158f4f911aa57d2368971cf",
+        "companion_sha256": "be6a546c1b267837d5b6558e9349b1df302a825587b994309b1c955a561292a1",
+        "game_local_state": true
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "Exact official Ironwail 0.8.2 engine/companion and complete QBJ3 1.3 source inventory bound. Actual approved official engine and 2.7 GB pinned mod downloads/extraction/publication passed, followed by separate game approval. Full real mod install/verify/repeat/repair/remove/retained-save reinstall passed in isolated homes with synthetic Quake base PAKs. Reinstall JSON measured 1097699 bytes, below the bounded 4 MiB runner result limit. Unit transport/failure mocks are separate from actual network evidence. Host readelf/ldconfig inspection only; no engine invocation, new graphical gameplay or fresh-machine certification. Confirm graphics, sound, input and save/relaunch; readiness remains setup-required."
+    },
+    {
+      "id": "quake-slave-zero-x",
+      "version": "0.3.0",
+      "digest": "sha256:17788bc4fee296ce399bf148b747eea6ee1cb89cb817ca8919ed9e4465defb4f",
+      "runtime": "vkquake",
+      "software": {
+        "provider": "appimage",
+        "scope": "user",
+        "version": "1.36.0",
+        "sha256": "f1824b12744b6b343c6155cf5f775df225b9e6c9ee606c95c9363f63f124992a"
+      },
+      "installer_validated": true,
+      "gameplay": "target-confirmation-required-for-new-installer",
+      "limits": "2026-10-10: exact source-only ZIP passed 21 lifecycle tests. Real anonymous publisher download acquired archive 45ddd187 and PAK 93b1fcc3 with exact size/hash/layout checks through the real launcher runner, separate source/game approvals, apply, receipt/catalog commit and repeat install. Synthetic Quake base PAKs and verified existing vkQuake were used; no game was launched. The approved source cache was retained and reused without redownload or engine modification. Original source stayed unchanged. Fullscreen launch settings and mod bytes match privately accepted 0.2.2, but this revised installer has not yet been tested on the debug laptop."
+    },
+    {
+      "id": "quake-slave-zero-x",
+      "version": "0.2.2",
+      "digest": "sha256:233fc78d92556c3798a674a1ea1090ef766e98db80caa50336891e76ffb562f4",
+      "runtime": "vkquake",
+      "software": {
+        "provider": "appimage",
+        "scope": "user",
+        "version": "1.36.0",
+        "sha256": "f1824b12744b6b343c6155cf5f775df225b9e6c9ee606c95c9363f63f124992a"
+      },
+      "installer_validated": true,
+      "gameplay": "user-confirmed-debug-laptop-private",
+      "user_acceptance": {
+        "date": "2026-10-10",
+        "delivery": "Momentum-First-Wave-Three-Candidates-20261010-r4.zip",
+        "report": "All three games install and work perfectly.",
+        "limits": "Owner-reported result. Bundled mod/art redistribution permission remains unresolved; no public package publication."
+      },
+      "limits": "2026-10-10: exact ZIP through real launcher intake, separate game approval, apply, receipt/catalog commit and repeat install in disposable homes with synthetic base PAKs and copied verified AppImage. Package lifecycle tests verify -fullscreen startup, explicit -window forwarding, cwd/exit and unchanged root configuration. Pinned upstream 1.36.0 video initialization recognizes -fullscreen and gives -window precedence. No configuration or resolution is imposed. Graphical fullscreen, FUSE mounting, GPU presentation, controls and gameplay remain target acceptance checks; no old gameplay evidence is inherited."
+    },
+    {
+      "id": "quake-slave-zero-x",
+      "version": "0.2.1",
+      "digest": "sha256:4692c5f01afd03f0ed13c7dc3e72e9c1359e8f4f50e4a1784fcc788698b57d41",
+      "runtime": "vkquake",
+      "software": {
+        "provider": "appimage",
+        "scope": "user",
+        "version": "1.36.0",
+        "sha256": "f1824b12744b6b343c6155cf5f775df225b9e6c9ee606c95c9363f63f124992a"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "2026-10-09: complete local ZIP/payload through real launcher intake, approval, package apply, receipt/catalog commit and repeat install in disposable homes with synthetic base PAKs and copied verified AppImage. Exact 0.2.1 also passed actual missing-AppImage download/preparation with separate software/game approvals, plus repair, retained-save removal/reinstall and recovery in isolated homes. Read-only host loader checks; no engine invocation or game launch. Root vkQuake.cfg is not imported and display is not forced. Not fresh-machine, FUSE mounting, GPU, input or gameplay certification."
+    },
+    {
+      "id": "quake-slave-zero-x",
+      "version": "0.1.0",
+      "digest": "sha256:000da2a285b0f818a09fba426ee78c45d82d90eae4e7a200b2e3063d4080c21b",
+      "runtime": "vkquake",
+      "software": {
+        "provider": "appimage",
+        "scope": "user",
+        "version": "1.36.0",
+        "sha256": "f1824b12744b6b343c6155cf5f775df225b9e6c9ee606c95c9363f63f124992a"
+      },
+      "installer_validated": true,
+      "gameplay": "not-tested-for-this-package",
+      "limits": "Complete Episode Enyo mod bundled; guide-defined enyo layout, base PAK structure, source/state preservation and exact installer lifecycle checked in isolated storage. Exact official AppImage bytes, architecture, FUSE2 and Vulkan loaders checked without executing it. This does not test FUSE mounting, GPU presentation, title/start, controls, sound or real save/relaunch. Confirm these before relying on the installation."
+    },
+    {
+      "id": "the-house-of-the-dead-2",
+      "version": "0.1.1",
+      "digest": "sha256:1b6d80a851b550d03861863864f0aa87fe0886a126f470942441aa17415fe309",
+      "runtime": "flycast",
+      "installer_validated": true,
+      "software": {
+        "provider": "flatpak",
+        "scope": "user",
+        "app_id": "org.flycast.Flycast",
+        "version": "v2.7",
+        "commit": "86ec4d845a66ff07cdba8e003d8549e93cd7a814b519766e1f744e530c5d3e5b"
+      },
+      "additional_software": []
+    },
+    {
+      "id": "the-house-of-the-dead-2",
+      "version": "0.3.1",
+      "digest": "sha256:cb33b6695d791d03fa19b6bde97c55dc27b2d82716d9640f2330fe98789dcf9c",
+      "runtime": "flycast",
+      "installer_validated": true,
+      "software": {
+        "provider": "flatpak",
+        "scope": "user",
+        "app_id": "org.flycast.Flycast",
+        "version": "v2.7",
+        "commit": "86ec4d845a66ff07cdba8e003d8549e93cd7a814b519766e1f744e530c5d3e5b"
+      },
+      "additional_software": [
+        {
+          "provider": "flatpak",
+          "scope": "user",
+          "app_id": "org.flycast.Flycast",
+          "version": "v2.7",
+          "commit": "0f8d2124d1c17696baec607c417d817f0331878c0e88f207c118b82c4dc7a9a1"
+        }
+      ]
+    },
+    {
+      "id": "the-house-of-the-dead-2",
+      "version": "0.3.0",
+      "digest": "sha256:5dba413b80ed095c18933b55caf06b86d3c90bac15b7f95a4fa18b999e88d659",
+      "runtime": "flycast",
+      "installer_validated": true,
+      "software": {
+        "provider": "flatpak",
+        "scope": "user",
+        "app_id": "org.flycast.Flycast",
+        "version": "v2.7",
+        "commit": "86ec4d845a66ff07cdba8e003d8549e93cd7a814b519766e1f744e530c5d3e5b"
+      },
+      "additional_software": [
+        {
+          "provider": "flatpak",
+          "scope": "user",
+          "app_id": "org.flycast.Flycast",
+          "version": "v2.7",
+          "commit": "0f8d2124d1c17696baec607c417d817f0331878c0e88f207c118b82c4dc7a9a1"
+        }
+      ]
+    },
+    {
+      "id": "the-house-of-the-dead-2",
+      "version": "0.2.0",
+      "digest": "sha256:e513ca4fc316f909ce41ab22ce878ed977dd35be923eaf34c654f5519eeef378",
+      "runtime": "flycast",
+      "installer_validated": true,
+      "software": {
+        "provider": "flatpak",
+        "scope": "user",
+        "app_id": "org.flycast.Flycast",
+        "version": "v2.7",
+        "commit": "86ec4d845a66ff07cdba8e003d8549e93cd7a814b519766e1f744e530c5d3e5b"
+      },
+      "additional_software": [
+        {
+          "provider": "flatpak",
+          "scope": "user",
+          "app_id": "org.flycast.Flycast",
+          "version": "v2.7",
+          "commit": "0f8d2124d1c17696baec607c417d817f0331878c0e88f207c118b82c4dc7a9a1"
+        }
+      ]
+    },
+    {
+      "id": "the-house-of-the-dead-2",
+      "version": "0.1.2",
+      "digest": "sha256:ee75c953277283f8a9d38662b13900f3ea5a6a66ed14dc6e00cfd5db6700675a",
+      "runtime": "flycast",
+      "installer_validated": true,
+      "software": {
+        "provider": "flatpak",
+        "scope": "user",
+        "app_id": "org.flycast.Flycast",
+        "version": "v2.7",
+        "commit": "86ec4d845a66ff07cdba8e003d8549e93cd7a814b519766e1f744e530c5d3e5b"
+      },
+      "additional_software": []
+    },
+    {
+      "id": "the-house-of-the-dead-2",
+      "version": "0.1.3",
+      "digest": "sha256:2dcab2d2c2f99ddcfdcb67d589636459902139948d2562905cc3295cea94b641",
+      "runtime": "flycast",
+      "installer_validated": true,
+      "software": {
+        "provider": "flatpak",
+        "scope": "user",
+        "app_id": "org.flycast.Flycast",
+        "version": "v2.7",
+        "commit": "86ec4d845a66ff07cdba8e003d8549e93cd7a814b519766e1f744e530c5d3e5b"
+      },
+      "additional_software": []
+    }
+  ]
+}
