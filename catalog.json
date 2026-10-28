@@ -164,6 +164,24 @@
         }
       },
     {
+      "id": "quake-brutalist-jam-3",
+      "version": "0.1.0",
+      "name": "Quake Brutalist Jam III",
+      "description": "Monumental concrete worlds built for exploration - and relentless combat. Fight through 77 community-made maps with a new arsenal, an expanded monster roster and fresh powerups, played through the high-performance Ironwail 0.8.2 engine. Bring your own Quake id1/pak0.pak and pak1.pak. The QBJ3 1.3 mod is reused from your existing folder or downloaded separately after approval (2.7 GB; allow about 17 GiB free).",
+      "pillar": "boomer-shooters",
+      "runtime": "Ironwail 0.8.2",
+      "icon_url": "https://raw.githubusercontent.com/jacobm36/momentum-distribution/main/artwork/quake-brutalist-jam-3.png",
+      "url": "https://github.com/jacobm36/momentum-distribution/releases/download/quake-brutalist-jam-3-0.1.0/quake-brutalist-jam-3-0.1.0.zip",
+      "sha256": "c0e7e6f3b101728f92b4bf4175e5a99db9ffbe174401a32dd56b2c9140478b21",
+      "digest": "sha256:5f98b31c48bd929fb2eb21272015459ce535755411805d40927574430c28b433",
+      "size": 412884,
+      "platform": {
+        "os": "ubuntu",
+        "releases": ["24.04"],
+        "architectures": ["x86_64"]
+      }
+    },
+    {
       "id": "l-a-machineguns",
       "version": "0.2.3",
       "name": "L.A. Machineguns",

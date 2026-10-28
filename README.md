@@ -19,7 +19,7 @@ time:
 - **Boomer Shooters:** classic engines and modern mods, curated into a polished
   library. Classic engines. Modern mods. Less setup.
 
-Public package downloads for eleven owner-approved games.
+Public package downloads for twelve owner-approved games.
 The [Momentum launcher is public](https://github.com/jacobm36/momentum-core-launcher/releases).
 This repository publishes game installers, not launcher downloads.
 
@@ -38,6 +38,7 @@ This repository publishes game installers, not launcher downloads.
 | Boomer Shooters | [Brutal Doom 64](games/brutal-doom-64/README.md) | UZDoom | 0.3.0 | `DOOM2.WAD` |
 | Boomer Shooters | [Episode Enyo](games/quake-slave-zero-x/README.md) | vkQuake | 0.3.0 | Quake `id1/pak0.pak` and `id1/pak1.pak` |
 | Boomer Shooters | [Duke Nukem 3D](games/duke-nukem-3d/README.md) | Native EDuke32 | 0.2.0 | Registered original/Atomic `DUKE3D.GRP` |
+| Boomer Shooters | [Quake Brutalist Jam III](games/quake-brutalist-jam-3/README.md) | Ironwail 0.8.2 | 0.1.0 | Quake `id1/pak0.pak` and `id1/pak1.pak` |
 
 Catalog entries carry optional `pillar` and `runtime` fields that the current
 launcher uses to group the store and show runtime badges. Older launchers
@@ -90,6 +91,15 @@ Package checks and synthetic installer lifecycle/managed-engine tests passed;
 graphical gameplay and save/relaunch acceptance have not been reported for this
 revision. Its four mod files, artwork and load order are unchanged from 0.1.x.
 Readiness remains setup-required until the player confirms the game.
+
+Quake Brutalist Jam III 0.1.0 was republished with its exact original release
+bytes on the owner's approval on October 27, 2026. It was withdrawn on
+October 9 pending current-standard acceptance; package bytes, signed
+compatibility evidence and its source tag are unchanged. Real-mod installer
+lifecycle checks passed with synthetic base PAKs, and the owner's existing
+managed installation passed read-only verification. Graphical gameplay and
+save/relaunch acceptance have not been reported for this package. Readiness
+remains setup-required until the player confirms the game.
 
 ## Required launcher
 
@@ -154,9 +164,14 @@ There are no automatic engine updates, profile migrations or shared cleanup.
 Enyo reuses verified mod files/cache or offers a separately approved direct
 publisher download. No Enyo mod files or commercial base-game files are bundled.
 
+Quake Brutalist Jam III works with public launcher preview.1 or newer. It reuses
+the exact official Ironwail 0.8.2 build or prepares it after separate approval.
+QBJ3 1.3 assets are never bundled: reuse a complete extracted `qbj3` folder or
+approve the pinned 2.7 GB download separately (allow about 17 GiB free).
+
 ## Historical installers
 
-Only the ten entries above are current supported downloads. Obsolete pre-release
+Only the twelve entries above are current supported downloads. Obsolete pre-release
 assets and release pages, including old launcher downloads, were removed on
 October 25, 2026. Git commits and tags remain intact for traceability, not as
 supported installer replacements. Historical checksum files remain available

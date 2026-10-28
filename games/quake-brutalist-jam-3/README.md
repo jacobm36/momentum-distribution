@@ -1,8 +1,7 @@
 # Quake Brutalist Jam III
 
-Historical documentation only: this installer is withdrawn and not in the
-current catalog. Its obsolete release page/download was removed; Git history
-and the tag remain for traceability.
+Republished October 27, 2026 with the exact original 0.1.0 bytes after its
+October 9 withdrawal. Requires Momentum launcher public preview.1 or newer.
 
 Monumental concrete structures, a new arsenal and seventy-seven community maps.
 Installer **0.1.0**, Ubuntu 24.04 x86_64. Gameplay confirmation is required.
@@ -48,7 +47,8 @@ and clean exit. No engines were launched during installer validation.
 - SHA-256: `c0e7e6f3b101728f92b4bf4175e5a99db9ffbe174401a32dd56b2c9140478b21`.
 - Canonical package digest:
   `sha256:5f98b31c48bd929fb2eb21272015459ce535755411805d40927574430c28b433`.
-- [Historical tag](https://github.com/jacobm36/momentum-distribution/tree/quake-brutalist-jam-3-0.1.0).
+- [Release download](https://github.com/jacobm36/momentum-distribution/releases/tag/quake-brutalist-jam-3-0.1.0)
+  and [source tag](https://github.com/jacobm36/momentum-distribution/tree/quake-brutalist-jam-3-0.1.0).
 - [Credits and rights](LEGAL-NOTICES.md); complete retained notices in
   [upstream-notices](upstream-notices/).
 
